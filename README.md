@@ -2,9 +2,9 @@
 
 OEFW Community firmware based on iradio V1.34
 
-My Custom Color UI firmware.
+My Custom Color UI themes.
 
-![20231120_213020](https://github.com/M7OCM/890/assets/128899149/bb623ef9-c2a3-4bcc-af0f-2b3fa74343d2)
+![20231120_213749](https://github.com/M7OCM/890/assets/128899149/ba296745-b6a7-4e58-b317-d665bc005d29)
 
 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?!
 
