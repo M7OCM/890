@@ -24,3 +24,4 @@ Dual Tachyon OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire
 
 I just color by numbers hence the logo, 73
 
+![cherry-picker-logo (1)](https://github.com/M7OCM/890/assets/128899149/d83fc80b-ba08-449a-a82d-db18c159cd83)
