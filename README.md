@@ -15,15 +15,15 @@ Personally tested myself and appears to be (serious) error free lol Cherry picke
 
 Chirp Next compatible only with appropriate python module loaded (in zip). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. NB the border color is hardcoded so won't change if fettled with in Chirp.
 
-Five test firmwares currently available from personal stash. Totally reworked using a light and dark contrast theme in blue, green, grey, orange and white.
+Five test pre built binaries currently available from personal stash. Totally reworked using a light and dark contrast theme in blue, green, grey, orange and white. All zipped up for your convenience 😂
 
-Subtle enhancements through out, plus experimental placement/use of FM broadcast frequency in status bar, don't use VOX without clearing the screen memory (change theme or turn on/off). Scanning with FM standby on, actually works (wow) but... its a "bonus" feature as some radios produce a fair bit of RF noise while scanning. I have one 890 that works ok, the other prone to clicking and spluttering on FM radio while scanning.
+Subtle enhancements through out, plus experimental placement/use of FM broadcast frequency in status bar (cant stand that crap radio graphic). Don't use VOX without clearing the screen memory first (change theme or turn on/off). Scanning with FM standby on, actually works (wow) but... its a "bonus" feature as some radios produce a fair bit of RF noise while scanning. I have one 890 that works ok, the other prone to clicking and spluttering on FM radio while scanning.
 
 Cheap Chinese crap you say? Fun though 😀
 
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked to my preference), scan resume, skip, preset channels to name a few.
 
-The eagle eyed may note I've  reintroduced the top most status bar divider. This was always a feature of Radtel's 890 mock up display. Think the only reason they binned it was because the name font overlayed it - solution change font size. 
+The eagle eyed may note I've  reintroduced the top most status bar divider. This was always a feature of Radtel's 890 mock up display in ads. Think the only reason they binned it was because the name font overlayed it - solution change font size. 
 
 The real OEFW innovators:
 
