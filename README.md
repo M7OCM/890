@@ -3,6 +3,8 @@
 OEFW Community firmware based on iradio V1.34
 
 My Custom Color UI theme(s) 🥁
+![20231121_121318](https://github.com/M7OCM/890/assets/128899149/0249619d-e3e6-4543-96c9-f54d96bb967c)
+![20231121_121343](https://github.com/M7OCM/890/assets/128899149/29006199-e5f2-4c76-8cf6-b53e9980d914)
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
