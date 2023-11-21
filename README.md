@@ -27,6 +27,8 @@ The firmware is community based and features excellent improvements to the menu;
 
 The eagle eyed may note I've  reintroduced the top most status bar divider. This was always a feature of Radtel's 890 mock up display in ads. Think the only reason they binned it was because the name font overlayed it - solution change font size. 
 
+![20231121_094808](https://github.com/M7OCM/890/assets/128899149/b2d127e9-216c-4e19-9ff9-39db03ec8629)
+
 The real OEFW innovators:
 
 Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad and Xawen adding an unbelievably innovative menu using free flash space and features galore (bandscope in test phase). None of these available on stock. Many thanks to them and KS for the python driver #coolman
