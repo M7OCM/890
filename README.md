@@ -35,4 +35,7 @@ I just pick and color by numbers 😉
 
 73
 
+M7OCM
+
 ![cherry-picker-logo (1)](https://github.com/M7OCM/890/assets/128899149/d83fc80b-ba08-449a-a82d-db18c159cd83)
+Please use this logo lol
