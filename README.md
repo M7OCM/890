@@ -15,7 +15,7 @@ Personally tested myself and appears to be (serious) error free lol Cherry picke
 
 Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. NB the border color is hardcoded so won't change if fettled with in Chirp.
 
-One test pre built binary currently available from personal stash. Totally reworked using a light and dark contrast theme in blue. (I've also got green, grey, orange and white).
+One test pre built binary currently available from personal stash. Totally reworked using a light and dark contrast theme in blue. Also available in green, grey, orange and white, or any combo of RGB.
 
 Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar (can't stand that crap FM radio graphic).
 
