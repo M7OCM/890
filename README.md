@@ -17,7 +17,9 @@ Chirp Next compatible only with appropriate python module loaded (in zip). This 
 
 Five test pre built binaries currently available from personal stash. Totally reworked using a light and dark contrast theme in blue, green, grey, orange and white. All zipped up for your convenience 😂
 
-Subtle enhancements through out, plus experimental placement/use of FM broadcast frequency in status bar (cant stand that crap radio graphic). Don't use VOX without clearing the screen memory first (change theme or turn on/off). Scanning with FM standby on, actually works (wow) but... its a "bonus" feature as some radios produce a fair bit of RF noise while scanning. I have one 890 that works ok, the other prone to clicking and spluttering on FM radio while scanning.
+Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar (can't stand that crap FM radio graphic). Don't use VOX without clearing the screen memory first as the FM freq persists in status bar, (change theme or reboot radio).
+
+Scanning with FM standby on, actually works (wow) but... its a lucky "bonus" feature as some radios produce a fair bit of RF noise while scanning. I have one 890 that works perfectly ok, the other prone to clicking and spluttering on FM radio while scanning certain ranges.
 
 Cheap Chinese crap you say? Fun though 😀
 
@@ -27,7 +29,7 @@ The eagle eyed may note I've  reintroduced the top most status bar divider. This
 
 The real OEFW innovators:
 
-Dual Tachyon OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad and Xawen adding an unbelievably innovative menu using free flash space and features galore. None of these available on stock. Many thanks to them and KS for the python driver #coolman
+Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad and Xawen adding an unbelievably innovative menu using free flash space and features galore (bandscope in test phase). None of these available on stock. Many thanks to them and KS for the python driver #coolman
 
 I just pick and color by numbers 😉
 
