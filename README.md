@@ -2,10 +2,7 @@
 
 OEFW Community firmware based on iradio V1.34
 
-My Custom Color UI themes 🥁
-
-![20231120_154659](https://github.com/M7OCM/890/assets/128899149/7486d28e-a126-4782-ae88-fd08596f1c94)
-
+My Custom Color UI theme(s) 🥁
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
@@ -13,13 +10,11 @@ Use at own risk, no guarantee anything will work correctly or as intended. Provi
 
 Personally tested myself and appears to be (serious) error free lol Cherry picked features, a few changes by me and completely new take on the color scheme.
 
-Chirp Next compatible only with appropriate python module loaded (in zip). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. NB the border color is hardcoded so won't change if fettled with in Chirp.
+Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. NB the border color is hardcoded so won't change if fettled with in Chirp.
 
-Five test pre built binaries currently available from personal stash. Totally reworked using a light and dark contrast theme in blue, green, grey, orange and white. All zipped up for your convenience 😂
+One test pre built binary currently available from personal stash. Totally reworked using a light and dark contrast theme in blue. (I've also got green, grey, orange and white).
 
-Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar (can't stand that crap FM radio graphic). Don't use VOX without clearing the screen memory first as the FM freq persists in status bar, (change theme or reboot radio).
-
-Scanning with FM standby on, actually works (wow) but... its a lucky "bonus" feature as some radios produce a fair bit of RF noise while scanning. I have one 890 that works perfectly ok, the other prone to clicking and spluttering on FM radio while scanning certain ranges.
+Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar (can't stand that crap FM radio graphic).
 
 Cheap Chinese crap you say? Fun though 😀
 
