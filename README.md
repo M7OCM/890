@@ -4,9 +4,6 @@ OEFW Community firmware based on iradio V1.34
 
 My Custom Color UI theme(s) 🥁
 
-![20231121_140433](https://github.com/M7OCM/890/assets/128899149/49342098-560d-46d2-839d-72ea59f8fda9)
-
-
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
 Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate, get ideas, could ruin your day, kill your radio etc, etc ☠
@@ -36,6 +33,3 @@ I just pick and color by numbers 😉
 73
 
 M7OCM
-
-![cherry-picker-logo (1)](https://github.com/M7OCM/890/assets/128899149/d83fc80b-ba08-449a-a82d-db18c159cd83)
-Please use this logo lol
