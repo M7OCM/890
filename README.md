@@ -4,8 +4,7 @@ OEFW Community firmware based on iradio V1.34
 
 My Custom Color UI theme(s) 🥁
 
-![20231122_120313](https://github.com/M7OCM/890/assets/128899149/96fedf81-6247-4146-b18e-ba8971129e6b)
-
+https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
