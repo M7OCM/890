@@ -32,7 +32,7 @@ The real OEFW innovators:
 
 Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad and Xawen adding an unbelievably innovative menu using free flash space and features galore (bandscope in test phase). None of these available on stock. Many thanks to them and KS for the python driver #coolman
 
-I just pick and color by numbers 😉
+I just pick, move and color by numbers 😉
 
 73
 
