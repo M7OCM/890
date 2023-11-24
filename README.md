@@ -6,7 +6,8 @@ My Custom Color UI theme(s) 🥁
 
 ![20231124_115646](https://github.com/M7OCM/890/assets/128899149/4f4637d8-e461-43a2-a43a-a5a018d9c729)
 
-https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
+
+v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
