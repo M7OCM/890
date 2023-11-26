@@ -8,16 +8,22 @@ v1.3 coming soon
 
 OEFW Community (OEFWC) firmware based on iradio v1.34
 
+![20231126_230239](https://github.com/M7OCM/890/assets/128899149/21036ad4-8446-49e8-bc8d-c41242c588bb)
+
 My Custom Color UI theme(s) 🥁
 
 v1.2+ bin files in this repo.
 v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
+
+![20231126_230313](https://github.com/M7OCM/890/assets/128899149/790bcc9e-add6-4117-8d07-bb4fb7a3377a)
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
 Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠
 
 Personally tested myself and appears to be error free. A fair few changes by me and completely new take on the color scheme and display layout.
+
+![20231126_230632](https://github.com/M7OCM/890/assets/128899149/0d17742e-42ad-467b-aed3-301cb9f794ac)
 
 Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. Note, the border color is hardcoded so won't change if fettled with in Chirp.
 
