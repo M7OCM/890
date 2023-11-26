@@ -1,6 +1,9 @@
 # 890
 
 v1.2 bin file updated 26112023
+v1.3 coming soon
+
+![20231126_173838](https://github.com/M7OCM/890/assets/128899149/952bffff-5a83-447c-9232-e852a874d704)
 
 OEFW Community firmware based on iradio V1.34
 
