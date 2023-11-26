@@ -2,9 +2,8 @@
 
 v1.2 bin file updated 26112023
 
-v1.3 coming soon
-
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
+v1.3 coming soon
 
 OEFW Community (OEFWC) firmware based on iradio v1.34
 
@@ -32,6 +31,8 @@ One test pre built binary currently available from personal stash. Totally rewor
 Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar. Numerous cosmetic improvements.
 
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked to my preference), scan resume, skip, preset channels to name a few.
+
+![20231126_231456](https://github.com/M7OCM/890/assets/128899149/ae3bcdb4-5b78-451e-86be-a2f420051210)
 
 I've  reintroduced the top most status bar divider. This was always (still is) a feature of Radtel's 890 mock up display in ads. Think the only reason they binned it was because the name font overlaid it - solution change font size. 
 
