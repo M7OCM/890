@@ -28,6 +28,8 @@ Chirp Next compatible only with appropriate python module loaded (see code files
 
 One test pre built binary currently available from personal stash. Totally reworked using a light and dark contrast theme in green. Also available in blue, grey, orange and white, or any combo of RGB.
 
+![20231126_232206](https://github.com/M7OCM/890/assets/128899149/8c7dbf6e-d36a-4cf9-b20f-15b79ac636b0)
+
 Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar. Numerous cosmetic improvements.
 
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked to my preference), scan resume, skip, preset channels to name a few.
