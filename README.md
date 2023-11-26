@@ -3,13 +3,11 @@
 v1.2 bin file updated 26112023
 v1.3 coming soon
 
-![20231126_173838](https://github.com/M7OCM/890/assets/128899149/952bffff-5a83-447c-9232-e852a874d704)
+![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
 
 OEFW Community firmware based on iradio V1.34
 
 My Custom Color UI theme(s) 🥁
-
-![20231124_161822](https://github.com/M7OCM/890/assets/128899149/0d7cf7dc-2b4a-4969-93eb-c1be59c66b3d)
 
 v1.2+ bin files in this repo.
 v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
