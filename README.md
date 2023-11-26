@@ -6,7 +6,7 @@ v1.3 coming soon
 
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
 
-OEFW Community firmware based on iradio V1.34
+OEFW Community (OEFWC) firmware based on iradio v1.34
 
 My Custom Color UI theme(s) 🥁
 
@@ -23,15 +23,15 @@ Chirp Next compatible only with appropriate python module loaded (see code files
 
 One test pre built binary currently available from personal stash. Totally reworked using a light and dark contrast theme in green. Also available in blue, grey, orange and white, or any combo of RGB.
 
-Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar.
+Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar. Numerous cosmetic improvements.
 
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked to my preference), scan resume, skip, preset channels to name a few.
 
-I've  reintroduced the top most status bar divider. This was always a feature of Radtel's 890 mock up display in ads. Think the only reason they binned it was because the name font overlayed it - solution change font size. 
+I've  reintroduced the top most status bar divider. This was always (still is) a feature of Radtel's 890 mock up display in ads. Think the only reason they binned it was because the name font overlaid it - solution change font size. 
 
 ![20231121_094808](https://github.com/M7OCM/890/assets/128899149/b2d127e9-216c-4e19-9ff9-39db03ec8629)
 
-The real OEFW innovators:
+The real OEFWC innovators:
 
 Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad and Xawen adding an unbelievably innovative menu using free flash space and features galore (bandscope in test phase). None of these available on stock. Many thanks to them and KS for the python driver #coolman
 
