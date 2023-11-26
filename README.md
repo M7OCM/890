@@ -1,6 +1,7 @@
 # 890
 
 v1.2 bin file updated 26112023
+
 v1.3 coming soon
 
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
