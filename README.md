@@ -1,5 +1,7 @@
 # 890
 
+v1.2 bin file will be uploaded 26 Nov 2023
+
 OEFW Community firmware based on iradio V1.34
 
 My Custom Color UI theme(s) 🥁
