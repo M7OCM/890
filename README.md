@@ -1,6 +1,6 @@
 # 890
 
-v1.2 bin file will be uploaded 26 Nov 2023
+v1.2 bin file updated 26112023
 
 OEFW Community firmware based on iradio V1.34
 
