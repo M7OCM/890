@@ -36,7 +36,7 @@ The firmware is community based and features excellent improvements to the menu;
 
 ![20231126_231456](https://github.com/M7OCM/890/assets/128899149/ae3bcdb4-5b78-451e-86be-a2f420051210)
 
-I've  reintroduced the top most status bar divider. This was always (still is) a feature of Radtel's 890 mock up display in ads. Think the only reason they binned it was because the name font overlaid it - solution change font size. 
+I've  reintroduced the top most status bar divider. This was always (still is) a feature of Radtel's 890 mock up/test display in ads.
 
 ![20231121_094808](https://github.com/M7OCM/890/assets/128899149/b2d127e9-216c-4e19-9ff9-39db03ec8629)
 
