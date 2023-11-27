@@ -1,6 +1,6 @@
 # 890
 
-LATEST v1.3 bin file updated 27112023
+LATEST v1.3 bin file updated 27112023(b) minor update
 
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
 
