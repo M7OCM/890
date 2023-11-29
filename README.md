@@ -1,6 +1,10 @@
 # 890
 
-LATEST v1.3 bin file updated 27112023(b) minor update
+Latest v1.4 bin file updated 2911202 Please read for overiew: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
+
+[Note spectrum will be added at a later date]
+
+v1.3 bin file updated 27112023(b) minor update
 
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
 
@@ -25,7 +29,7 @@ Personally tested myself and appears to be error free. A fair few changes by me 
 
 Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. Note, the border color is hardcoded so won't change if fettled with in Chirp.
 
-One test pre built binary currently available from personal stash. Totally reworked using a light and dark contrast theme in green. Also available in blue, grey, orange and white, or any combo of RGB.
+Two test pre built binaries currently available from personal stash. Totally reworked using a light and dark contrast theme (green and blue versions). Also available in grey, orange and white, or any combo of RGB.
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/8c7dbf6e-d36a-4cf9-b20f-15b79ac636b0)
 
@@ -41,7 +45,7 @@ I've  reintroduced the top most status bar divider. This was always (still is) a
 
 The real OEFWC innovators:
 
-Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad and Xawen adding an unbelievably innovative menu using free flash space and features galore (bandscope in test phase). None of these available on stock. Many thanks to them and KS for the python driver #coolman
+Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad (legend helper) and Xawen adding an unbelievably innovative menu using free flash space and features galore like scan lists and spectrum. Many thanks to them.
 
 73
 
