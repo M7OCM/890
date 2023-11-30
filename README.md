@@ -2,6 +2,10 @@
 
 Latest v1.5 bin file updated 3011202, SPECTRUM added. Please read for overiew: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
+When the spectrum layout has been completed the source files will be uploaded here. I haven't started on that, so the v1.5 spectrum is current just a matching theme. Expect changes v1.6+
+
+Note v1.4 has no spectrum and missing some cosmetic changes.
+
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
 
 OEFW Community (OEFWC) firmware based on iradio v1.34
