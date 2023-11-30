@@ -1,10 +1,6 @@
 # 890
 
-Latest v1.4 bin file updated 2911202 Please read for overiew: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
-
-[Note spectrum will be added at a later date]
-
-v1.3 bin file updated 27112023(b) minor update
+Latest v1.5 bin file updated 3011202, SPECTRUM added. Please read for overiew: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
 
