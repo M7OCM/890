@@ -1,6 +1,6 @@
 # 890
 
-Latest v1.5 bin file updated 3011202, SPECTRUM added. Please read for overiew: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
+Latest v1.5 bin files updated 3011202, 01122023, SPECTRUM added. Please read for overiew: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
 When the spectrum layout has been completed the source files will be uploaded here. I haven't started on that, so the v1.5 spectrum is current just a matching theme. Expect changes v1.6+
 
@@ -29,7 +29,7 @@ Personally tested myself and appears to be error free. A fair few changes by me 
 
 Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. Note, the border color is hardcoded so won't change if fettled with in Chirp.
 
-Two test pre built binaries currently available from personal stash. Totally reworked using a light and dark contrast theme (green and blue versions). Also available in grey, orange and white, or any combo of RGB.
+Four test pre built binaries currently available from personal stash. Totally reworked using a light and dark contrast theme (green and blue versions, orange and white).
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/8c7dbf6e-d36a-4cf9-b20f-15b79ac636b0)
 
