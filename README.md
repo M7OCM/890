@@ -4,7 +4,7 @@ Latest v1.5 bin files updated 3011202, 01122023, SPECTRUM added. Please read for
 
 When the spectrum layout has been completed the source files will be uploaded here. I haven't started on that, so the v1.5 spectrum is current just a matching theme. Expect changes v1.6+
 
-Note v1.4 has no spectrum and missing some cosmetic changes.
+Note v1.4 has no spectrum and missing some cosmetic changes.Pics to be updated...
 
 ![20231126_224814](https://github.com/M7OCM/890/assets/128899149/9877d4cf-e7ba-4d2f-acb5-13a6b8aaf0be)
 
