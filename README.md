@@ -6,6 +6,8 @@ OEFW Community (OEFWC) firmware based on iradio v1.34
 
 My Custom Color UI theme(s) 🥁
 
+*** awaiting v1.6 pics ***
+
 v1.2+ bin files in this repo.
 v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
 
