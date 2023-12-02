@@ -1,6 +1,6 @@
 # 890
 
-Latest v1.6 bin files updated 01122023, SPECTRUM added. Please read for overiew: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
+Latest v1.6 bin files updated 01122023, SPECTRUM added. Please read: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
 OEFW Community (OEFWC) firmware based on iradio v1.34
 
