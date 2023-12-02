@@ -19,9 +19,11 @@ Chirp Next compatible only with appropriate python module loaded (see code files
 
 Pre built binaries currently available from personal comps. Totally, (well, a lot) has been reworked using a light and dark contrast theme, choose blue, green, grey, orange or white/black.
 
-Subtle enhancements, plus experimental placement/use of FM broadcast frequency in status bar. Numerous cosmetic improvements.
+Experimental placement/use of FM broadcast frequency in status bar. Numerous cosmetic improvements.
 
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, scan lists to name a few.
+
+https://github.com/OEFW-community/RT-890-custom-firmware
 
 I've  reintroduced the top most status bar divider. This was always (still is) a feature of Radtel's 890 mock up/test layout in ads.
 
