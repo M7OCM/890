@@ -14,13 +14,13 @@ v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
-Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠
+Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI.
 
-Personally tested myself and appears to be error free, spectrum not fully tested. A fair few changes by me and completely new take on the color scheme and display layout.
+Personally tested myself and appears to be error free, spectrum not fully tested as still in development. A fair few changes by me and completely new take on the color scheme and display layout.
 
 Note, the name tag font is upper case only and limited in special characters.
 
-Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB to be saved plus proper 8.33kHz channels. This is not possible in CPS or regular Chirp Next. Note, the border color is hardcoded so won't change if fettled with in Chirp.
+Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step just yet). Note, the border color is hardcoded so won't change if fettled with in Chirp.
 
 Pre built binaries currently available from personal comps. Totally, (well, a lot) has been reworked using a light and dark contrast theme, choose blue, green, grey, orange or white/black.
 
