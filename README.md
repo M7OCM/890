@@ -23,6 +23,8 @@ Use at own risk, no guarantee anything will work correctly or as intended. Provi
 
 Personally tested myself and appears to be error free, spectrum not fully tested as still in development. A fair few changes by me and completely new take on the color scheme and display layout.
 
+![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
+
 Note, the name tag font is upper case only and limited in special characters.
 
 Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step just yet). Note, the border color is hardcoded so won't change if fettled with in Chirp.
