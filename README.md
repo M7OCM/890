@@ -3,7 +3,9 @@ Coming soon...
 
 ![20231205_214901](https://github.com/M7OCM/890/assets/128899149/cda95459-ab8a-4f45-b1cb-438b22cca8ac)
 
-Latest v1.6 bin files updated 04122023, SPECTRUM added. Please read: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
+Latest v1.6 bin files updated 04122023, SPECTRUM added. 
+
+Please read: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
 OEFW Community (OEFWC) firmware based on iradio v1.34
 
