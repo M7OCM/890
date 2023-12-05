@@ -21,7 +21,7 @@ v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid
 
 Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI.
 
-Personally tested myself and appears to be error free, spectrum not fully tested as still in development. A fair few changes by me and completely new take on the color scheme and display layout.
+Personally tested myself and appears to be error free, spectrum fully tested anf functional though it is still in early stages of development. A fair few changes by me and new take on the color scheme and display layout.
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
