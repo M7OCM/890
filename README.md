@@ -1,5 +1,5 @@
 # 890
-Coming 06122023 pre release v1.7b
+06122023 pre release v1.7b, known FM Broadcast bug. Reboot radio after using spectrum to reset registers.  
 
 Latest v1.6 bin files updated 04122023, SPECTRUM added. 
 
