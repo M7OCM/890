@@ -1,7 +1,7 @@
 # 890
-Coming soon...
+Coming 06122023 pre release v1.7b
 
-![20231205_214901](https://github.com/M7OCM/890/assets/128899149/cda95459-ab8a-4f45-b1cb-438b22cca8ac)
+![20231206_100314](https://github.com/M7OCM/890/assets/128899149/a24a67b1-425f-45ba-8c1d-75d5286160a9)
 
 Latest v1.6 bin files updated 04122023, SPECTRUM added. 
 
