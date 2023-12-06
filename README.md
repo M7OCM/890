@@ -3,6 +3,8 @@
 
 06122023 pre release v1.7b, known FM Broadcast bug. Reboot radio after using spectrum to reset registers.
 
+![20231206_131500](https://github.com/M7OCM/890/assets/128899149/4bddbbb6-826c-424c-9d3b-782a3fefd804)
+
 Latest v1.6 bin files updated 04122023, SPECTRUM added. 
 
 Please read: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
