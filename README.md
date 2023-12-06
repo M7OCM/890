@@ -1,5 +1,7 @@
 # 890
-06122023 pre release v1.7b, known FM Broadcast bug. Reboot radio after using spectrum to reset registers.  
+![20231206_131610](https://github.com/M7OCM/890/assets/128899149/e4297e5f-7a76-4d51-bcc8-3612884c2b98)
+
+06122023 pre release v1.7b, known FM Broadcast bug. Reboot radio after using spectrum to reset registers.
 
 Latest v1.6 bin files updated 04122023, SPECTRUM added. 
 
