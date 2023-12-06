@@ -1,8 +1,6 @@
 # 890
 Coming 06122023 pre release v1.7b
 
-![20231206_100314](https://github.com/M7OCM/890/assets/128899149/a24a67b1-425f-45ba-8c1d-75d5286160a9)
-
 Latest v1.6 bin files updated 04122023, SPECTRUM added. 
 
 Please read: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
