@@ -1,7 +1,8 @@
 # 890
 ![20231206_131610](https://github.com/M7OCM/890/assets/128899149/e4297e5f-7a76-4d51-bcc8-3612884c2b98)
 
-06122023 pre release v1.7b. Reboot radio (or open monitor) after using spectrum to reset registers before using FM broadcast radio.
+06122023 pre release v1.7b. Reboot radio (or open monitor) after using spectrum to reset registers before using FM broadcast radio (it can stall at times).
+
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
 ![20231206_131500](https://github.com/M7OCM/890/assets/128899149/4bddbbb6-826c-424c-9d3b-782a3fefd804)
