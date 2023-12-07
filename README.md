@@ -1,6 +1,5 @@
 # 890
-
-.......
+![20231207_215408](https://github.com/M7OCM/890/assets/128899149/711fb8dd-89ea-43d1-bf64-1af45fca3d1b)
 
 v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
 
@@ -8,9 +7,7 @@ Reboot radio (or open monitor) after using spectrum to reset registers before us
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
-.......
-
-Latest v1.6 bin files updated 04122023, initial commit spectrum (Xawen) added. 
+![20231207_215538](https://github.com/M7OCM/890/assets/128899149/a35c4a4f-4139-4193-b0d9-284de1c573d4)
 
 Please read: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
