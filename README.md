@@ -42,7 +42,9 @@ I've  reintroduced the top most status bar divider. This was always (still is) a
 
 The real OEFWC innovators:
 
-Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad (legend helper) and Xawen adding an unbelievably innovative menu using free flash space and features galore like scan lists and spectrum. Special mention to Superogira for the amazing colour spectrum mods. Many thanks to them.
+Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad (legend helper) and Xawen adding an unbelievably innovative menu using free flash space and features galore like scan lists and spectrum. Special mention to Superogira for the amazing colour spectrum mods.
+
+Many thanks to them.
 
 73
 
