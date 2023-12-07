@@ -1,6 +1,6 @@
 # 890
 
-![20231207_215028](https://github.com/M7OCM/890/assets/128899149/976c4c4d-0ede-4b37-a22a-52068995df5f)
+.......
 
 v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
 
@@ -8,7 +8,7 @@ Reboot radio (or open monitor) after using spectrum to reset registers before us
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
-![20231206_131500](https://github.com/M7OCM/890/assets/128899149/4bddbbb6-826c-424c-9d3b-782a3fefd804)
+.......
 
 Latest v1.6 bin files updated 04122023, initial commit spectrum (Xawen) added. 
 
