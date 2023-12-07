@@ -1,6 +1,6 @@
 # 890
 
-Awaiting pics...
+![20231207_215028](https://github.com/M7OCM/890/assets/128899149/976c4c4d-0ede-4b37-a22a-52068995df5f)
 
 v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
 
