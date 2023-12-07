@@ -1,7 +1,10 @@
 # 890
-![20231206_131610](https://github.com/M7OCM/890/assets/128899149/e4297e5f-7a76-4d51-bcc8-3612884c2b98)
 
-06122023 pre release v1.7b. Reboot radio (or open monitor) after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
+Awaiting pics...
+
+v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
+
+Reboot radio (or open monitor) after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
