@@ -3,6 +3,10 @@
 
 v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
 
+v1.8.5 high contrast themes (black/orange and black/green), spectrum cosmetics.
+
+![20231209_171937](https://github.com/M7OCM/890/assets/128899149/91e02a14-3d95-4595-a1ed-f3dcedff893d)
+
 Reboot radio (or open monitor) after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
