@@ -1,11 +1,13 @@
 # 890
 ![20231207_215408](https://github.com/M7OCM/890/assets/128899149/711fb8dd-89ea-43d1-bf64-1af45fca3d1b)
 
-v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
+v1.9 status bar updated, removed DW, VOX icons, updated RR/TR text. DSB = Dual StandBy; VOX = VOX, RPT = RR/=, TLK = TR/-
 
 v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmetics.
 
-v1.8+ source files available soon.
+v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
+
+v1.8+ source files available soon, still working on stuff.
 
 ![20231209_171937](https://github.com/M7OCM/890/assets/128899149/91e02a14-3d95-4595-a1ed-f3dcedff893d)
 
