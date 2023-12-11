@@ -15,7 +15,7 @@ v1.8+ source files available soon, still working on stuff.
 
 Reboot radio (or open monitor) after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
 
-Please note the bin files are 2 color only, not multiple colors that can be switched within the radio menu. These are for demo purposes. Schemes can be readily changed in ui/gfx.c (zi have made notes in file).
+Please note the bin files are 2 color only, not multiple colors that can be switched within the radio menu. These are for demo purposes. Schemes can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
