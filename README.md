@@ -6,8 +6,8 @@ iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed furt
 2.0.0 Official release 13122023 two bins: black/green; black/orange.
 
 ![20231213_164050](https://github.com/M7OCM/890/assets/128899149/74cf0357-34b5-433f-a620-4f2a853c2a49)
-![20231213_164032]
 
+![20231213_164032]
 (https://github.com/M7OCM/890/assets/128899149/e51ccdd5-e067-4da9-b251-a7c8deb84834)
 
 ![20231207_215408](https://github.com/M7OCM/890/assets/128899149/711fb8dd-89ea-43d1-bf64-1af45fca3d1b)
