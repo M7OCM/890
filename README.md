@@ -23,7 +23,8 @@ Please note the bin files are 2 color only, not multiple colors that can be swit
 
 ![20231207_215538](https://github.com/M7OCM/890/assets/128899149/a35c4a4f-4139-4193-b0d9-284de1c573d4)
 
-The base source: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
+v1.0+ bin files in this repo https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive
+v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
 
 ![20231202_141014](https://github.com/M7OCM/890/assets/128899149/1406cd9d-eb8a-4bb2-b483-9571b9a5df4e)
 
@@ -34,15 +35,13 @@ v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid
 
 Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI.
 
-Personally tested myself and error free (hopefully). Spectrum tested and functional. A fair few changes by me and new take on the color themes and display layout.
-
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
 Note, the name tag font is upper case only and limited in special characters.
 
 Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step just yet). Note, the border color is hardcoded so won't change if fettled with in Chirp.
 
-This project started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. The pre built binaries available can be shared and exploited! The source hopefully may inspire users to have a go and try something new. I decided to concentrate on light and dark contrast themes rather than continue with stock. All versions are updated with OEFW changes but not all are implemented (trying different ideas). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency in status bar.
+This project started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. The pre built binaries available can be shared and exploited! The source hopefully may inspire users to have a go and try something new. I decided to concentrate on light and dark contrast themes rather than continue with stock. All versions are updated with OEFW changes but not all are implemented (ie no spectrum presets, includes cosmetic and layout differences). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency in status bar.
 
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, scan lists to name a few.
 
