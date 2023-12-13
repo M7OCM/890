@@ -33,8 +33,6 @@ Please note the bin files herein are 2 color themes only, not multiple color ver
 
 v1.0+ bin files in this repo https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive
 
-v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
-
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
 Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI.
