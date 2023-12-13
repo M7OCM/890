@@ -28,18 +28,16 @@ The base source: https://github.com/OEFW-community/RT-890-custom-firmware/blob/m
 
 OEFW Community (OEFWC) firmware based on iradio v1.34
 
-My Custom Color UI theme(s) 🥁
-
 ![20231202_141014](https://github.com/M7OCM/890/assets/128899149/1406cd9d-eb8a-4bb2-b483-9571b9a5df4e)
 
-v1.2+ bin files in this repo.
+v1.0+ bin files in this repo https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive
 v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
 Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI.
 
-Personally tested myself and appears error free, spectrum fully tested and functional though it is still in early stages of development. A fair few changes by me and new take on the color themes and display layout.
+Personally tested myself and error free (hopefully). Spectrum tested and functional. A fair few changes by me and new take on the color themes and display layout.
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
