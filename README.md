@@ -41,11 +41,13 @@ Use at own risk, no guarantee anything will work correctly or as intended. Provi
 
 Note, the name tag font is upper case only and limited in special characters.
 
-Chirp Next compatible only with appropriate python module loaded (see code files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step just yet). Note, the border color is hardcoded so won't change if fettled with in Chirp.
+Chirp Next compatible only with Reppads python module loaded (see code files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step). Note, the border color is hardcoded so won't change if fettled with in Chirp.
 
 This project started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. The pre built binaries available can be shared and exploited! The source hopefully may inspire users to have a go and try something new. I decided to concentrate on light and dark contrast themes rather than continue with stock.
 
 All versions are updated with OEFWCOM changes but not all are implemented (ie no spectrum presets, includes cosmetic and layout differences). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency play in status bar.
+
+v2.0.0 will only be updated to fix bugs as I see this project as a finshed example of the best features currently developed to date. I hope to start working on a new design in 2024.
 
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, 8 scan lists to name a few.
 
