@@ -29,9 +29,6 @@ Please note the bin files are 2 color only, not multiple colors that can be swit
 
 ![20231207_215538](https://github.com/M7OCM/890/assets/128899149/a35c4a4f-4139-4193-b0d9-284de1c573d4)
 
-v1.0+ bin files in this repo https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive
-v1.1 source: https://github.com/OEFW-community/RT-890-custom-firmware/tree/olaid-custom
-
 ![20231202_141014](https://github.com/M7OCM/890/assets/128899149/1406cd9d-eb8a-4bb2-b483-9571b9a5df4e)
 
 v1.0+ bin files in this repo https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive
