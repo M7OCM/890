@@ -17,6 +17,8 @@ v1.9 status bar updated, removed DW, VOX icons, updated RR/TR text. DSB = Dual S
 
 v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmetics.
 
+![20231207_215408](https://github.com/M7OCM/890/assets/128899149/a0231b84-7295-4c95-a65f-3602a05e64b9)
+
 v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
 
 Open monitor after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
@@ -45,9 +47,9 @@ Chirp Next compatible only with appropriate python module loaded (see code files
 
 This project started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. The pre built binaries available can be shared and exploited! The source hopefully may inspire users to have a go and try something new. I decided to concentrate on light and dark contrast themes rather than continue with stock.
 
-All versions are updated with OEFW changes but not all are implemented (ie no spectrum presets, includes cosmetic and layout differences). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency in status bar.
+All versions are updated with OEFWCOM changes but not all are implemented (ie no spectrum presets, includes cosmetic and layout differences). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency play in status bar.
 
-The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, scan lists to name a few.
+The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, 8 scan lists to name a few.
 
 https://github.com/OEFW-community/RT-890-custom-firmware
 
