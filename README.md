@@ -21,7 +21,7 @@ v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spect
 
 Open monitor after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
 
-Please note the bin files are 2 color only, not multiple colors that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
+Please note the bin files herein are 2 color themes only, not multiple color versions that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
