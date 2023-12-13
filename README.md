@@ -1,6 +1,7 @@
-# 890
+# OEFW Community (OEFWC) firmware based on iradio v1.34
+The base source: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
-2.0.0 Official release 13122023
+2.0.0 Official release 13122023 two bins: black/green; black/orange
 
 ![20231207_215408](https://github.com/M7OCM/890/assets/128899149/711fb8dd-89ea-43d1-bf64-1af45fca3d1b)
 
@@ -12,21 +13,17 @@ v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmeti
 
 v1.8 released 07122023 featuring Superogira's fantastic color mods for the Spectrum. Key #5 to switch color modes.
 
-v1.8+ source files available soon, still working on stuff.
-
 ![20231209_171937](https://github.com/M7OCM/890/assets/128899149/91e02a14-3d95-4595-a1ed-f3dcedff893d)
 
-Reboot radio (or open monitor) after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
+Open monitor after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
 
-Please note the bin files are 2 color only, not multiple colors that can be switched within the radio menu. These are for demo purposes. Schemes can be readily changed in ui/gfx.c (info in file).
+Please note the bin files are 2 color only, not multiple colors that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
 ![20231207_215538](https://github.com/M7OCM/890/assets/128899149/a35c4a4f-4139-4193-b0d9-284de1c573d4)
 
 The base source: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
-
-OEFW Community (OEFWC) firmware based on iradio v1.34
 
 ![20231202_141014](https://github.com/M7OCM/890/assets/128899149/1406cd9d-eb8a-4bb2-b483-9571b9a5df4e)
 
