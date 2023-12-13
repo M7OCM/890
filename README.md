@@ -1,7 +1,7 @@
-# OEFW Community (OEFWC) custom firmware for Radtel RT-890/Ruyage UV58Plus
+# OEFW Community (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus
 The base source: https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md
 
-iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed further by OEFWC during 2023.
+iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed further by OEFWCOM during late 2023.
 
 2.0.0 Official release 13122023 two bins: black/green; black/orange.
 
@@ -64,3 +64,5 @@ Many thanks to them.
 73
 
 M7OCM
+
+Supporting Open Edition Firmware
