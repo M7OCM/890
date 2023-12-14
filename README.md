@@ -49,11 +49,11 @@ All versions are updated with OEFWCOM changes but not all are implemented (ie no
 
 v2.0.0 will only be updated to fix bugs as I see this project as a finshed example of the best features currently developed to date. I hope to start working on a new design in 2024.
 
-The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, 8 scan lists to name a few.
+The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
 
 https://github.com/OEFW-community/RT-890-custom-firmware
 
-The real OEFWC innovators:
+The OEFW/OEFWCOM innovators:
 
 Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad (legend helper) and Xawen adding an unbelievably innovative menu using free flash space and features galore like scan lists and spectrum. Special mention to Superogira for the amazing colour spectrum mods.
 
@@ -63,4 +63,6 @@ Many thanks to them.
 
 M7OCM
 
-Supporting Open Edition Firmware
+Supporting Open Edition Firmware 💯
+
+🔚
