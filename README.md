@@ -35,7 +35,7 @@ v1.0+ bin files in this repo https://github.com/M7OCM/890/tree/oefwc-m7ocm-archi
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
-Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI.
+Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI with OEFW Flasher tool.
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
@@ -52,8 +52,6 @@ v2.0.0 will only be updated to fix bugs as I see this project as a finshed examp
 The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, 8 scan lists to name a few.
 
 https://github.com/OEFW-community/RT-890-custom-firmware
-
-I've  reintroduced the top most status bar divider. This was always (still is) a feature of Radtel's 890 mock up/test layout in ads.
 
 The real OEFWC innovators:
 
