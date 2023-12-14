@@ -45,7 +45,7 @@ Chirp Next compatible only with Reppads python module loaded (see code files). T
 
 This project started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. The pre built binaries available can be shared and exploited! The source hopefully may inspire users to have a go and try something new. I decided to concentrate on light and dark contrast themes rather than continue with stock.
 
-All versions are updated with OEFWCOM changes but not all are implemented (ie no spectrum presets, includes cosmetic and layout differences). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency play in status bar.
+All versions are updated with OEFWCOM changes but not all are implemented (ie no spectrum band presets; includes cosmetic and layout differences). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency play in status bar.
 
 v2.0.0 will only be updated to fix bugs as I see this project as a finshed example of the best features currently developed to date. I hope to start working on a new design in 2024.
 
