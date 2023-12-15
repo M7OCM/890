@@ -63,6 +63,4 @@ Many thanks to them.
 
 M7OCM
 
-Supporting Open Edition Firmware 💯
-
-🔚
+Supporting Open Edition Firmware 🔚
