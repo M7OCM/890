@@ -4,6 +4,7 @@ The base source: https://github.com/OEFW-community/RT-890-custom-firmware/blob/m
 iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed further by OEFWCOM during late 2023.
 
 2.0.1 bug fixes 18122023 two bins: black/green; black/orange.
+
 2.0.0 Official release 13122023 two bins: black/green; black/orange.
 
 ![20231213_164050](https://github.com/M7OCM/890/assets/128899149/74cf0357-34b5-433f-a620-4f2a853c2a49)
