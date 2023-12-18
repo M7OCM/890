@@ -23,8 +23,6 @@ v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmeti
 
 v1.8 (+1.8.5, 1.9 & 2.0.0) released 07122023 featuring Superogira's fantastic colour mods for the Spectrum. Key #5 to switch color modes.
 
-Open monitor after using spectrum to reset registers before using FM broadcast radio (FMB can stall at times).
-
 Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
@@ -37,17 +35,19 @@ Please note the bin files herein are 2 colour themes only, not multiple colour v
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
-Use at own risk, no guarantee anything will work correctly or as intended. Provided as is for ham operators to evaluate ☠ Goes without saying back up your SPI with OEFW Flasher tool.
+Use at own risk, no guarantee anything will work correctly or as intended ☠
+
+Back up your SPI with OEFW Flasher tool before using.
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
 Note, the name tag font is upper case only and limited in special characters.
 
-Chirp Next compatible only with Reppads python module loaded (see code files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step). Note, the border color is hardcoded so won't change if fettled with in Chirp.
+Chirp Next compatible only with Reppad's python module loaded (see files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step). Note, the border color is hardcoded so won't change if fettled with in Chirp.
 
 This project started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. I decided to concentrate on light and dark contrast themes rather than continue with stock. Acceptable legibility at most light levels in light theme mode.
 
-All versions are updated with OEFWCOM changes but not all are implemented (ie no spectrum band presets; includes cosmetic and layout differences). You'll either like it or not 😂 such as the experimental placement of FM broadcast frequency/play in status bar.
+All versions are updated with OEFW/OEFWCOM fixes, but not all features are implemented (ie no spectrum band presets). My revisions are focussed on ui.
 
 v2.0.0 will only be updated to fix bugs/original issues. I see this project as a finshed example of a much improved firmware containing the best features (IMO), currently developed to date of release. I hope to start working on a totally new 890 design in 2024.
 
