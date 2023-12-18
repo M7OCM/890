@@ -59,6 +59,16 @@ The OEFW/OEFWCOM innovators:
 
 Dual Tachyon "The Boss" OEFW reverse engineer, Andrej (Tunas1337) 890 modder extraordinaire, plus Reppad (legend helper) and Xawen adding an unbelievably innovative menu using free flash space and features galore like scan lists and spectrum. Special mention to Superogira for the amazing colour spectrum mods.
 
+[Dual Tachyon](https://github.com/dualtachyon)
+
+[Reppad](https://github.com/reppad)
+
+[Superogira](https://github.com/superogira)
+
+[Tunas1337](https://github.com/tunas1337)
+
+[Xawen](https://github.com/xawen)
+
 Many thanks to them all!
 
 73
