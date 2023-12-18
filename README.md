@@ -73,5 +73,4 @@ Many thanks to them all!
 
 M7OCM
 
-[Supporting Open Edition Firmware](https://ko-fi.com/dualtachyon)
-🔚
+[Supporting Open Edition Firmware](https://ko-fi.com/dualtachyon)🔚
