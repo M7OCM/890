@@ -23,7 +23,7 @@ v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmeti
 
 v1.8 (plus 1.8.5, 1.9 & 2.0.0+) feature Superogira's fantastic colour mods for the Spectrum. Key #5 to switch color modes.
 
-v1.0-1.7 experimental, numerous cosmetics.
+v1.0-1.7 experimental, numerous cosmetics/colour themes.
 
 Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
 
