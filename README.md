@@ -53,7 +53,7 @@ v2.0.0 will only be updated to fix bugs/original issues. I see this project as a
 
 The firmware is community based and features numerous improvements: an enhanced menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
 
-https://github.com/OEFW-community/RT-890-custom-firmware
+[OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
 The OEFW/OEFWCOM innovators:
 
