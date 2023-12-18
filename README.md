@@ -31,7 +31,8 @@ Please note the bin files herein are 2 colour themes only, not multiple colour v
 
 ![20231207_215538](https://github.com/M7OCM/890/assets/128899149/a35c4a4f-4139-4193-b0d9-284de1c573d4)
 
-![20231202_141014](https://github.com/M7OCM/890/assets/128899149/1406cd9d-eb8a-4bb2-b483-9571b9a5df4e)
+![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
+
 
 [v1.0+ bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
