@@ -3,7 +3,7 @@ The base source: https://github.com/OEFW-community/RT-890-custom-firmware/blob/m
 
 iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed further by OEFWCOM during late 2023.
 
-2.0.1 bug fixes 18122023 two bins: black/green; black/orange.
+2.0.1 bug fixes 18122023 two bins: black/green; black/orange. Credit: Dual Tachyon, Xawen and Reppad.
 
 2.0.0 Official release 13122023 two bins: black/green; black/orange.
 
@@ -51,7 +51,7 @@ All versions are updated with OEFWCOM changes but not all are implemented (ie no
 
 v2.0.0 will only be updated to fix bugs as I see this project as a finshed example containing the best features IMO currently developed to date. I hope to start working on a totally new design in 2024.
 
-The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port mod (tweaked), scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
+The firmware is community based and features excellent improvements to the menu; 1of11's AM Fix port modded for 890, scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
 
 https://github.com/OEFW-community/RT-890-custom-firmware
 
