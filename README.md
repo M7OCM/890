@@ -23,6 +23,8 @@ v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmeti
 
 v1.8 (+1.8.5, 1.9 & 2.0.0) released 07122023 featuring Superogira's fantastic colour mods for the Spectrum. Key #5 to switch color modes.
 
+v1.0-1.7 experimental, numerous cosmetics.
+
 Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
