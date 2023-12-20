@@ -33,7 +33,6 @@ Please note the bin files herein are 2 colour themes only, not multiple colour v
 
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
-
 [v1.0+ bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
 💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
@@ -46,13 +45,15 @@ Back up your SPI with OEFW Flasher tool before using.
 
 Note, the name tag font is upper case only and limited in special characters.
 
-Chirp Next compatible only with Reppad's python module loaded (see files). This enables AM, FM, LSB and USB and scan lists to be saved plus proper 8.33kHz channels (no 8.33kHz step). Note, the border color is hardcoded so won't change if fettled with in Chirp.
+Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too shabby considering how slow stock is.
 
-This project started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. I decided to concentrate on light and dark contrast themes rather than continue with stock. Acceptable legibility at most light levels in light theme mode.
+Chirp Next compatible only with Reppad's python module loaded (see files). This enables AM, FM, LSB and USB and scan lists to be saved/amended, plus proper 8.33kHz channels (no 8.33kHz step). Note, the border color is hardcoded so won't change if fettled with in Chirp.
+
+This all started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. I decided to concentrate on light and dark contrast themes rather than continue with stock. Acceptable legibility at most light levels in light theme mode.
 
 All versions are updated with OEFW/OEFWCOM fixes, but not all features are implemented (ie no spectrum band presets). My revisions are focussed on ui.
 
-v2.0.0 will only be updated to fix bugs/original issues. I see this project as a finshed example of a much improved firmware containing the best features (IMO), currently developed to date of release. I hope to start working on a totally new 890 design in 2024.
+Plan. v2.0.0 will (for the time being) only be updated to fix bugs/original issues. I see this project as a finshed example of a much improved firmware containing the best features (IMO), currently developed to date of release. I hope to start working on a totally new 890 design in 2024.
 
 The firmware is community based and features numerous improvements: an enhanced menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
 
