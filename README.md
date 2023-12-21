@@ -29,7 +29,7 @@ Please note the bin files herein are 2 colour themes only, not multiple colour v
 
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
-[v1.0+ bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
+[v1.0-v2.0.1 bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
