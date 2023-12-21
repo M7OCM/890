@@ -39,6 +39,8 @@ Use at own risk, no guarantee anything will work correctly or as intended. Back 
 
 Note, the name tag font is upper case only and limited in special characters.
 
+Spectrum. Key 5 to switch spectrum colours/display variations.
+
 Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too shabby considering how slow stock is.
 
 Chirp Next compatible only with Reppad's python module loaded (see files).
