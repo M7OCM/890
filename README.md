@@ -27,6 +27,10 @@ Please note the bin files herein are 2 colour themes only, not multiple colour v
 
 ![20231207_215538](https://github.com/M7OCM/890/assets/128899149/a35c4a4f-4139-4193-b0d9-284de1c573d4)
 
+Spectrum. Key 5 to switch spectrum colours/display variations.
+
+Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too shabby considering how slow stock is.
+
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
 [v1.0-v2.0.1 bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
@@ -38,10 +42,6 @@ Use at own risk, no guarantee anything will work correctly or as intended. Back 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
 Note, the name tag font is upper case only and limited in special characters.
-
-Spectrum. Key 5 to switch spectrum colours/display variations.
-
-Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too shabby considering how slow stock is.
 
 Chirp Next compatible only with Reppad's python module loaded (see files).
 
