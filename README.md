@@ -3,9 +3,11 @@
 
 iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed further by OEFWCOM during late 2023.
 
-2.0.1 bug fixes 18122023 two bins: black/green; black/orange. Fixes credit: Dual Tachyon, Xawen and Reppad.
+2.0.2 refactoring 21122023 one bin: black/white (default). Credit: OEFWCOM
 
-2.0.0 Official release 13122023 two bins: black/green; black/orange.
+2.0.1 bug fixes 18122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
+
+2.0.0 official release 13122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
 
 ![20231213_164050](https://github.com/M7OCM/890/assets/128899149/74cf0357-34b5-433f-a620-4f2a853c2a49)
 
@@ -17,13 +19,13 @@ v1.9 status bar updated, removed DW, VOX icons, updated RR/TR text. DSB = Dual S
 
 ![20231218_080633](https://github.com/M7OCM/890/assets/128899149/626091d6-d302-4776-957c-7a9b31841fca)
 
-v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmetics.
+v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmetics. Credit: OEFWCOM
 
 ![20231207_215408](https://github.com/M7OCM/890/assets/128899149/a0231b84-7295-4c95-a65f-3602a05e64b9)
 
-v1.8 (plus 1.8.5, 1.9 & 2.0.0+) feature Superogira's fantastic colour mods for the Spectrum. Key #5 to switch color modes.
+v1.8 (plus 1.8.5, 1.9 & 2.0.0+) feature Superogira's fantastic colour mods for the Spectrum. Key #5 to switch color modes. Credit: OEFWCOM
 
-v1.0-1.7 experimental, numerous cosmetics/colour themes.
+v1.0-1.7 experimental, numerous cosmetics/colour themes. Credit: OEFWCOM
 
 Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
 
@@ -55,7 +57,7 @@ All versions are updated with OEFW/OEFWCOM fixes, but not all features are imple
 
 Plan. v2.0.0 will (for the time being) only be updated to fix bugs/original issues. I see this project as a finshed example of a much improved firmware containing the best features (IMO), currently developed to date of release. I hope to start working on a totally new 890 design in 2024.
 
-The firmware is community based and features numerous improvements: an enhanced menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
+The firmware is OEFW community based and features numerous improvements: an enhanced menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
