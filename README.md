@@ -3,7 +3,7 @@
 
 [2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
 
-Radtel, Ruyage, Scotran, iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed further by OEFWCOM during late 2023.
+Radtel, Ruyage, iradio v1.34 firmware, originally reversed and rewritten by Dual Tacyhon to become OEFW. Developed further by OEFWCOM during late 2023.
 
 2.0.2 refactoring 21122023 one bin: black/white (default). Credit: OEFWCOM
 
