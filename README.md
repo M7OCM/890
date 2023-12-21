@@ -1,6 +1,8 @@
 # OEFW Community (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
 
+[2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
+
 iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed further by OEFWCOM during late 2023.
 
 2.0.2 refactoring 21122023 one bin: black/white (default). Credit: OEFWCOM
@@ -15,17 +17,9 @@ iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed furt
 
 ![20231211_115816](https://github.com/M7OCM/890/assets/128899149/a705ff8e-1d42-4629-961f-bc3d377b8329)
 
-v1.9 status bar updated, removed DW, VOX icons, updated RR/TR text. DSB = Dual StandBy; VOX = VOX, RPT = RR/=, TLK = TR/- Credit: OEFW - OEFWCOM
-
 ![20231218_080633](https://github.com/M7OCM/890/assets/128899149/626091d6-d302-4776-957c-7a9b31841fca)
 
-v1.8.5 two high contrast themes (black/orange and black/green), spectrum cosmetics. Credit: OEFWCOM
-
 ![20231207_215408](https://github.com/M7OCM/890/assets/128899149/a0231b84-7295-4c95-a65f-3602a05e64b9)
-
-v1.8 (plus 1.8.5, 1.9 & 2.0.0+) feature Superogira's fantastic colour mods for the Spectrum. Key #5 to switch color modes. Credit: OEFWCOM
-
-v1.0-1.7 experimental, numerous cosmetics/colour themes. Credit: OEFWCOM
 
 Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
 
@@ -37,11 +31,9 @@ Please note the bin files herein are 2 colour themes only, not multiple colour v
 
 [v1.0+ bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
-💀 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
+Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
-Use at own risk, no guarantee anything will work correctly or as intended ☠
-
-Back up your SPI with OEFW Flasher tool before using.
+Use at own risk, no guarantee anything will work correctly or as intended. Back up your SPI with OEFW Flasher tool before using (see files).
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
@@ -49,13 +41,13 @@ Note, the name tag font is upper case only and limited in special characters.
 
 Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too shabby considering how slow stock is.
 
-Chirp Next compatible only with Reppad's python module loaded (see files). This enables AM, FM, LSB and USB and scan lists to be saved/amended, plus proper 8.33kHz channels (no 8.33kHz step). Note, the border color is hardcoded so won't change if fettled with in Chirp.
+Chirp Next compatible only with Reppad's python module loaded (see files).
 
-This all started as a personal project - I'm not a developer more a radio user, but have experience with ui design and development on small oled screens. I decided to concentrate on light and dark contrast themes rather than continue with stock. Acceptable legibility at most light levels in light theme mode.
+This is a personal project. Sorry, I do not accept requests for features or specific colour themes. 
 
-All versions are updated with OEFW/OEFWCOM fixes, but not all features are implemented (ie no spectrum band presets). My revisions are focussed on ui.
+All versions are updated with OEFW/OEFWCOM fixes, but not all features are implemented (ie no spectrum band presets or waterfall). My revisions are focussed on ui and operability.
 
-Plan. v2.0.0 will (for the time being) only be updated to fix bugs/original issues. I see this project as a finshed example of a much improved firmware containing the best features (IMO), currently developed to date of release. I hope to start working on a totally new 890 design in 2024.
+Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware, containing the best features (IMO), currently developed to date of release. I hope to start working on a totally new 890 design in 2024.
 
 The firmware is OEFW community based and features numerous improvements: an enhanced menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, preset channels, 8 scan lists and full colour spectrum to name a few.
 
