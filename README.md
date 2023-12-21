@@ -15,7 +15,7 @@ iradio v1.34 firmware reversed by Dual Tacyhon to become OEFW and developed furt
 
 ![20231211_115816](https://github.com/M7OCM/890/assets/128899149/a705ff8e-1d42-4629-961f-bc3d377b8329)
 
-v1.9 status bar updated, removed DW, VOX icons, updated RR/TR text. DSB = Dual StandBy; VOX = VOX, RPT = RR/=, TLK = TR/-
+v1.9 status bar updated, removed DW, VOX icons, updated RR/TR text. DSB = Dual StandBy; VOX = VOX, RPT = RR/=, TLK = TR/- Credit: OEFW - OEFWCOM
 
 ![20231218_080633](https://github.com/M7OCM/890/assets/128899149/626091d6-d302-4776-957c-7a9b31841fca)
 
