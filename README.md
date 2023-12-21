@@ -45,7 +45,7 @@ Note, the name tag font is upper case only and limited in special characters.
 
 Chirp Next compatible only with Reppad's python module loaded (see files).
 
-This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is, no feedback requested. This is my vision, it might not be yours and that is fine, use OEFW or the OEFWCOM builds the latter being supported by an active group on [Telegram RT890 OEFW(https://t.me/RT890_OEFW)
+This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is, no feedback requested. This is my vision, it might not be yours and that is fine, use OEFW or the OEFWCOM builds the latter being supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 As a result I do not accept requests for new or improved features or specific colour themes.
 
 All versions are updated with OEFW/OEFWCOM fixes wherever possible making the latest release the most current and 'fixed'. That said, not all OEFWCOM features are implemented (ie no spectrum band presets or waterfall). My revisions are focussed on ui and operability.
