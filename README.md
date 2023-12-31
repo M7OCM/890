@@ -5,6 +5,8 @@
 
 Radtel, Ruyage, iradio v1.34 firmware, originally reversed and rewritten by Dual Tacyhon to become OEFW. Developed further by OEFWCOM during late 2023.
 
+2.0.2 colour update 31122023: OEM style, blue rx etc. 
+
 2.0.2 refactoring 21122023 one bin: black/white (default). Credit: OEFWCOM
 
 2.0.1 bug fixes 18122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
