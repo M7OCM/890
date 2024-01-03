@@ -59,6 +59,8 @@ Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements 
 
 The firmware is community based and by numerous developers. For a full feature list please visit OEFWCOM. Numerous enhancements: an extended menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, presets, quick access keys, 8 scan lists and full colour spectrum to name a few.
 
+OEFWCOM projects that are in development include s-meter and squelch threshold revisions plus enhanced AM register correction to further improve that area. All of this is being done by enthusiasts, in their own time and for no financial gain.
+
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
 The OEFW/OEFWCOM innovators:
