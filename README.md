@@ -40,6 +40,28 @@ Spectrum. Key 5 to switch spectrum colours/display variations.
 
 Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too shabby considering how slow stock is.
 
+## Features
+- All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
+- RX frequency can be set from 10 to 1300 MHz (results may vary)
+- LSB/USB reception
+- Light theme
+- Full colour spectrum with user options
+- AM Fix (improvement in AM reception with strong signals, port of @OneOfEleven's excellent work on the Quansheng UV-K5)
+- Full control over side key and main key shortcuts
+- New configurable actions (FM Radio, Scanner, FLashlight, Dark Theme, Spectrum)
+- 0.01K to 5 MHz steps
+- Display registers in single VFO mode
+- Display dBM when receiving
+- Reworked scan functionality
+  - 8 Scan lists
+  - Faster scanning
+  - Resume mode: Time, Carrier, No
+  - Change scan direction while scanning (up/down keys)
+  - Force scan resume (up/down keys)
+- Reworked main menu
+- Ability to disable LED flashing when scanning
+- And much more!
+
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
 [v1.0-v2.0.1 bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
@@ -60,7 +82,7 @@ All versions are updated with OEFW/OEFWCOM fixes wherever possible making the la
 
 Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware, containing the best features (IMO), currently developed to date of release.
 
-The firmware is community based and by numerous developers. For a full feature list please visit OEFWCOM. Numerous enhancements: an extended menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, presets, quick access keys, 8 scan lists and full colour spectrum to name a few.
+The firmware is community based and written by numerous developers. For a full feature list please visit OEFWCOM.
 
 OEFWCOM projects that are in development include s-meter and squelch threshold revisions plus enhanced AM register correction to further improve that area. All of this is being done by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please get involved.
 
