@@ -42,15 +42,15 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 
 ## Features
 - All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
-- RX frequency can be set from 10 to 1300 MHz (results may vary)
-- LSB/USB reception
-- Light theme
-- Full colour spectrum with user options
-- AM Fix (improvement in AM reception with strong signals, port of @OneOfEleven's excellent work on the Quansheng UV-K5)
-- Full control over side key and main key shortcuts
-- New configurable actions (FM Radio, Scanner, FLashlight, Dark Theme, Spectrum)
+- RX frequency can be set from 10 to 1300 MHz
+- FM, AM and SSB (LSB/USB) modulation
+- Light and dark theme, user selectable 
+- Full colour spectrum with options
+- AM Fix (ported version @OneOfEleven's)
+- Custom side key and quick access keys
+- New configurable actions (FM Radio, Scanner, FLashlight, Dark Theme and Spectrum)
 - 0.01K to 5 MHz steps
-- Display registers in single VFO mode
+- Display BK4819 registers in single VFO mode
 - Display dBM when receiving
 - Reworked scan functionality
   - 8 Scan lists
@@ -60,7 +60,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
   - Force scan resume (up/down keys)
 - Reworked main menu
 - Ability to disable LED flashing when scanning
-- And much more!
+- And mNy more under the hood!
 
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
