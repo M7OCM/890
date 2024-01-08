@@ -60,7 +60,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
   - Force scan resume (up/down keys)
 - Reworked main menu
 - Ability to disable LED flashing when scanning
-- And mNy more under the hood!
+- and many more under the hood!
 
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
