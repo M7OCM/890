@@ -12,7 +12,7 @@ Radtel, Ruyage, iradio v1.34 firmware, originally reversed and rewritten by Dual
 ![20231231_224741](https://github.com/M7OCM/890/assets/128899149/396fe400-9c2d-4374-9db4-4cec73f397ad)
 ![20240101_030924](https://github.com/M7OCM/890/assets/128899149/6562525d-a74f-47ec-b30d-e528255266f7)
 
-2.0.2 colour update 31122023: OEM style, blue rx etc. 
+2.0.2It colour update 31122023: OEM style, blue rx etc. This a special firmware and differs cosmetically from standard. I designed this exclusively for an Italian group on Telegram.
 
 2.0.2 refactoring 21122023 one bin: black/white (default). Credit: OEFWCOM
 
@@ -54,16 +54,17 @@ Note, the name tag font is upper case only and limited in special characters.
 
 Chirp Next compatible only with Reppad's python module loaded (see files).
 
-This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is, no feedback requested. This is my vision, it might not be yours and that is fine. Please try OEFW or the OEFWCOM releases. The latter being supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
-As a result I do not accept requests for new or improved features or specific colour themes.
+This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is, no feedback requested. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
 All versions are updated with OEFW/OEFWCOM fixes wherever possible making the latest release the most current or 'fixed'. That said, not all OEFWCOM features are implemented (ie no spectrum band presets or waterfall). My revisions are focussed on ui and operability for my use.
 
-Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware, containing the best features (IMO), currently developed to date of release. I hope to start working on a totally new 890 design in 2024.
+Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware, containing the best features (IMO), currently developed to date of release.
 
 The firmware is community based and by numerous developers. For a full feature list please visit OEFWCOM. Numerous enhancements: an extended menu, frequency band/modulation expansion, 1of11's 'AM Fix' ported/modded for 890, scan resume, presets, quick access keys, 8 scan lists and full colour spectrum to name a few.
 
-OEFWCOM projects that are in development include s-meter and squelch threshold revisions plus enhanced AM register correction to further improve that area. All of this is being done by enthusiasts, in their own time and for no financial gain.
+OEFWCOM projects that are in development include s-meter and squelch threshold revisions plus enhanced AM register correction to further improve that area. All of this is being done by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please get involved.
+
+[Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
