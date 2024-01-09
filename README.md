@@ -48,7 +48,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 - Full colour spectrum with options
 - AM Fix (ported version @OneOfEleven's)
 - Custom side key and quick access keys
-- New configurable actions (FM Radio, Scanner, FLashlight, Dark Theme and Spectrum)
+- New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum)
 - 0.01K to 5 MHz steps
 - Display BK4819 registers in single VFO mode
 - Display dBM when receiving
