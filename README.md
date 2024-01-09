@@ -68,7 +68,13 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 
 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
-Use at own risk, no guarantee anything will work correctly or as intended. Back up your SPI with OEFW Flasher tool before using (see files).
+Use at own risk, no guarantee anything will work correctly or as intended. Back up your SPI with OEFW firmware flasher tool before using (see files).
+
+SPI memory backup
+ [RT-890-Flasher](https://github.com/DualTachyon/radtel-rt-890-flasher)
+
+SPI memory restore
+ [RT-890-SPI-restore-CLI](https://github.com/DualTachyon/radtel-rt-890-spi-restore-cli)
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
