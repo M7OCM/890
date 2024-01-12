@@ -80,7 +80,7 @@ SPI memory restore
 
 Note, the name tag font is upper case only and limited in special characters.
 
-Chirp Next compatible only with Reppad's python module loaded (see files).
+Chirp Next compatible only with modified python module loaded (see files).
 
 This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is, no feedback requested. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
