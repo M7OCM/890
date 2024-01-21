@@ -19,7 +19,7 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 ![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
-To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3), values will reset to default and distortion will be reduced automatically. Manual is better in my opinion than AM Fix as weak signal capture is vastly improved. In addition, stonger signals heard more clearly.
+To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3/FIX 3), values will reset and distortion will be reduced automatically. Manual is better in my opinion than AM Fix as weak signal capture is vastly improved. In addition, stonger signals heard more clearly.
 
 After many weeks of testing, AGC mode FIX 2 is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1.
 
