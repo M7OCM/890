@@ -27,6 +27,8 @@ Users are encouraged to experiment based on location and antenna used. As a rule
 
 Barring this feature and some cosmetics (status bar Dual Standby DSB changed to RX2), there is no other changes from v2.0.2 so no need to update if AM - particularly airband - isn't of interest.
 
+Best viewed in Dark Theme as the Light Theme lacks the clarity of black on white, white on black. Thats why I dont use coloured text very often! 😉
+
 ![20240121_002536](https://github.com/M7OCM/890/assets/128899149/f0c8c873-a1c3-46b9-87f8-6ca6e541e505)
 
 ![20240121_002405](https://github.com/M7OCM/890/assets/128899149/c939af24-118e-4c12-b5bf-89770a264862)
