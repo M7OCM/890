@@ -17,8 +17,7 @@ Instuctions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8
 
 Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selection and Key 8 Reg Editor.
 
-![20240121_003114]
-(https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
+![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
 To edit registers, use up down to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3) values will reset to default and distortion will be reduced automatically. Manual is better in my opinion than Am Fix.
 
