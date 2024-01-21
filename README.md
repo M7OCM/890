@@ -108,7 +108,7 @@ All versions are updated with OEFW/OEFWCOM fixes wherever possible making the la
 
 Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware, containing the best features (IMO), currently developed to date of release.
 
-OEFWCOM projects that are in development during 2024 include s-meter and squelch threshold revisions plus enhanced AM register correction to further improve that area. All of this is being done by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
+OEFWCOM projects that are in development during 2024 include s-meter and squelch threshold revisions. All of this is being done by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
 
 [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
