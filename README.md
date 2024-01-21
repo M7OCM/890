@@ -9,7 +9,13 @@ or
 
 Radtel, Ruyage, iradio v1.34 firmware, originally reversed and rewritten by Dual Tacyhon to become OEFW. Developed further by OEFWCOM during late 2023.
 
-Coming soon v2.0.3 AM enhancements full manual control or auto. AGC modes and AM register editor.
+v2.0.3 RELEASE SOON. AM enhancement; full manual control or auto AM Fix, AGC modes and AM register editor. Credit: Xawen/OEFWCOM
+
+Instuctions: Assign three quick access keys, recommended Key 2, 5 and 8. Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode long press toggle selection and Key 8 Reg Editor. To edit registers, use up down to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on values will reset to default.
+
+After many weeks of testing AGC mode FIX 2 is a good starting point for excellent airband listening. Higher gain antennas will most likely require FIX 1. Users are encouraged to experiment based on location and antenna used. As a rule of thumb high PGA combined with high LNA values will result in distortion of strong local signals.
+
+Barring this feature and some cosmetics, there is no other differences from v2.0.2 so no need to update if AM (particularly airband) isn't of interest.
 
 ![20240121_002251](https://github.com/M7OCM/890/assets/128899149/13156e7d-1169-4737-8fc7-37f596c9e6a5)
 
