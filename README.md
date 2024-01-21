@@ -19,13 +19,13 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 ![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
-To edit registers, use up down to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3) values will reset to default and distortion will be reduced automatically. Manual is better in my opinion than Am Fix.
+To edit registers, use up down to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3) values will reset to default and distortion will be reduced automatically. Manual is better in my opinion than AM Fix as weak signal capture is vastly improved. In addition, stonger signals heard more clearly.
 
-After many weeks of testing, AGC mode FIX 2 is a good starting point for excellent airband listening on a decent whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1.
+After many weeks of testing, AGC mode FIX 2 is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1.
 
-Users are encouraged to experiment based on location and antenna used. As a rule of thumb high PGA combined with high LNA values will result in distortion of strong local signals.
+Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals.
 
-Barring this feature and some cosmetics, there is no other differences from v2.0.2 so no need to update if AM (particularly airband) isn't of interest.
+Barring this feature and some cosmetics, there is no other changes from v2.0.2 so no need to update if AM (particularly airband) isn't of interest.
 
 ![20240121_002536](https://github.com/M7OCM/890/assets/128899149/f0c8c873-a1c3-46b9-87f8-6ca6e541e505)
 
