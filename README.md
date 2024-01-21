@@ -9,6 +9,16 @@ or
 
 Radtel, Ruyage, iradio v1.34 firmware, originally reversed and rewritten by Dual Tacyhon to become OEFW. Developed further by OEFWCOM during late 2023.
 
+Coming soon v2.0.3 AM enhancements full manual control or auto. AGC modes and AM register editor.
+
+![20240121_002251](https://github.com/M7OCM/890/assets/128899149/13156e7d-1169-4737-8fc7-37f596c9e6a5)
+
+![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
+
+![20240121_002536](https://github.com/M7OCM/890/assets/128899149/f0c8c873-a1c3-46b9-87f8-6ca6e541e505)
+
+![20240121_002405](https://github.com/M7OCM/890/assets/128899149/c939af24-118e-4c12-b5bf-89770a264862)
+
 ![20231231_224741](https://github.com/M7OCM/890/assets/128899149/396fe400-9c2d-4374-9db4-4cec73f397ad)
 ![20240101_030924](https://github.com/M7OCM/890/assets/128899149/6562525d-a74f-47ec-b30d-e528255266f7)
 
