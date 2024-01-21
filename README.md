@@ -13,7 +13,7 @@ v2.0.3 RELEASE 21012024. AM enhancement; full manual control or auto AM Fix, AGC
 
 ![20240121_002251](https://github.com/M7OCM/890/assets/128899149/13156e7d-1169-4737-8fc7-37f596c9e6a5)
 
-Instuctions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
+Instructions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
 
 Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selection and Key 8 Reg Editor.
 
