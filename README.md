@@ -25,7 +25,7 @@ After many weeks of testing, AGC mode FIX 2 is a good starting point for excelle
 
 Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals.
 
-Barring this feature and some cosmetics, there is no other changes from v2.0.2 so no need to update if AM (particularly airband) isn't of interest.
+Barring this feature and some cosmetics (status bar Dual Standby DSB changed to RX2), there is no other changes from v2.0.2 so no need to update if AM - particularly airband - isn't of interest.
 
 ![20240121_002536](https://github.com/M7OCM/890/assets/128899149/f0c8c873-a1c3-46b9-87f8-6ca6e541e505)
 
