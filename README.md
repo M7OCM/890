@@ -9,11 +9,17 @@ or
 
 Radtel, Ruyage, iradio v1.34 firmware, originally reversed and rewritten by Dual Tacyhon to become OEFW. Developed further by OEFWCOM during late 2023.
 
-v2.0.3 RELEASE SOON. AM enhancement; full manual control or auto AM Fix, AGC modes and AM register editor. Credit: Xawen/OEFWCOM
+v2.0.3 RELEASE 21012024. AM enhancement; full manual control or auto AM Fix, AGC modes and AM register editor. Credit: Xawen/OEFWCOM
 
-Instuctions: Assign three quick access keys, recommended Key 2, 5 and 8. Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode long press toggle selection and Key 8 Reg Editor. To edit registers, use up down to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on values will reset to default.
+Instuctions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8.
 
-After many weeks of testing AGC mode FIX 2 is a good starting point for excellent airband listening. Higher gain antennas will most likely require FIX 1. Users are encouraged to experiment based on location and antenna used. As a rule of thumb high PGA combined with high LNA values will result in distortion of strong local signals.
+Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, long press toggle selection and Key 8 Reg Editor.
+
+To edit registers, use up down to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3) values will reset to default and distortion will be reduced automatically. Manual is better in my opinion than Am Fix.
+
+After many weeks of testing, AGC mode FIX 2 is a good starting point for excellent airband listening on a decent whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1.
+
+Users are encouraged to experiment based on location and antenna used. As a rule of thumb high PGA combined with high LNA values will result in distortion of strong local signals.
 
 Barring this feature and some cosmetics, there is no other differences from v2.0.2 so no need to update if AM (particularly airband) isn't of interest.
 
