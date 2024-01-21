@@ -11,9 +11,14 @@ Radtel, Ruyage, iradio v1.34 firmware, originally reversed and rewritten by Dual
 
 v2.0.3 RELEASE 21012024. AM enhancement; full manual control or auto AM Fix, AGC modes and AM register editor. Credit: Xawen/OEFWCOM
 
-Instuctions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8.
+![20240121_002251](https://github.com/M7OCM/890/assets/128899149/13156e7d-1169-4737-8fc7-37f596c9e6a5)
 
-Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, long press toggle selection and Key 8 Reg Editor.
+Instuctions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
+
+Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selection and Key 8 Reg Editor.
+
+![20240121_003114]
+(https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
 To edit registers, use up down to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3) values will reset to default and distortion will be reduced automatically. Manual is better in my opinion than Am Fix.
 
@@ -22,10 +27,6 @@ After many weeks of testing, AGC mode FIX 2 is a good starting point for excelle
 Users are encouraged to experiment based on location and antenna used. As a rule of thumb high PGA combined with high LNA values will result in distortion of strong local signals.
 
 Barring this feature and some cosmetics, there is no other differences from v2.0.2 so no need to update if AM (particularly airband) isn't of interest.
-
-![20240121_002251](https://github.com/M7OCM/890/assets/128899149/13156e7d-1169-4737-8fc7-37f596c9e6a5)
-
-![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
 ![20240121_002536](https://github.com/M7OCM/890/assets/128899149/f0c8c873-a1c3-46b9-87f8-6ca6e541e505)
 
