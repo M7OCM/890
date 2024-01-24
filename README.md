@@ -1,7 +1,8 @@
 # OEFW Community (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 
 ![20240124_151343](https://github.com/M7OCM/890/assets/128899149/12bfc53c-a5f9-4397-820a-4724b7fa27e8)
-^ ^ ^ coming soon... 
+
+v2.0.4 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed (manual value changes to pre existing AGC Modes. Credit: LCiccio/Reppad for dBM RSSI update
 
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
 
