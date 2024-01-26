@@ -12,7 +12,7 @@ v2.0.4 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A
 
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
 
-[2.00-2.03 source](https://github.com/M7OCM/890/tree/source)
+[2.00-2.05 source](https://github.com/M7OCM/890/tree/source)
 
 or
 
