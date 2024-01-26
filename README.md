@@ -84,7 +84,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 - FM, AM and SSB (LSB/USB) modulation
 - Light and dark theme, user selectable 
 - Full colour spectrum with options
-- AM Fix (ported version @OneOfEleven's) or optional v2.0.3 manual reg edit
+- AM Fix (ported version @OneOfEleven's) or optional v2.0.3+ manual reg edit
 - Custom side key and quick access keys
 - New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum)
 - 0.01K to 5 MHz steps
