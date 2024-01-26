@@ -1,6 +1,6 @@
 # OEFW Community (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 
-To be released 26012024 _-_-_-_-_
+*** To be released 26012024 ***
 v2.0.5 single binary colour not mono, squelch threshold fix; based on data gleaned from various UV-K5 firmware sources. Credit: Xawen/OEFWCOM
 
 ![20240124_151343](https://github.com/M7OCM/890/assets/128899149/12bfc53c-a5f9-4397-820a-4724b7fa27e8)
