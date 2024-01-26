@@ -79,7 +79,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 
 ## Features
 - All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
-- RX frequency can be set from 10 to 1300 MHz
+- RX frequency can be set from 10 MHz to 1.3 GHz
 - FM, AM and SSB (LSB/USB) modulation
 - Light and dark theme, user selectable
 - Squelch and S-meter revisions
