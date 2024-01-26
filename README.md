@@ -3,6 +3,10 @@
 *** To be released 26012024 ***
 v2.0.5 single binary, squelch threshold fix; based on data gleaned from various UV-K5 firmware sources. Credit: Xawen/OEFWCOM
 
+Note: looks identical to 2.0.4 check version Menu 74.
+
+![20240126_090459](https://github.com/M7OCM/890/assets/128899149/13d9a187-1389-4f6c-85a9-f283eaa098ed)
+
 ![20240124_151343](https://github.com/M7OCM/890/assets/128899149/12bfc53c-a5f9-4397-820a-4724b7fa27e8)
 
 v2.0.4 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed (manual value changes to pre existing AGC Modes. Credit: LCiccio/Reppad for dBM RSSI update
