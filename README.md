@@ -25,7 +25,7 @@ or
 
 v2.0.3 21012024 two binaries mono and colour, you decide ;-) AM enhancement; full manual control or auto AM Fix, AGC modes and AM register editor. Credit: Xawen/OEFWCOM
 
-![20240121_002251](https://github.com/M7OCM/890/assets/128899149/13156e7d-1169-4737-8fc7-37f596c9e6a5)
+
 
 Instructions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
 
