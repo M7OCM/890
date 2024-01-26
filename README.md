@@ -130,6 +130,8 @@ The OEFW/OEFWCOM innovators:
 
 [Dual Tachyon](https://github.com/dualtachyon)
 
+LCiccio
+
 [Reppad](https://github.com/reppad)
 
 [Superogira](https://github.com/superogira)
