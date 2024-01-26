@@ -116,11 +116,11 @@ Chirp Next compatible only with modified python module loaded (see files).
 
 This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is, no feedback requested. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
-All versions are updated with OEFW/OEFWCOM fixes wherever possible making the latest release the most current or 'fixed'. That said, not all OEFWCOM features are implemented (ie no spectrum band presets or waterfall). My revisions are focussed on ui and operability for my use.
+All versions are updated with OEFW/OEFWCOM fixes wherever possible making the latest release the most current or 'fixed'. That said, not all OEFWCOM features are implemented. My revisions are focussed on ui and operability for my use.
 
-Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware, containing the best features (IMO), currently developed to date of release.
+Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware.
 
-OEFWCOM projects that are in development during 2024 include s-meter and squelch threshold revisions. All of this is being done by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
+OEFWCOM is an ongoing development project by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
 
 [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
