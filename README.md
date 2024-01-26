@@ -1,6 +1,15 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
 
+[The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
+[v1.0 series bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
+
+[2.00-2.05 source](https://github.com/M7OCM/890/tree/source)
+
+or
+
+[2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
+
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
 v2.0.5 26012024 single binary, squelch threshold revision; based on data gleaned from various UV-K5 firmware sources. Credit: Xawen/OEFWCOM
@@ -15,17 +24,7 @@ Note: looks identical to 2.0.4 check version Menu 74.
 
 v2.0.4 24012024 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed - manual value changes to pre existing AGC Modes. Credit: LCiccio/Reppad for dBM RSSI update
 
-[The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
-
-[2.00-2.05 source](https://github.com/M7OCM/890/tree/source)
-
-or
-
-[2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
-
 v2.0.3 21012024 two binaries mono and colour, you decide ;-) AM enhancement; full manual control or auto AM Fix, AGC modes and AM register editor. Credit: Xawen/OEFWCOM
-
-
 
 Instructions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
 
@@ -104,8 +103,6 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 - and many more under the hood!
 
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
-
-[v1.0 series bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
 Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
 
