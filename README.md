@@ -9,7 +9,7 @@ Note: looks identical to 2.0.4 check version Menu 74.
 
 ![20240124_151343](https://github.com/M7OCM/890/assets/128899149/12bfc53c-a5f9-4397-820a-4724b7fa27e8)
 
-v2.0.4 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed (manual value changes to pre existing AGC Modes. Credit: LCiccio/Reppad for dBM RSSI update
+v2.0.4 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed - manual value changes to pre existing AGC Modes. Credit: LCiccio/Reppad for dBM RSSI update
 
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
 
@@ -31,7 +31,7 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 ![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
-To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3/FIX 3), values will reset and distortion will be reduced automatically. Manual is better in my opinion than AM Fix as weak signal capture is vastly improved. In addition, stonger signals heard more clearly.
+To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on (AUTO3 plus FIX 3), values will reset and distortion will be reduced automatically. Manual is better in my opinion than AM Fix as weak signal capture is vastly improved. In addition, stonger signals heard more clearly.
 
 After many weeks of testing, AGC mode FIX 2 is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1.
 
