@@ -1,6 +1,9 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
+![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
 v2.0.5 single binary, squelch threshold revision; based on data gleaned from various UV-K5 firmware sources. Credit: Xawen/OEFWCOM
+
+![20240126_155720](https://github.com/M7OCM/890/assets/128899149/29dbb05a-a34b-4a6f-bd0b-df814744cf50)
 
 Note: looks identical to 2.0.4 check version Menu 74.
 
