@@ -5,11 +5,11 @@ Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was original
 
 [v1.0 series bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
-[2.00-2.05 source](https://github.com/M7OCM/890/tree/source)
+[v2.00-v2.05 source](https://github.com/M7OCM/890/tree/source)
 
 or
 
-[2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
+[v2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
