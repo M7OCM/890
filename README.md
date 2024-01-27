@@ -35,7 +35,7 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will reset and distortion will be reduced automatically. Manual is better in my opinion than AM Fix as weak signal capture is vastly improved. In addition, stonger signals heard more clearly.
 
-After many weeks of testing, AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1 (F1). If the point of saturation is exceeded, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
+After many weeks of testing, AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
 
 Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals. Consider reducing LNAS to value 2, or reducing PGA by 1 unit.
 
