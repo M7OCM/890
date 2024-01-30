@@ -1,4 +1,8 @@
-# OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
+
+
+
+
+ OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
 
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
@@ -33,11 +37,19 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 ![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
-To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will reset and distortion will be reduced automatically. Manual is better in my opinion than AM Fix as weak signal capture is vastly improved. In addition, stonger signals heard more clearly.
+To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will be reduced automatically and then reset after squelch closes. Manual value interaction is better in my opinion as weak signal capture is vastly improved and stronger signals heard with more clarity and greater amplification. AM Fix imposes a blanket dBM reduction which leads to inconsistent audio levels. That said, it is still a viable solution for handsfree listening with no user input required.
 
 After many weeks of testing, AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
 
-Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals. Consider reducing LNAS to value 2, or reducing PGA by 1 unit.
+Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals. Consider reducing LNAS to value 2, or reducing PGA by 1 or more units.
+
+   
+Registers
+
+- LNAs (short) - Low Noise Attenuator Short (coarse)
+- LNA - Low Noise Attenuator (fine)
+- PGA - Programmable Gain Amplifier (threshold)
+- MIX - Mixer (gain)
 
 Please note registers reset to default on shutdown.
 
