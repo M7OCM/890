@@ -41,15 +41,7 @@ To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value
 
 After many weeks of testing, AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
 
-Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals. Consider reducing LNAS to value 2, or reducing PGA by 1 or more units.
-
-   
-Registers
-
-- LNAs (short) - Low Noise Attenuator Short (coarse)
-- LNA - Low Noise Attenuator (fine)
-- PGA - Programmable Gain Amplifier (threshold)
-- MIX - Mixer (gain)
+Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals. Consider reducing LNAS to value 2, and/or reducing PGA by 1 or more units.
 
 Please note registers reset to default on shutdown.
 
