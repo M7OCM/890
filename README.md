@@ -35,7 +35,7 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will be reduced automatically and then reset after squelch closes. Manual value interaction is better in my opinion as weak signal capture is vastly improved and stronger signals heard with more clarity and greater amplification. AM Fix imposes a blanket dBM reduction which leads to inconsistent audio levels. That said, it is still a viable solution for handsfree listening with no user input required.
 
-After many weeks of testing, AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a decent handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
+After many weeks of testing, fixed AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a airband resonant handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
 
 Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local signals. Consider reducing LNAS to value 2, and/or reducing PGA by 1 or more units.
 
@@ -43,7 +43,7 @@ Please note registers reset to default on shutdown.
 
 Barring this feature and some cosmetics (status bar Dual Standby DSB changed to RX2), there is no other changes from v2.0.2 so no need to update if AM - particularly airband - isn't of interest.
 
-"Color" version best viewed in Dark Theme as the Light Theme lacks the clarity of black on white, white on black. Thats why I dont use coloured text very often! 😉 See mono binary for that.
+"Color" version best viewed in Dark Theme as the Light Theme lacks the clarity of black on white, white on black. Thats why I dont use coloured text on a white background very often! 😉 See mono binary for that.
 
 ![20240121_002536](https://github.com/M7OCM/890/assets/128899149/f0c8c873-a1c3-46b9-87f8-6ca6e541e505)
 
