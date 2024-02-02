@@ -11,7 +11,7 @@ or
 
 [v2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
 
-Awaiting v2.0.6 pics...
+![20240202_155859](https://github.com/M7OCM/890/assets/128899149/922f0b51-a662-49a3-a350-97c8e1f3bc92)
 
 v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel alignment "issue" which has been bugging me for months, whereby RGB coloured pixels ie RED, GREEN and BLUE "jump" by one third within their own pixel space (makes characters appear higher or lower than their actual X, Y coordinates). Credit: Xawen/OEFWCOM
 
