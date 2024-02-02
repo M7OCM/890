@@ -16,7 +16,6 @@ Awaiting v2.0.6 pics...
 v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel alignment "issue" which has been bugging me for months, whereby RGB coloured pixels ie RED, GREEN and BLUE "jump" by one third within their own pixel space (makes characters appear higher or lower than their actual X, Y coordinates). Credit: Xawen/OEFWCOM
 
 ![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
-
 The default grey border color RGB code change in Chirp (above).
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
