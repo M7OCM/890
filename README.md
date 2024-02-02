@@ -5,7 +5,7 @@ Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was original
 
 [v1.0 series bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
-[v2.0.0-v2.0.5 source](https://github.com/M7OCM/890/tree/source)
+[v2.0.0-v2.0.6 source](https://github.com/M7OCM/890/tree/source)
 
 or
 
