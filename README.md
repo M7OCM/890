@@ -17,7 +17,7 @@ v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, 
 
 ![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
 
-The default grey border color RGB code change in Chirp (above).
+The default border color used in v2.0.6 is grey. The code change can be made in Chirp (see above).
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
