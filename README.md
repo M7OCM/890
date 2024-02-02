@@ -11,6 +11,8 @@ or
 
 [v2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
 
+![20240202_163643](https://github.com/M7OCM/890/assets/128899149/d6de065f-08c9-4761-a4b2-8702bca57a0c)
+
 ![20240202_155859](https://github.com/M7OCM/890/assets/128899149/922f0b51-a662-49a3-a350-97c8e1f3bc92)
 
 v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels notably RED and BLUE "move" within their own pixel space, making characters appear higher or lower than their actual X, Y code coordinates. Credit: Xawen/OEFWCOM
