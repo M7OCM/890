@@ -92,8 +92,8 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 - New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - 0.01K to 5 MHz steps
-- Display BK4819 registers in single VFO mode
-- Display dBM when receiving
+- Display BK4819/ battery voltage registers in single VFO mode (firware v2.0.3+ are editable) 
+- Display dBM when receiving (revised)
 - Reworked scan functionality
   - 8 Scan lists
   - Faster scanning
@@ -116,11 +116,11 @@ Note, the name tag font is upper case only and limited in special characters.
 
 Chirp Next compatible only with modified python module loaded (see files).
 
-This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is, no feedback requested. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
+This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
-All versions are updated with OEFW/OEFWCOM fixes wherever possible making the latest release the most current or 'fixed'. That said, not all OEFWCOM features are implemented. My revisions are focussed on ui and operability for my use.
+All versions are updated with OEFWCOM changes wherever possible making the latest release the most current or 'fixed'. That said, not all OEFWCOM features are implemented. My revisions are focussed on ui and operability for my use.
 
-Plan. v2.0.0 will (for the time being) only be updated to fix bugs/improvements to the current version. I see this project as, on the whole, a finshed demonstration of a much improved firmware.
+Future plans: v2.0.0 will be updated to fix bugs and add improvements to the current version. I cannot guarantee when this will happen or how long I will continue to work on this project. Its come a long way in a short space of time and is very useable now compared to stock.
 
 OEFWCOM is an ongoing development project by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
 
