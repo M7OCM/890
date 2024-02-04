@@ -35,7 +35,7 @@ Note: looks identical to 2.0.4 check version Menu 74.
 
 v2.0.4 24012024 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed - manual value changes to pre existing AGC Modes. Credit: LCiccio/Reppad for dBM RSSI update
 
-v2.0.3 21012024 two binaries mono and colour, you decide ;-) AM enhancement; full manual control or auto AM Fix, AGC modes and AM register editor. Credit: Xawen/OEFWCOM
+v2.0.3 21012024 two binaries mono and colour, you decide ;-) AM enhancement; full manual control or auto AM Fix, AGC modes and AM/FM register editor. Credit: Xawen/OEFWCOM
 
 Instructions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
 
