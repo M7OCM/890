@@ -1,5 +1,6 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
-![20240204_231208](https://github.com/M7OCM/890/assets/128899149/b0ae20be-7c09-4834-a64d-71db0fafcfe2)
+![20240205_134129](https://github.com/M7OCM/890/assets/128899149/408c53d2-a9bc-4491-8f72-52cb92e3fafa)
+
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
 
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
