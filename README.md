@@ -49,9 +49,11 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 ![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
-To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will be reduced automatically and then reset after squelch closes. Manual value interaction is better in my opinion as weak signal capture is vastly improved and stronger signals heard with more clarity and greater amplification. AM Fix imposes a blanket dBM reduction which leads to inconsistent audio levels. That said, it is still a viable solution for handsfree listening with no user input required.
+To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will be reduced automatically (when necessary) to prevent overloading and then reset to default after squelch closes.
 
-After many weeks of testing, fixed AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a airband resonant handheld whip. Higher gain antennas (plus pre amp etc) will most likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
+Manual value interaction is better in my opinion as weak signal capture is vastly improved and stronger signals heard with more clarity and greater amplification. AM Fix tends to impose a blanket dBM reduction leading to inconsistent audio levels. That said, it is still a viable solution for handsfree listening with no user input required.
+
+After many weeks of testing, fixed AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a airband resonant handheld whip. Higher gain antennas (plus pre amp, external roof mounted etc) will likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
 
 Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local AM signals. Consider reducing LNAS to value 2, and/or reducing PGA by 1 or more units.
 
