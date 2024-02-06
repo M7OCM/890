@@ -1,5 +1,5 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
-![20240205_134129](https://github.com/M7OCM/890/assets/128899149/408c53d2-a9bc-4491-8f72-52cb92e3fafa)
+
 
 ![20240204_231208](https://github.com/M7OCM/890/assets/128899149/a0bfbfc2-b8df-4158-975c-06fb8a464de7)
 
