@@ -168,7 +168,7 @@ The OEFW/OEFWCOM innovators:
 
 [DualTachyon](https://github.com/dualtachyon)
 
-[CR7BLE](   
+[CR7BLE](https://github.com/jcalado/RT-890-custom-firmware/commit/eb97ae261845ca510c69076e9ddd0735dda79b8d)
 
 LCiccio
 
