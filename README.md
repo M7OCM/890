@@ -11,7 +11,7 @@ VHF airband tips. Using a commonly available 771 type antenna, good location for
 
 FM can be greatly enhanced. Crank up the gain it works wonders. Try it!
 
-As before, registers reset when unit is switched off but remain active while powered on, in channel scan and spectrum.
+As before, registers reset when unit is switched off, but remain active while powered on. AGC Mode works in vfo, channel and spectrum modes.
 
 v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference). Credit: OEFWCOM
 
