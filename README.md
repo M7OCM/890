@@ -1,14 +1,12 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 
-*** File uploads to follow later today...
+v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 111s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
-*** v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 111s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
-
-Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being, simply change it to something else if you prefer. The menu AM Fix option is replaced by *AM Fix Void - if pressed, this again defaults to Flashlight, just as a reminder there is a no AM Fix firmware edition 😉
+Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being, simply change it to something else if you prefer. The menu AM Fix option is replaced by *AM Fix Void - if pressed, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
 
 AGC Mode and Reg Editor work exactly the same, however for airband it is advised to use F2 (or F1 for external antenna) or change values to suit your antenna, location etc. Unless using a nail as an antenna 😁 AGC Modes A3 and F3 provide too much gain without AM Fix. These values are OEM default for FM RX. Hence the overloading issue with stock. Try it though maybe be useable to some.
 
-*** v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
+v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
 
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
 
