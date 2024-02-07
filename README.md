@@ -43,7 +43,7 @@ v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, 
 
 ![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
 
-The default border color used in v2.0.6 is grey. The code change can be made in Chirp (see above).
+The default border color used in v2.0.6 is grey. The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted (backup data regularly just in case).
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
@@ -166,11 +166,11 @@ OEFWCOM is an ongoing development project by enthusiasts, in their own time and 
 
 The OEFW/OEFWCOM innovators:
 
-[Dual Tachyon](https://github.com/dualtachyon)
+[DualTachyon](https://github.com/dualtachyon)
+
+[CR7BLE](   
 
 LCiccio
-
-[Reppad](https://github.com/reppad)
 
 [Superogira](https://github.com/superogira)
 
