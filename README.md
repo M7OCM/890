@@ -15,7 +15,7 @@ As before, registers reset when unit is switched off but remain active in channe
 
 v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference). Credit: OEFWCOM
 
-Experimental ui I've been working on! Bringing back the gawd awful display divider lines, major overhaul of coordinates, looks better than stock I think. Playing with S-bar styles. Back burner projects those.
+Experimental ui I've been working on! Bringing back the gawd awful display divider lines, major overhaul of coordinates, looks better than stock I think. Playing with S-bar styles too. Back burner projects those. Some bits might get used.
 
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
 
