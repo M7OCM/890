@@ -5,7 +5,7 @@ v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that
 
 Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being, simply change it to something else if you prefer. The menu AM Fix option is replaced by *AM Fix Void - if selected, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
 
-AGC Mode and Reg Editor; same setup and keys, however for airband it is advised to use F2 (or F1 if using an external antenna) or change values to suit your antenna, location etc. Unless using a nail as an antenna 😁 AGC Modes A3 and F3 provide too much gain without AM Fix. These values are OEM default for FM RX. Hence the overloading issue with stock. Try it though maybe be useable to some.
+AGC Mode and Reg Editor; same setup and keys, however for airband it is advised to use F2 (or F1 if using an external antenna) or change values to suit your antenna, location etc. Unless using a nail as an antenna 😁 AGC Modes A3 and F3 provide too much gain without AM Fix. These values are OEM default for FM RX. Hence the overloading issue with AM on stock. Try it though maybe be useable to some.
 
 VHF airband tips. Using a commonly available 771 type antenna, good location for air traffic, set F2. Test for local overloading and try reducing LNAS3 to 2. If reception is borderline try LNA 4 and PGA 3 or 4. I have mine on default F2 (all the 3's barring BW4 WK0). Sometimes for military UHF airband, I'll bump up LNA and PGA to 4. LNAS can be adjusted accordingly. Best to experiment not only with registers but antennae. Stock works well on airband despite the bad rep it receives online.
 
