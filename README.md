@@ -1,6 +1,6 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 ![20240207_163509](https://github.com/M7OCM/890/assets/128899149/b589b796-41bb-4711-a8fd-520185cf074b)
-
+## Latest
 v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 111s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
 Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being, simply change it to something else if you prefer. The menu AM Fix option is replaced by *AM Fix Void - if selected, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
@@ -23,6 +23,7 @@ Experimental ui I've been working on! Bringing back the gawd awful display divid
 
 ![20240204_152010](https://github.com/M7OCM/890/assets/128899149/33220955-c419-41e2-8304-e6dd5704d353)
 
+## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
 
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
