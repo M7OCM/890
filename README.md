@@ -153,6 +153,8 @@ Note, the name tag font is upper case only and limited in special characters.
 
 Chirp Next compatible only with modified python module loaded (see files).
 
+## OEFWCOM and my plans
+
 This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
 All versions are updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed'. That said, not all OEFWCOM features are implemented. My revisions are focussed on ui and operability for my use.
@@ -165,7 +167,7 @@ OEFWCOM is an ongoing development project by enthusiasts, in their own time and 
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
-The OEFW/OEFWCOM innovators:
+## Team OEFW/OEFWCOM
 
 [DualTachyon](https://github.com/dualtachyon)
 
