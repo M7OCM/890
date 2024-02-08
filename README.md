@@ -1,6 +1,8 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 ![20240207_163509](https://github.com/M7OCM/890/assets/128899149/b589b796-41bb-4711-a8fd-520185cf074b)
 ## Latest
+v2.0.8-naf coming soon...
+
 v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 111s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
 Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being, simply change it to something else if you prefer. The menu AM Fix option is replaced by *AM Fix Void - if selected, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
@@ -124,7 +126,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 - Light and dark theme, user selectable
 - Squelch and S-meter revisions
 - Full colour spectrum with options
-- AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX
+- AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX; AM Fix removed in v2.0.7-naf, v2.0.8-naf
 - Custom side key and quick access keys
 - New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
