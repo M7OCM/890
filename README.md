@@ -3,9 +3,9 @@
 ## Latest
 v2.0.8-naf coming soon...
 
-v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 111s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
+v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 1of11s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
-Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being, simply change it to something else if you prefer. The menu AM Fix option is replaced by *AM Fix Void - if selected, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
+Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being (is already changed in upcoming v2.0.8-naf, to original TX Priority). The 2.0.7-naf menu AM Fix option is replaced by *AM Fix Void - if selected, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
 
 AGC Mode and Reg Editor; same setup and keys, however for airband it is advised to use AGC Mode F2 (or F1 if using an external antenna) or change values to suit your antenna, location etc. Unless using a nail as an antenna 😁 AGC Modes A3 and F3 provide too much gain without AM Fix. These values are OEM default for FM RX. Hence the overloading issue with AM on stock. Try it though maybe be useable to some.
 
