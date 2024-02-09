@@ -1,7 +1,8 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
-![20240207_163509](https://github.com/M7OCM/890/assets/128899149/b589b796-41bb-4711-a8fd-520185cf074b)
+![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
+
 ## Latest
-v2.0.8-naf coming soon...
+v2.0.8-naf coming soon... possibly the last firmware update from me. If you prefer AM Fix use standard v2.0.7.
 
 v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 1of11s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
