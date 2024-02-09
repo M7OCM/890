@@ -162,9 +162,9 @@ Chirp Next compatible only with modified python module loaded (see files).
 
 This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
-All versions are updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed'. That said, not all OEFWCOM features are implemented. My revisions are focussed on ui and operability for my use.
+All versions have been updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed' as of 09022024. That said, not all OEFWCOM features are implemented. My revisions have been focussed on ui and operability for my use.
 
-Future plans: v2.0.0 will be updated to fix bugs and add improvements to the current version. I cannot guarantee when this will happen or how long I will continue to work on this project. OEFW 890 has come a long way in a very short space of time and is very useable now compared to stock.
+OEFW 890 has come a long way in a very short space of time and is very useable now compared to stock.
 
 OEFWCOM is an ongoing development project by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
 
