@@ -1,8 +1,10 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
-![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
-
+![20240217_130350](https://github.com/M7OCM/890/assets/128899149/3a22921d-794d-43a7-b86b-af428e84ec82)
+![20240217_130832](https://github.com/M7OCM/890/assets/128899149/936be6ba-9b31-4d95-99cc-4f0a40879071)
 ## Latest
 v2.0.9-naf 17022024 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawen/Marcos' amazing DCS RX fix! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code). Source upload later. Credit: OEFWCOM
+
+![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
 
 v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
 
