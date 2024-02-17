@@ -126,6 +126,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 ## Features
 - All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX 10 MHz to 1.3 GHz
+- 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (LSB/USB) modulation
 - Light and dark theme, user selectable
 - Squelch and S-meter revisions
@@ -184,6 +185,8 @@ OEFWCOM is an ongoing development project by enthusiasts, in their own time and 
 [CR7BLE](https://github.com/jcalado/RT-890-custom-firmware/commit/eb97ae261845ca510c69076e9ddd0735dda79b8d)
 
 LCiccio
+
+Marcos
 
 [Superogira](https://github.com/superogira)
 
