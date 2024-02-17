@@ -6,7 +6,6 @@ v2.0.9-naf 17022024 I am no longer supporting AM Fix in my firmware revisions as
 
 v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
 
-Personal thanks to Reppad and Xawen for assisting me in this project 👍
 
 v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 1of11s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
@@ -160,13 +159,15 @@ Note, the name tag font is upper case only and limited in special characters.
 
 Chirp Next compatible only with modified python module loaded (see files).
 
-## OEFWCOM and my plans
+## OEFWCOM
 
 This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
-All versions have been updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed' as of 09022024. That said, not all OEFWCOM features are implemented. My revisions have been focussed on ui and operability for my use.
+All versions have been updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed'. That said, not all OEFWCOM features are implemented and some of mine are unique. My revisions have been focussed on ui and operability for my use.
 
 OEFW 890 has come a long way in a very short space of time and is very useable now compared to stock.
+
+Personal thanks to Reppad and Xawen for assisting me in this project 👍
 
 OEFWCOM is an ongoing development project by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
 
