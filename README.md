@@ -2,7 +2,9 @@
 ![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
 
 ## Latest
-v2.0.8-naf 09022024 this will be the last firmware update from me. If you prefer AM Fix use standard v2.0.7.
+v2.0.9-naf 17022024 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawen/Marcos' amazing DCS RX fix! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code). Source upload later. Credit: OEFWCOM
+
+v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
 
 Personal thanks to Reppad and Xawen for assisting me in this project 👍
 
