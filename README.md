@@ -129,8 +129,10 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
 - (N/W)FM, (N/W)AM and SSB (LSB/USB) modulation
 - Light and dark theme, user selectable
 - Squelch and S-meter revisions
+- DCS RX fixed
+- RSSI timer speed reduction to reduce internal RFI caused by screen updatesm
 - Full colour spectrum with options
-- AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX; AM Fix removed in v2.0.7-naf, v2.0.8-naf
+- AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX; NOTE: AM Fix removed in v2.0.8-naf+ and no longer supported in my revisions
 - Custom side key and quick access keys
 - New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
@@ -143,7 +145,7 @@ Scanning speed improvements equate to around 16 ch/s or about 999 ch/m - not too
   - Resume mode: Time, Carrier, No resume
   - Change scan direction while scanning (up/down keys)
   - Force scan resume (up/down keys)
-- Reworked main menu
+- Reworked main menu system
 - Ability to disable LED flashing when scanning
 - and many more improvements...
 
