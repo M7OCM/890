@@ -2,7 +2,7 @@
 ![20240217_130350](https://github.com/M7OCM/890/assets/128899149/3a22921d-794d-43a7-b86b-af428e84ec82)
 ![20240217_130832](https://github.com/M7OCM/890/assets/128899149/936be6ba-9b31-4d95-99cc-4f0a40879071)
 ## Latest
-v2.0.9-naf 17022024 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawen/Marcos' amazing DCS RX fix! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary. Source upload later. Credit: OEFWCOM
+v2.0.9-naf 17022024 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawen/Marcos' DCS revision! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary.
 
 ![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
 
@@ -21,7 +21,7 @@ FM can be greatly enhanced. Crank up the gain it works wonders. Try it!
 
 As before, registers reset when unit is switched off, but remain active while powered on. AGC Mode works in vfo, channel and spectrum modes.
 
-v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference). Credit: OEFWCOM
+v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
 
 Experimental ui I've been working on! Bringing back the gawd awful display divider lines 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think pretty crammed in though. Playing with S-bar styles too. Back burner projects those. Some bits might get used.
 
@@ -48,7 +48,7 @@ or
 
 ![20240202_155859](https://github.com/M7OCM/890/assets/128899149/922f0b51-a662-49a3-a350-97c8e1f3bc92)
 
-v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels notably RED and BLUE "move" within their own pixel space, making characters appear higher or lower than their actual X, Y code coordinates. Credit: Xawen/OEFWCOM
+v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels notably RED and BLUE "move" within their own pixel space, making characters appear higher or lower than their actual X, Y code coordinates.
 
 ![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
 
@@ -56,7 +56,7 @@ The default border color used in v2.0.6 is grey. The code change can be made in 
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
-v2.0.5 27012024 (AGC Mode/Reg edit issue resolved thanks Xawen) single binary, squelch threshold revision; based on data gleaned from various UV-K5 firmware sources. Credit: Xawen/OEFWCOM
+v2.0.5 27012024 (AGC Mode/Reg edit issue resolved thanks Xawen) single binary, squelch threshold revision; based on data gleaned from various UV-K5 firmware sources.
 
 ![20240126_155720](https://github.com/M7OCM/890/assets/128899149/29dbb05a-a34b-4a6f-bd0b-df814744cf50)
 
@@ -66,9 +66,9 @@ Note: looks identical to 2.0.4 check version Menu 74.
 
 ![20240124_151343](https://github.com/M7OCM/890/assets/128899149/12bfc53c-a5f9-4397-820a-4724b7fa27e8)
 
-v2.0.4 24012024 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed - manual value changes to pre existing AGC Modes. Credit: LCiccio/Reppad for dBM RSSI update
+v2.0.4 24012024 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed - manual value changes to pre existing AGC Modes.
 
-v2.0.3 21012024 two binaries mono and colour, you decide ;-) AM enhancement; full manual control or auto AM Fix, AGC modes and AM/FM register editor. Credit: Xawen/OEFWCOM
+v2.0.3 21012024 two binaries mono and colour, you decide ;-) AM enhancement; full manual control or auto AM Fix, AGC modes and AM/FM register editor.
 
 Instructions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
 
@@ -78,7 +78,7 @@ Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selectio
 
 To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will be reduced automatically (when necessary) to prevent overloading and then reset to default after squelch closes.
 
-Manual value interaction is better in my opinion as weak signal capture is vastly improved and stronger signals heard with more clarity and greater amplification. AM Fix tends to impose a blanket dBM reduction leading to inconsistent audio levels. That said, it is still a viable solution for handsfree listening with no user input required.
+Manual value interaction is better in my opinion as weak signal capture is vastly improved and stronger signals heard with more clarity and greater amplification. AM Fix tends to impose a blanket dBM reduction leading to inconsistent audio levels.
 
 After many weeks of testing, fixed AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a airband resonant handheld whip. Higher gain antennas (plus pre amp, external roof mounted etc) will likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
 
