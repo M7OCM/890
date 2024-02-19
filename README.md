@@ -70,7 +70,7 @@ Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was original
 
 [v1.0 series bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
-[v2.0.0-v2.0.6 source](https://github.com/M7OCM/890/tree/source)
+[v2.0.0-v2.0.9 source](https://github.com/M7OCM/890/tree/source)
 
 or
 
@@ -84,8 +84,11 @@ Experimental ui I've been working on! Bringing back the gawd awful display divid
 
 ![20240204_152010](https://github.com/M7OCM/890/assets/128899149/33220955-c419-41e2-8304-e6dd5704d353)
 
+![20240209_105633](https://github.com/M7OCM/890/assets/128899149/865f3e46-8345-4962-bf51-4e958573723c)
 
 v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
+
+![20240207_163509](https://github.com/M7OCM/890/assets/128899149/92310d75-3ae8-4d63-b75d-dea79177f5b7)
 
 v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 1of11s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
@@ -98,6 +101,8 @@ VHF airband tips. Using a commonly available 771 type antenna, good location for
 FM can be greatly enhanced. Crank up the gain it works wonders. Try it!
 
 As before, registers reset when unit is switched off, but remain active while powered on. AGC Mode works in vfo, channel and spectrum modes.
+
+![20240206_075510](https://github.com/M7OCM/890/assets/128899149/b6567575-3a09-490a-adbd-30b1355beba3)
 
 v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
 
