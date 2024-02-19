@@ -154,7 +154,7 @@ Barring this feature and some cosmetics (status bar Dual Standby DSB changed to 
 ![20231231_224741](https://github.com/M7OCM/890/assets/128899149/396fe400-9c2d-4374-9db4-4cec73f397ad)
 ![20240101_030924](https://github.com/M7OCM/890/assets/128899149/6562525d-a74f-47ec-b30d-e528255266f7)
 
-2.0.2It colour update 31122023: OEM style, blue rx etc. This a special firmware and differs cosmetically from standard. I revised this exclusively for an Italian amateur radio group on Telegram.
+2.0.2It colour update 31122023: OEM style, blue rx etc. This is a special firmware and differs cosmetically from standard. I revised this exclusively for an Italian amateur radio group on Telegram.
 
 2.0.2 refactoring 21122023 one bin: black/white (default). Credit: OEFWCOM
 
