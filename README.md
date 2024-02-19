@@ -58,15 +58,10 @@ Start by mapping a key (side key or keypad) to the Reg Editor action using the m
 Keys
 
 - Up Move editor to next register
-
--Down Move to previous register
-
+- Down Move to previous register
 - 1 Change AGC Mode (A3, F3, F2, F1, F0, F7, F6, F5, F4); F2, F1 are good choices for airband
-
 - 2 Decrease value of current register's setting by 1
-
 - 3 Increase value of current register's setting by 1
-
 - Exit Return to main
 
 Scan list/Scanning
