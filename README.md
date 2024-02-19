@@ -6,10 +6,8 @@ v2.0.9-naf REVISED 19022024 minor fixes. Please download again if using the 1702
 
 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawens (+Marcos input) DCS revision! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary.
 
-# Instructions WIP
-Spectrum
-
-Keys
+# Instructions
+Spectrum Keys
 
 - Up Increase frequency range
 - Down Decrease frequency range
@@ -39,11 +37,11 @@ Keys
 - 3 Increase value of current register's setting by 1
 - Exit Return to main
 
-Scan list/Scanning
+Scan lists and Scanning
 
 There are 8 scanlists, plus scan all.
 
-The current channel can be added to any scanlist using the Ch In List X menus.
+The current channel can be added to any scanlist using the Ch In List # menus.
 
 The scanlist to be used can be selected in the List To Scan menu.
 
@@ -67,7 +65,7 @@ Alternatively use Chirp to store scan list memory (load my modified Python modul
 ## Features in v2.0.9+
 - All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX 10 MHz to 1.3 GHz
-- TX 2m/70cm officially
+- TX 2m/70cm officially, plus various VHF/UHF PMR
 - 0.01K to 5 MHz steps
 - 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
@@ -81,7 +79,7 @@ Alternatively use Chirp to store scan list memory (load my modified Python modul
 - Custom side key and quick access keys
 - New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
-- Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg are editable) 
+- Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
 - Display dBM when receiving (calculation revised)
 - Reworked scan functionality
   - 8 Scan lists plus scan all
