@@ -102,9 +102,9 @@ FM can be greatly enhanced. Crank up the gain it works wonders. Try it!
 
 As before, registers reset when unit is switched off, but remain active while powered on. AGC Mode works in vfo, channel and spectrum modes.
 
-![20240206_075510](https://github.com/M7OCM/890/assets/128899149/b6567575-3a09-490a-adbd-30b1355beba3)
-
 v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
+
+![20240202_163643](https://github.com/M7OCM/890/assets/128899149/b586dfa7-b5f2-48df-83be-a92a029bdd79)
 
 v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels notably RED and BLUE "move" within their own pixel space, making characters appear higher or lower than their actual X, Y code coordinates.
 
