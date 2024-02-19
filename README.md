@@ -61,6 +61,10 @@ Press any key other than Freq scanner to stop scanning.
 
 Alternatively use Chirp to store scan list memory (load my modified Python module). There needs to be at least 2 frequencies per scan list but no max limit. Duplicate frequencies can be added to more than one list.
 
+FM Broadcast
+
+Default 0/FM. The FM frequency appears in the upper status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby (menu) and you can list to FMB, scan or search and when a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!.
+
 
 ## Features in v2.0.9+
 - All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
