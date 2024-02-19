@@ -40,52 +40,49 @@ Up Increase frequency range
 
 Down Decrease frequency range
 
-1 Change scan step (16, 32, 64 or 128)
+- 1 Change scan step (16, 32, 64 or 128)
 
-3 Change modulation (AM, FM or SSB)
+- 3 Change modulation (AM, FM or SSB)
 
-4 Change step size (0.25k - 50k)
+- 4 Change step size (0.25k - 50k)
 
-5 Switch spectrum modes (toggle 1-4)
+- 5 Switch spectrum modes (toggle 1-4)
 
-6 Increase squelch level
+- 6 Increase squelch level
 
-7 Hold/Search (in hold, use up/down to adjust main frequency - useful to avoid RFI)
+- 7 Hold/Search (in hold, use up/down to adjust main frequency - useful to avoid RFI)
 
-9 Decrease squelch level
+- 9 Decrease squelch level
 
-0 Toggle filter (X = unfiltered, F = filtered)
+- 0 Toggle filter (X = unfiltered, F = filtered)
 
-Star Change scan delay (0 - 10ms)
+- Star (*) Change scan delay (0 - 10ms)
 
-Hash Toggle bandwidth (25.0K = wide, 12.5K = narrow)
+- Hash (#) Toggle bandwidth (25.0K = wide, 12.5K = narrow)
 
-Menu Jump to VFO mode with current frequency and settings (to allow TX)
+- Menu Jump to VFO mode with current frequency and settings (to allow TX)
 
-Exit Exit spectrum
+- Exit Return to main
 
-- Register Editor
+Register Editor
 
 Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
 
 Keys
 
-Up Move editor to next register
-Down Move to previous register
+- Up Move editor to next register
 
-1    Change AGC Mode
+-Down Move to previous register
 
-A3, F3, F2, F1, F0, F7, F6, F5, F4
+- 1 Change AGC Mode (A3, F3, F2, F1, F0, F7, F6, F5, F4); F2, F1 are good choices for airband
 
-F2, F1 are good choices for airband
+- 2 Decrease value of current register's setting by 1
 
-2 Decrease value of current register's setting by 1
+- 3 Increase value of current register's setting by 1
 
-3 Increase value of current register's setting by 1
+- Exit Return to main
 
-Exit Exit Register Editor
-
-- Scan list/Scanning
+Scan list/Scanning
 
 There are 8 scanlists, plus scan all.
 
