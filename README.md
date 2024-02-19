@@ -39,6 +39,7 @@ Spectrum
 Keys
 
 Up Increase frequency range
+
 Down Decrease frequency range
 
 1 Change scan step (16, 32, 64 or 128)
