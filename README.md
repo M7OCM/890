@@ -161,19 +161,13 @@ Barring this feature and some cosmetics (status bar Dual Standby DSB changed to 
 
 2.0.1 bug fixes 18122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
 
-2.0.0 official release 13122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
-
 ![20231213_164050](https://github.com/M7OCM/890/assets/128899149/74cf0357-34b5-433f-a620-4f2a853c2a49)
+
+2.0.0 official release 13122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
 
 ![20231213_164032](https://github.com/M7OCM/890/assets/128899149/72efdbd4-1906-4ca0-bf35-fc0a35ed616d)
 
-![20231211_115816](https://github.com/M7OCM/890/assets/128899149/a705ff8e-1d42-4629-961f-bc3d377b8329)
-
-![20231218_080633](https://github.com/M7OCM/890/assets/128899149/626091d6-d302-4776-957c-7a9b31841fca)
-
-![20231207_215408](https://github.com/M7OCM/890/assets/128899149/a0231b84-7295-4c95-a65f-3602a05e64b9)
-
-Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Schemes can be readily changed in ui/gfx.c (info in file).
+Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Colours can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
