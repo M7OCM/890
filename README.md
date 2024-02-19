@@ -8,22 +8,6 @@ I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor
 
 ![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
 
-v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
-
-v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 1of11s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
-
-Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being (is already changed in upcoming v2.0.8-naf, to original TX Priority). The 2.0.7-naf menu AM Fix option is replaced by *AM Fix Void - if selected, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
-
-AGC Mode and Reg Editor; same setup and keys, however for airband it is advised to use AGC Mode F2 (or F1 if using an external antenna) or change values to suit your antenna, location etc. Unless using a nail as an antenna 😁 AGC Modes A3 and F3 provide too much gain without AM Fix. These values are OEM default for FM RX. Hence the overloading issue with AM on stock. Try it though maybe be useable to some.
-
-VHF airband tips. Using a commonly available 771 type antenna, good location for air traffic, set F2. Test for local overloading and try reducing LNAS3 to 2. If reception is borderline try LNA 4 and PGA 3 or 4. I have mine on default F2 (all the 3's barring BW4 WK0). Sometimes for military UHF airband, I'll bump up LNA and PGA to 4. LNAS can be adjusted accordingly. Best to experiment not only with registers but antennae. Stock works well on airband despite the bad rep it receives online.
-
-FM can be greatly enhanced. Crank up the gain it works wonders. Try it!
-
-As before, registers reset when unit is switched off, but remain active while powered on. AGC Mode works in vfo, channel and spectrum modes.
-
-v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
-
 Experimental ui I've been working on! Bringing back the gawd awful display divider lines 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think pretty crammed in though. Playing with S-bar styles too. Back burner projects those. Some bits might get used.
 
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
@@ -106,6 +90,22 @@ or
 ![20240202_163643](https://github.com/M7OCM/890/assets/128899149/d6de065f-08c9-4761-a4b2-8702bca57a0c)
 
 ![20240202_155859](https://github.com/M7OCM/890/assets/128899149/922f0b51-a662-49a3-a350-97c8e1f3bc92)
+
+v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
+
+v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 1of11s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
+
+Key 2 preset (was AM Fix) is defaulted to Flashlight mode for time being (is already changed in upcoming v2.0.8-naf, to original TX Priority). The 2.0.7-naf menu AM Fix option is replaced by *AM Fix Void - if selected, this again defaults to Flashlight, just as a reminder this is a no AM Fix firmware edition 😉
+
+AGC Mode and Reg Editor; same setup and keys, however for airband it is advised to use AGC Mode F2 (or F1 if using an external antenna) or change values to suit your antenna, location etc. Unless using a nail as an antenna 😁 AGC Modes A3 and F3 provide too much gain without AM Fix. These values are OEM default for FM RX. Hence the overloading issue with AM on stock. Try it though maybe be useable to some.
+
+VHF airband tips. Using a commonly available 771 type antenna, good location for air traffic, set F2. Test for local overloading and try reducing LNAS3 to 2. If reception is borderline try LNA 4 and PGA 3 or 4. I have mine on default F2 (all the 3's barring BW4 WK0). Sometimes for military UHF airband, I'll bump up LNA and PGA to 4. LNAS can be adjusted accordingly. Best to experiment not only with registers but antennae. Stock works well on airband despite the bad rep it receives online.
+
+FM can be greatly enhanced. Crank up the gain it works wonders. Try it!
+
+As before, registers reset when unit is switched off, but remain active while powered on. AGC Mode works in vfo, channel and spectrum modes.
+
+v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
 
 v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels notably RED and BLUE "move" within their own pixel space, making characters appear higher or lower than their actual X, Y code coordinates.
 
