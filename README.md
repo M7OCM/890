@@ -9,6 +9,8 @@ I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor
 # Instructions
 Spectrum Keys
 
+Start by mapping a key (side key or keypad) to the Spectrum action.
+
 - Up Increase frequency range
 - Down Decrease frequency range
 - 1 Change scan step (16, 32, 64 or 128)
