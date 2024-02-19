@@ -63,6 +63,36 @@ Press any key other than Freq scanner to stop scanning.
 
 Alternatively use Chirp to store scan list memory (load my modified Python module). There needs to be at least 2 frequencies per scan list but no max limit. Duplicate frequencies can be added to more than one list.
 
+
+## Features in v2.0.9+
+- All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
+- RX 10 MHz to 1.3 GHz
+- TX 2m/70cm officially
+- 0.01K to 5 MHz steps
+- 999 channel memory
+- (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
+- Light and dark theme, user selectable
+- Squelch and S-meter revisions
+- DCS RX revised
+- PTT BCL TX during monitor revised
+- RSSI timer speed reduction to reduce internal RFI caused by screen updatesm
+- Full colour spectrum with options
+-  xxx AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX; xxx NOTE: AM Fix removed in v2.0.8-naf+ and no longer supported in my revisions
+- Custom side key and quick access keys
+- New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
+- Clock speed 120 MHz (OEFWCOM 72 MHz)
+- Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg are editable) 
+- Display dBM when receiving (calculation revised)
+- Reworked scan functionality
+  - 8 Scan lists plus scan all
+  - Faster scanning (16 ch/s)
+  - Resume mode: Time, Carrier, No resume
+  - Change scan direction while scanning (up/down keys)
+  - Force scan resume (up/down keys)
+- Reworked main menu system
+- Ability to disable LED flashing when scanning
+- and many more ui improvements...
+
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
 
@@ -170,37 +200,6 @@ Barring this feature and some cosmetics (status bar Dual Standby DSB changed to 
 Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Colours can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
-
-![20231207_215538](https://github.com/M7OCM/890/assets/128899149/a35c4a4f-4139-4193-b0d9-284de1c573d4)
-
-## Features in v2.0.9+
-- All stock features: [check user's manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
-- RX 10 MHz to 1.3 GHz
-- TX 2m/70cm officially
-- 0.01K to 5 MHz steps
-- 999 channel memory
-- (N/W)FM, (N/W)AM and SSB (LSB/USB) modulation
-- Light and dark theme, user selectable
-- Squelch and S-meter revisions
-- DCS RX revised
-- PTT BCL TX during monitor revised
-- RSSI timer speed reduction to reduce internal RFI caused by screen updatesm
-- Full colour spectrum with options
--  xxx AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX; xxx NOTE: AM Fix removed in v2.0.8-naf+ and no longer supported in my revisions
-- Custom side key and quick access keys
-- New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
-- Clock speed 120 MHz (OEFWCOM 72 MHz)
-- Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg are editable) 
-- Display dBM when receiving (calculation revised)
-- Reworked scan functionality
-  - 8 Scan lists plus scan all
-  - Faster scanning (16 ch/s)
-  - Resume mode: Time, Carrier, No resume
-  - Change scan direction while scanning (up/down keys)
-  - Force scan resume (up/down keys)
-- Reworked main menu system
-- Ability to disable LED flashing when scanning
-- and many more ui improvements...
 
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
