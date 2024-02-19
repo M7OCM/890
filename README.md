@@ -6,17 +6,6 @@ v2.0.9-naf REVISED 19022024 minor fixes. Please download again if using the 1702
 
 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawens (+Marcos input) DCS revision! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary.
 
-![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
-
-Experimental ui I've been working on! Bringing back the gawd awful display divider lines 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think pretty crammed in though. Playing with S-bar styles too. Back burner projects those. Some bits might get used.
-
-![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
-
-![20240204_231208](https://github.com/M7OCM/890/assets/128899149/a0bfbfc2-b8df-4158-975c-06fb8a464de7)
-
-![20240204_152010](https://github.com/M7OCM/890/assets/128899149/33220955-c419-41e2-8304-e6dd5704d353)
-
-
 # Instructions WIP
 Spectrum
 
@@ -90,6 +79,17 @@ or
 ![20240202_163643](https://github.com/M7OCM/890/assets/128899149/d6de065f-08c9-4761-a4b2-8702bca57a0c)
 
 ![20240202_155859](https://github.com/M7OCM/890/assets/128899149/922f0b51-a662-49a3-a350-97c8e1f3bc92)
+
+![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
+
+Experimental ui I've been working on! Bringing back the gawd awful display divider lines 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think pretty crammed in though. Playing with S-bar styles too. Back burner projects those. Some bits might get used.
+
+![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
+
+![20240204_231208](https://github.com/M7OCM/890/assets/128899149/a0bfbfc2-b8df-4158-975c-06fb8a464de7)
+
+![20240204_152010](https://github.com/M7OCM/890/assets/128899149/33220955-c419-41e2-8304-e6dd5704d353)
+
 
 v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
 
