@@ -63,7 +63,7 @@ Alternatively use Chirp to store scan list memory (load my modified Python modul
 
 FM Broadcast
 
-Default 0/FM. The FM frequency appears in the upper status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby (menu) and you can list to FMB, scan or search and when a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!.
+Default 0/FM, toggle on/off. To clear frequency, "off" then Menu key. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby, Menu-19 and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
 
 
 ## Features in v2.0.9+
