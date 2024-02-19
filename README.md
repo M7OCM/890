@@ -36,6 +36,8 @@ Experimental ui I've been working on! Bringing back the gawd awful display divid
 # Instructions WIP
 Spectrum
 
+Keys
+
 Up Increase frequency range
 Down Decrease frequency range
 
@@ -46,20 +48,19 @@ Down Decrease frequency range
 6 Increase squelch level
 7 Hold/Search (in hold, use up/down to adjust main frequency - useful to avoid RFI)
 9 Decrease squelch level
-0 Toggle filter (X= unfiltered, F = filtered)
-* Change scan delay (0 - 10ms)
+0 Toggle filter (X = unfiltered, F = filtered)
+Star Change scan delay (0 - 10ms)
 Hash Toggle bandwidth (25.0K = wide, 12.5K = narrow)
 
 Menu Jump to VFO mode with current frequency and settings (to allow TX)
-Exit  Exit spectrum
 
-Register Editor Usage
+Exit Exit spectrum
 
 Register Editor
 
 Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
 
-Register Editor keys:
+Keys
 
 Up Move editor to next register
 Down Move to previous register
