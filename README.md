@@ -4,8 +4,6 @@
 ## Latest
 v2.0.9-naf 17022024 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawen/Marcos' DCS revision! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary.
 
-How to... to scan lists firstly you need to add frequencies via the Menu to a specific 'Scan List'. Alternatively use Chirp (load my modified Python module). Once completed press scan to start, press again to advance to next list. There are no limits to list size and the same frequencies can be added to more than one list.
-
 ![20240209_105633](https://github.com/M7OCM/890/assets/128899149/0d65071a-431f-4832-acfc-9845ab84e00f)
 
 v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
@@ -43,21 +41,30 @@ Up Increase frequency range
 Down Decrease frequency range
 
 1 Change scan step (16, 32, 64 or 128)
+
 3 Change modulation (AM, FM or SSB)
+
 4 Change step size (0.25k - 50k)
+
 5 Switch spectrum modes (toggle 1-4)
+
 6 Increase squelch level
+
 7 Hold/Search (in hold, use up/down to adjust main frequency - useful to avoid RFI)
+
 9 Decrease squelch level
+
 0 Toggle filter (X = unfiltered, F = filtered)
+
 Star Change scan delay (0 - 10ms)
+
 Hash Toggle bandwidth (25.0K = wide, 12.5K = narrow)
 
 Menu Jump to VFO mode with current frequency and settings (to allow TX)
 
 Exit Exit spectrum
 
-Register Editor
+- Register Editor
 
 Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
 
@@ -68,16 +75,17 @@ Down Move to previous register
 
 1    Change AGC Mode
 
-A3, F3, F2, F1,  F0, F7, F6, F5, F4
+A3, F3, F2, F1, F0, F7, F6, F5, F4
 
 F2, F1 are good choices for airband
 
 2 Decrease value of current register's setting by 1
+
 3 Increase value of current register's setting by 1
 
 Exit Exit Register Editor
 
-Scan list/Scanning
+- Scan list/Scanning
 
 There are 8 scanlists, plus scan all.
 
@@ -89,8 +97,6 @@ To ignore scanlists and scan all channels, select * in the List To Scan menu.
 
 To add/remove current channel to current scanlist, use the Toggle SList shortcut.
 
-Scanning
-
 To start scanning, press a key mapped to the Freq scanner shortcut (default: long press on key 1).
 
 When scanning is in progress, use the Freq scanner key to change the scan list, this action will move to the next non-empty scanlist, or switch to scan all mode if all subsequent lists are empty.
@@ -100,6 +106,8 @@ To change the direction of current scan, use the up/down keys.
 To force the scan to resume when the scanner stops on a signal, use the up/down keys.
 
 Press any key other than Freq scanner to stop scanning.
+
+Alternatively use Chirp to store scan list memory (load my modified Python module). There needs to be at least 2 frequencies per scan list but no max limit. Duplicate frequencies can be added to more than one list.
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
