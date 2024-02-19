@@ -7,9 +7,9 @@ v2.0.9-naf REVISED 19022024 minor fixes. Please download again if using the 1702
 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawens (+Marcos input) DCS revision! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary.
 
 # Instructions
-Spectrum Keys
+Spectrum
 
-Start by mapping a key (side key or keypad) to the Spectrum action.
+Start by mapping a key (side key or keypad) to the Spectrum action using the main menu.
 
 - Up Increase frequency range
 - Down Decrease frequency range
@@ -29,8 +29,6 @@ Start by mapping a key (side key or keypad) to the Spectrum action.
 Register Editor
 
 Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
-
-Keys
 
 - Up Move editor to next register
 - Down Move to previous register
