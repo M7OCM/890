@@ -69,7 +69,7 @@ Default 0/FM, toggle on/off. To clear frequency, "off" then Menu key. The 4 digi
 ## Features in v2.0.9+
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX 10 MHz to 1.3 GHz
-- TX 2m/70cm officially, plus various VHF/UHF PMR
+- TX 2m/70cm officially, plus various VHF/UHF bands
 - 0.01K to 5 MHz steps
 - 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
