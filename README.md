@@ -115,6 +115,8 @@ or
 
 Experimental ui. I've been working on bringing back the awful display divider line 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think but pretty crammed in. Back burner projects those. Some bits might get used in later releases.
 
+Please note displayare  images are of specific versions and all subject to modification and may not be representative of the latest release.
+
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
 
 ![20240204_231208](https://github.com/M7OCM/890/assets/128899149/a0bfbfc2-b8df-4158-975c-06fb8a464de7)
