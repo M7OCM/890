@@ -94,7 +94,7 @@ Status Bar
   - Resume mode: Time, Carrier, No resume
   - Change scan direction while scanning (up/down keys)
   - Force scan resume (up/down keys)
-- Reworked main menu system
+- Reworked main-sub menu system, renames
 - Ability to disable LED flashing when scanning
 - and many more ui improvements...
 
