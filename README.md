@@ -98,6 +98,8 @@ Status Bar
 - Ability to disable LED flashing when scanning
 - and many more ui improvements...
 
+Note, the name tag font is UPPER CASE only and limited in special characters (A-Z, 0-9, -, =, <, and >.
+
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
 
@@ -213,10 +215,6 @@ Usual disclaimer, experimental firmware on a radio known for spurious signals an
 Use at own risk, no guarantee anything will work correctly or as intended. Back up your SPI with OEFW firmware flasher tool before using (see files) and radio data with Chirp.
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
-
-Note, the name tag font is upper case only and limited in special characters.
-
-Chirp Next compatible only with modified python module loaded (see files).
 
 ## OEFWCOM
 
