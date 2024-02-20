@@ -108,7 +108,7 @@ or
 
 [v2.0.0 source](https://github.com/OEFW-community/RT-890-custom-firmware/tree/variant-olaid-v2.0.0)
 
-Experimental ui. I've been working on ringing back the gawd awful display divider lines 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think but pretty crammed in. Back burner projects those. Some bits might get used in later releases.
+Experimental ui. I've been working on bringing back the awful display divider line 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think but pretty crammed in. Back burner projects those. Some bits might get used in later releases.
 
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
 
