@@ -97,7 +97,9 @@ Status Bar
 - Ability to disable LED flashing when scanning
 - and many more ui improvements...
 
-Note, the name tag font is UPPER CASE only and limited in special characters (A-Z, 0-9, -, =, <, and >. Any other characters or lower case will display blank.
+Note, the name tag font is UPPER CASE only and limited in special characters: A-Z 0-9 . : - = < >
+
+Lower case or any other characters will not display.
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
