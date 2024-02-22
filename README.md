@@ -11,7 +11,7 @@ Start by mapping a key (side key or keypad) to the Spectrum action using the mai
 - Up Increase frequency range
 - Down Decrease frequency range
 - 1 Change scan step (16, 32, 64 or 128)
-- 3 Change modulation (AM, FM or SSB)
+- 3 Change modulation (FM, AM or SSB)
 - 4 Change step size (0.25k - 50k)
 - 5 Switch spectrum modes (toggle 1-4)
 - 6 Increase squelch level
