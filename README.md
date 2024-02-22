@@ -48,7 +48,7 @@ To ignore scanlists and scan all channels, select * in the List To Scan menu.
 
 To add/remove current channel to current scanlist, use the Toggle SList shortcut.
 
-To start scanning, press a key mapped to the Freq scanner shortcut (default: long press on key 1).
+To start scanning, press a key mapped to the Freq scanner shortcut (default: long press on key 1). I use side key 2 short press.
 
 When scanning is in progress, use the Freq scanner key to change the scan list, this action will move to the next non-empty scanlist, or switch to scan all mode if all subsequent lists are empty.
 
