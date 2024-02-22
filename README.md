@@ -234,7 +234,7 @@ OEFWCOM is an ongoing development project by enthusiasts, in their own time and 
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
-## Team OEFW/OEFWCOM
+## OEFW/OEFWCOM
 
 [DualTachyon](https://github.com/dualtachyon)
 
