@@ -1,6 +1,5 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
-![20240217_130350](https://github.com/M7OCM/890/assets/128899149/3a22921d-794d-43a7-b86b-af428e84ec82)
-![20240217_130832](https://github.com/M7OCM/890/assets/128899149/936be6ba-9b31-4d95-99cc-4f0a40879071)
+
 ## Latest
 v2.0.9-naf REVISED 19022024 minor fixes. Please download again if using the 17022024 version. Not worth a version change.
 
@@ -115,7 +114,10 @@ or
 
 Experimental ui. I've been working on bringing back the awful display divider line 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think but pretty crammed in. Back burner projects those. Some bits might get used in later releases.
 
-Please note displayare  images are of specific versions and all subject to modification and may not be representative of the latest release.
+Please note display images are of specific versions and all subject to modification and may not be representative of the latest release.
+   
+![20240217_130350](https://github.com/M7OCM/890/assets/128899149/3a22921d-794d-43a7-b86b-af428e84ec82)
+![20240217_130832](https://github.com/M7OCM/890/assets/128899149/936be6ba-9b31-4d95-99cc-4f0a40879071)
 
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
 
