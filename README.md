@@ -79,7 +79,7 @@ Status Bar
 - Squelch and S-meter revisions
 - DCS RX revised
 - PTT BCL TX during monitor revised
-- RSSI timer speed reduction to reduce internal RFI caused by screen updatesm
+- RSSI timer speed reduction to reduce internal RFI caused by screen updates
 - Full colour spectrum with options
 -  xxx AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX; xxx NOTE: AM Fix removed in v2.0.8-naf+ and no longer supported in my revisions
 - Custom side key and quick access keys
