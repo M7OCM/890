@@ -116,6 +116,7 @@ Experimental ui. I've been working on bringing back the awful display divider li
 
 Please note display images are of specific versions and all subject to modification and may not be representative of the latest release.
 
+![20240204_152010](https://github.com/M7OCM/890/assets/128899149/33220955-c419-41e2-8304-e6dd5704d353)
 
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
 
@@ -128,8 +129,6 @@ Please note display images are of specific versions and all subject to modificat
 v2.0.9-naf REVISED 19022024 minor fixes. Please download again if using the 17022024 version. Not worth a version change.
 
 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawens (+Marcos input) DCS revision! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary.
-
-![20240204_152010](https://github.com/M7OCM/890/assets/128899149/33220955-c419-41e2-8304-e6dd5704d353)
 
 ![20240209_105633](https://github.com/M7OCM/890/assets/128899149/865f3e46-8345-4962-bf51-4e958573723c)
 
