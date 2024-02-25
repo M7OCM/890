@@ -3,7 +3,7 @@
 ## Latest
 ![20240222_233928](https://github.com/M7OCM/890/assets/128899149/059e93d5-6da4-45e4-851f-907030c55462)
 
-Coming soon... currently evaluating, bug fixes etc
+Coming soon... currently evaluating, bug fixes etc v2.1.0 release TBA.
 
 # Instructions
 Spectrum
