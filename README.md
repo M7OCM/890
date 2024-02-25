@@ -1,9 +1,11 @@
 # OEFW COMmunity (OEFWCOM) custom firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus
 
 ## Latest
-![20240222_233928](https://github.com/M7OCM/890/assets/128899149/059e93d5-6da4-45e4-851f-907030c55462)
+![20240225_151000](https://github.com/M7OCM/890/assets/128899149/6b4c60e5-e9f9-423f-898e-3b4ddf11e8e7)
 
-Coming soon... currently evaluating, bug fixes etc v2.1.0 release TBC.
+![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
+
+v2.1.0 coming soon hopefully! Currently testing functionality. Release TBC.
 
 # Instructions
 Spectrum
@@ -100,6 +102,8 @@ Status Bar
 Note, the name tag font is UPPER CASE only and limited in special characters: A-Z 0-9 . : - = < >
 
 Lower case or any other characters will not display.
+
+Bugs: Visual ui. Global variable issue effecting v2.03+ and Freq Detect Mode in single CH/VFO display mode. Problem: AGC Mode registers overlay screen when squelch opens/if muted no change. Temporary solution only use Freq Detect Mode in Dual Display as this is not effected. Working on viable solution and fix ASAP. No other bugs I am aware of.
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
