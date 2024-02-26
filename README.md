@@ -103,7 +103,9 @@ Note, the name tag font is UPPER CASE only and limited in special characters: A-
 
 Lower case or any other characters will not display.
 
-Bugs: No functional bugs I am aware of.
+v2.1.0 bugs: No major functional bugs I am aware of (Reppad fix for Freq Detect overlay)
+v2.0.3-v2.0.9 bugs: Freq detect register overlay in single display mode
+v2.0.0-2.02 bugs: minor bug fix in 2.0.1
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
