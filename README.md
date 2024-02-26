@@ -103,7 +103,7 @@ Note, the name tag font is UPPER CASE only and limited in special characters: A-
 
 Lower case or any other characters will not display.
 
-Bugs: Visual ui. Global variable issue effecting v2.03+ and Freq Detect Mode in single CH/VFO display mode. Problem: AGC Mode registers overlay screen when squelch opens/if muted no change. Temporary solution only use Freq Detect Mode in Dual Display as this is not effected. Working on viable solution and fix ASAP. No other bugs I am aware of.
+Bugs: No functional bugs I am aware of.
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
