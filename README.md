@@ -70,6 +70,8 @@ Status Bar
 
 (l-r) Padlock = Lock, FMB, V = VOX, Scan List #, D = Dual Standby/S = Single RX, Repeater Mode "-" = No RX Subtone, "=" = Monitor Input, TX Tone A = Roger Beep A, B = Roger Beep B, I = Send FSK ID, Battery Icon = Cell charge status.
 
+![20240226_214035](https://github.com/M7OCM/890/assets/128899149/8acdaa89-f1a6-4657-80fd-a9a574b1ddee)
+
 ## Features in v2.0.9+
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX 10 MHz to 1.3 GHz
