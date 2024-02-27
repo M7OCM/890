@@ -87,7 +87,7 @@ Status Bar
 - PTT BCL TX during monitor revised
 - RSSI timer speed reduction to reduce internal RFI caused by screen updates
 - Full colour spectrum with options
--  xxx AM Fix (ported version of OneOfEleven's) or optional v2.0.3+ AGC mode/reg editor for enhanced AM RX; xxx NOTE: AM Fix removed in v2.0.8-naf+ and no longer supported in my revisions
+- 1 of 11's "AM Fix" was removed in v2.0.8-naf, replaced by dynamic AGC Mode
 - Custom side key and quick access keys
 - New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
@@ -166,7 +166,7 @@ v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, 
 
 ![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
 
-The default border color used in v2.0.6 is grey. The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
+The default border color used is grey. The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
