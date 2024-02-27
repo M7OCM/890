@@ -7,6 +7,8 @@
 
 v2.1.0 27022024 update
 
+Personal thanks to Reppad and Xawen for assisting me in this project 👍
+
 # Instructions
 Spectrum
 
@@ -240,8 +242,6 @@ This is a personal project for my use primarily. Its uploaded here for archiving
 All versions have been updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed'. That said, not all OEFWCOM features are implemented and some of mine are unique. My revisions have been focussed on ui and operability for my use.
 
 OEFW 890 has come a long way in a very short space of time and is very useable now compared to stock.
-
-Personal thanks to Reppad and Xawen for assisting me in this project 👍
 
 OEFWCOM is an ongoing development project by enthusiasts, in their own time and for no financial gain. Testers are encouraged to provide feedback to the developers, without it, progess and implementation is unlikely to happen. So please do get involved.
 
