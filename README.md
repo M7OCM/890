@@ -5,7 +5,7 @@
 
 ![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
 
-v2.1.0 27022024 update
+v2.1.0 released 27022024, mainly cosmetic, probably my final revision as it performs perfectly and meets my requirements.
 
 Personal thanks to Reppad and Xawen for assisting me 👍
 
