@@ -91,7 +91,7 @@ v2.1.0 bugs: No functional bugs as far as I know.
 - PTT BCL TX during monitor revised
 - RSSI timer speed reduction to reduce internal RFI caused by screen updates
 - Full colour spectrum with options
-- 1 of 11's "AM Fix" was removed in v2.0.8-naf, replaced by dynamic AGC Mode
+- 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced by dynamic AGC Mode and Reg Editor
 - Custom side key and quick access keys
 - New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
