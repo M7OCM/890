@@ -107,6 +107,10 @@ Note, the name tag font is UPPER CASE only and limited in special characters: A-
 
 Lower case or any other characters will not display.
 
+![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
+
+The default border color used is grey. The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
+
 v2.1.0 bugs: No functional bugs as far as I know
 
 ## Background and previous versions
@@ -162,11 +166,8 @@ v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update 
 
 ![20240202_163643](https://github.com/M7OCM/890/assets/128899149/b586dfa7-b5f2-48df-83be-a92a029bdd79)
 
-v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels notably RED and BLUE "move" within their own pixel space, making characters appear higher or lower than their actual X, Y code coordinates.
+v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels     coordinates.
 
-![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
-
-The default border color used is grey. The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
