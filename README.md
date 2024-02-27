@@ -5,7 +5,7 @@
 
 ![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
 
-v2.1.0 coming soon hopefully! Currently testing functionality. Release TBC.
+v2.1.0 27022024 update
 
 # Instructions
 Spectrum
@@ -105,9 +105,7 @@ Note, the name tag font is UPPER CASE only and limited in special characters: A-
 
 Lower case or any other characters will not display.
 
-v2.1.0 bugs: No major functional bugs I am aware of (Reppad fix for Freq Detect overlay)
-v2.0.3-v2.0.9 bugs: Freq detect register overlay in single display mode
-v2.0.0-2.02 bugs: minor bug fix in 2.0.1
+v2.1.0 bugs: No functional bugs as far as I know
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
