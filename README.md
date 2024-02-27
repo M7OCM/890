@@ -72,7 +72,11 @@ Status Bar
 
 (l-r) Padlock = Lock, FMB, V = VOX, Scan List #, D = Dual Standby/S = Single RX, Repeater Mode "-" = No RX Subtone, "=" = Monitor Input, TX Tone A = Roger Beep A, B = Roger Beep B, I = Send FSK ID, Battery Icon = Cell charge status.
 
-![20240226_214035](https://github.com/M7OCM/890/assets/128899149/8acdaa89-f1a6-4657-80fd-a9a574b1ddee)
+![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
+
+The default border color used is grey. The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
+
+v2.1.0 bugs: No functional bugs as far as I know.
 
 ## Features in v2.0.9+
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
@@ -106,12 +110,6 @@ Status Bar
 Note, the name tag font is UPPER CASE only and limited in special characters: A-Z 0-9 . : - = < >
 
 Lower case or any other characters will not display.
-
-![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
-
-The default border color used is grey. The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
-
-v2.1.0 bugs: No functional bugs as far as I know
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
@@ -237,7 +235,6 @@ Use at own risk, no guarantee anything will work correctly or as intended. Back 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
 ## OEFWCOM
-
 This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
 All versions have been updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed'. That said, not all OEFWCOM features are implemented and some of mine are unique. My revisions have been focussed on ui and operability for my use.
