@@ -7,7 +7,7 @@
 
 v2.1.0 27022024 update
 
-Personal thanks to Reppad and Xawen for assisting me in this project 👍
+Personal thanks to Reppad and Xawen for assisting me 👍
 
 # Instructions
 Spectrum
