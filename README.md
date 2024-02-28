@@ -80,7 +80,7 @@ v2.1.0 bugs: No functional bugs as far as I know.
 
 ## Features in v2.0.9+
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
-- RX 10 MHz to 1.3 GHz
+- RX 10 MHz to 1.3 GHz (for experimental use)
 - TX 2m/70cm officially, plus various VHF/UHF bands
 - 0.01K to 5 MHz steps
 - 999 channel memory
