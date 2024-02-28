@@ -31,7 +31,7 @@ Start by mapping a key (side key or keypad) to the Spectrum action using the mai
 
 Register Editor
 
-Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
+Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font. Please read further down for additional information about this feature.
 
 - Up Move editor to next register
 - Down Move to previous register
@@ -86,6 +86,7 @@ v2.1.0 bugs: No functional bugs as far as I know.
 - 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
 - Light and dark theme, user selectable
+- Restyled ui, fixed alignment issues, renamed menu items,new use for status bar, colour changes, font changes, improved clarity etc
 - Squelch and S-meter revisions
 - DCS RX revised
 - PTT BCL TX during monitor revised
@@ -165,7 +166,7 @@ v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update 
 
 ![20240202_163643](https://github.com/M7OCM/890/assets/128899149/b586dfa7-b5f2-48df-83be-a92a029bdd79)
 
-v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months, whereby coloured pixels     coordinates.
+v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months!
 
 
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
@@ -196,7 +197,7 @@ Manual value interaction is better in my opinion as weak signal capture is vastl
 
 After many weeks of testing, fixed AGC mode FIX 2 (F2) is a good starting point for excellent airband listening on a airband resonant handheld whip. Higher gain antennas (plus pre amp, external roof mounted etc) will likely require FIX 1 (F1). If the point of saturation is exceeded and squelch opens, the receiving frequency will reset to 000.00000. Reduce value(s) accordingly.
 
-Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local AM signals. Consider reducing LNAS to value 2, and/or reducing PGA by 1 or more units.
+Users are encouraged to experiment based on location and antenna used. As a rule of thumb, high PGA combined with high LNA values will result in distortion of strong local AM signals. Consider reducing LNAS to value 2, and/or reducing PGA by 1 or more units. Weaker signals can be captured by adjusting BW (Bandwidth) and WK (Weak) values. Squelch will be your friend, dont forget its super sensitive after modding.
 
 Please note registers reset to default on shutdown. All BK4819 AGC modes are available though F0, F7, F6 and F5 are undocumented and most have default zero values, some of those values reset or maybe unchangeable which is normal behaviour. Unlike AM fix, register edits also work on FM.
 
@@ -213,17 +214,17 @@ Barring this feature and some cosmetics (status bar Dual Standby DSB changed to 
 
 2.0.2It colour update 31122023: OEM style, blue rx etc. This is a special firmware and differs cosmetically from standard. I revised this exclusively for an Italian amateur radio group on Telegram.
 
-2.0.2 refactoring 21122023 one bin: black/white (default). Credit: OEFWCOM
+2.0.2 refactoring 21122023 one bin: black/white (default).
 
-2.0.1 bug fixes 18122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
+2.0.1 OEFW bug fix 18122023 two bins: black/green; black/orange.
 
 ![20231213_164050](https://github.com/M7OCM/890/assets/128899149/74cf0357-34b5-433f-a620-4f2a853c2a49)
 
-2.0.0 official release 13122023 two bins: black/green; black/orange. Credit: OEFW - OEFWCOM
+2.0.0 official release 13122023 two bins: black/green; black/orange. Credits: OEFW - OEFWCOM
 
 ![20231213_164032](https://github.com/M7OCM/890/assets/128899149/72efdbd4-1906-4ca0-bf35-fc0a35ed616d)
 
-Please note the bin files herein are 2 colour themes only, not multiple colour versions that can be switched within the radio menu. Colours can be readily changed in ui/gfx.c (info in file).
+Please note the bin files herein are two colour themes only, not multiple colour versions that can be switched within the radio menu. Colours can be readily changed in ui/gfx.c (info in file).
 
 ![20231207_082721](https://github.com/M7OCM/890/assets/128899149/8b22bb4d-8f40-4794-a051-b7f379ca8464)
 
@@ -238,7 +239,7 @@ Use at own risk, no guarantee anything will work correctly or as intended. Back 
 ## OEFWCOM
 This is a personal project for my use primarily. Its uploaded here for archiving and for others to try as is. This is my vision, it might not be yours and that is fine. Please try OEFW or the other OEFWCOM releases. The latter being fully supported by an active group on [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
-All versions have been updated with OEFWCOM changes wherever possible making the latest release the most current and/or 'fixed'. That said, not all OEFWCOM features are implemented and some of mine are unique. My revisions have been focussed on ui and operability for my use.
+All versions have been updated with functional changes wherever possible making the latest release the most current and/or 'fixed'. That said, not all OEFWCOM features are implemented and some of mine are unique. My revisions have been focussed on ui and operability for my use.
 
 OEFW 890 has come a long way in a very short space of time and is very useable now compared to stock.
 
