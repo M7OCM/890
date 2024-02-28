@@ -80,8 +80,8 @@ v2.1.0 bugs: No functional bugs as far as I know.
 
 ## Features in v2.0.9+
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
-- RX 10 MHz to 1.3 GHz (CAUTION for experimental use, do not TX outside of OEM radio parameters)
-- TX 2m/70cm officially, plus various VHF/UHF bands
+- RX is unlocked 10 MHz to 1.3 GH 💀 CAUTION for experimental use only, do not TX outside of chip specification. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour 💀
+- TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - mileage will vary
 - 0.01K to 5 MHz steps
 - 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
