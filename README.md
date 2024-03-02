@@ -128,8 +128,6 @@ or
 
 Experimental ui. I've been working on bringing back the awful display divider line 😁 That required a major overhaul of individual display coordinates and really shows up a wonky screen of which I have 2! Looks better than stock I think but pretty crammed in. Back burner projects those. Some bits might get used in later releases.
 
-![20240302_115320](https://github.com/M7OCM/890/assets/128899149/b45f160f-364c-437d-9e99-e20d33b8eca6)
-
 Please note display images are of previous versions - or newer ones in development - and therefore subject to change or modification and may not be representative of final release.
 
 ![20240204_152010](https://github.com/M7OCM/890/assets/128899149/33220955-c419-41e2-8304-e6dd5704d353)
