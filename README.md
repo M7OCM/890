@@ -63,8 +63,8 @@ Start by mapping a key (side key or keypad) to the Spectrum action using the mai
 - 0 Toggle filter (X = unfiltered, F = filtered)
 - Star (*) Change scan delay (0 - 10ms)
 - Hash (#) Toggle bandwidth (25.0K = wide, 12.5K = narrow)
-- Menu Jump to VFO mode with current frequency and settings (to allow TX)
-- Exit Return to main
+- MENU key Jump to VFO mode with current frequency and settings (to allow TX)
+- EXIT key Return to main
 
 Register Editor
 
@@ -75,7 +75,7 @@ Start by mapping a key (side key or keypad) to the Reg Editor action using the m
 - 1 Change AGC Mode (A3, F3, F2, F1, F0, F7, F6, F5, F4); F2, F1 are good choices for airband
 - 2 Decrease value of current register's setting by 1
 - 3 Increase value of current register's setting by 1
-- Exit Return to main
+- EXIT key Return to main
 
 Scan lists and Scanning
 
