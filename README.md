@@ -48,6 +48,7 @@ The following keypad keys are all LP
 - EXIT Key Single/Dual Display
 
 **Spectrum**
+
 Start by mapping a key (side key or keypad) to the Spectrum action using the main menu.
 
 - Up Increase frequency range
