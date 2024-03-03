@@ -7,7 +7,7 @@
 
 ![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
 
-v2.1.1 "never say never" edition, few tweaks. TBC.
+v2.1.1 released 03032024 SOMETIME TODAY TBC "never say never" edition. After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍
 
 v2.1.0 released 27022024, mainly cosmetic, probably my final revision (see above 😉) as it performs perfectly and now meets my requirements which, after all was the original remit.
 
