@@ -23,31 +23,29 @@ Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 Default Keys v2.1.1k
 
-- Side Key 1SP: Monitor
-- Side Key 1LP: Freq Detect
-- Side Key 2SP: Scan/Toggle Scan List
-- Side Key 2LP: Spectrum
+- Side Key 1SP Monitor
+- Side Key 1LP Freq Detect
+- Side Key 2SP Scan/Toggle ScanL
+- Side Key 2LP Spectrum
 
-SP = Short Press
+SP = Short Press; LP = Long Press
 
-LP = Long Press
+The following keypad keys are all LP
 
-- 1: Scan
-- 2: Modulation
-- 3: Bandwidth
-- 4: TX Power
-- 5: AGC Mode
-- 6: Dual Standby
-- 7: Repeater Mode
-- 8: Reg Editor
-- 9: Scan List Add/Remove
-- 0: FMB
-- *: Edit TX Freq
-- #: Lock
-- Menu: DTMF
-- Exit: Single/Dual Display
-
-The keypad keys are all (LP).
+- 1 Scan
+- 2 Modulation
+- 3 Bandwidth
+- 4 TX Power
+- 5 AGC Mode
+- 6 Dual Standby
+- 7 Repeater Mode
+- 8 Reg Editor
+- 9 Scan List Add/Remove
+- 0 FMB
+- Star (*) Edit TX Freq
+- Hash (#) Lock
+- MENU Key DTMF
+- EXIT Key Single/Dual Display
 
 Spectrum
 
