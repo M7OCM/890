@@ -21,7 +21,7 @@ Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 # Instructions
 
-Default Keys v2.1.1k
+**Default Keys v2.1.1k**
 
 - Side Key 1SP Monitor
 - Side Key 1LP Freq Detect
@@ -47,7 +47,7 @@ The following keypad keys are all LP
 - MENU Key DTMF
 - EXIT Key Single/Dual Display
 
-Spectrum
+**Spectrum**
 
 Start by mapping a key (side key or keypad) to the Spectrum action using the main menu.
 
@@ -66,7 +66,7 @@ Start by mapping a key (side key or keypad) to the Spectrum action using the mai
 - MENU key Jump to VFO mode with current frequency and settings (to allow TX)
 - EXIT key Return to main
 
-Register Editor
+**Register Editor**
 
 Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font. Please read further down for additional information about this feature.
 
@@ -77,7 +77,7 @@ Start by mapping a key (side key or keypad) to the Reg Editor action using the m
 - 3 Increase value of current register's setting by 1
 - EXIT key Return to main
 
-Scan lists and Scanning
+**Scan lists and Scanning**
 
 There are 8 scanlists, plus scan all.
 
@@ -101,11 +101,11 @@ Press any key other than Freq scanner to stop scanning.
 
 Alternatively use Chirp to store scan list memory (load my modified Python module). There needs to be at least 2 frequencies per scan list but no max limit. Duplicate frequencies can be added to more than one list.
 
-FM Broadcast (FMB)
+**FM Broadcast (FMB)**
 
 Default 0/FM, toggle on/off. To clear frequency, "off" then Menu key. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby, Menu-19 and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
 
-Status Bar
+**Status Bar**
 
 (l-r) Padlock = Lock, FMB, V = VOX, Scan List #, D = Dual Standby/S = Single RX, Repeater Mode "-" = No RX Subtone, "=" = Monitor Input, TX Tone A = Roger Beep A, B = Roger Beep B, I = Send FSK ID, Battery Icon = Cell charge status.
 
@@ -205,7 +205,6 @@ v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update 
 
 v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months!
 
-
 ![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
 v2.0.5 27012024 (AGC Mode/Reg edit issue resolved thanks Xawen) single binary, squelch threshold revision; based on data gleaned from various UV-K5 firmware sources.
@@ -267,9 +266,9 @@ Please note the bin files herein are two colour themes only, not multiple colour
 
 ![20231202_140911](https://github.com/M7OCM/890/assets/128899149/5e7548cc-7edc-402c-b838-2062303be3fe)
 
-Usual disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?! 🧯
+**Disclaimer, experimental firmware on a radio known for spurious signals and harmonics... what could possibly go wrong?!** 🧯
 
-Use at own risk, no guarantee anything will work correctly or as intended. Back up your SPI with OEFW firmware flasher tool before using (see files) and radio data with Chirp.
+**Use at own risk, no guarantee anything will work correctly or as intended. Back up your SPI with OEFW firmware flasher tool before using (see files) and radio data with Chirp.**
 
 ![20231126_232206](https://github.com/M7OCM/890/assets/128899149/54afe5dd-b26f-43c8-a622-3b85a9a4fee7)
 
