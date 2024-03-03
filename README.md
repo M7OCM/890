@@ -98,8 +98,7 @@ v2.1.0 bugs: No functional bugs as far as I know.
 - Full colour spectrum with options
 - ~~AM Fix ported from 1 of 11's UV-K5 firmware~~
 - 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced by dynamic AGC Mode and Reg Editor
-- Custom side key and quick access keys
-- New configurable actions (FM Radio, Scanner, Flashlight, Dark Theme and Spectrum
+- Custom side key and configurable "quick access" keypad actions
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
 - Display dBM when receiving (calculation revised)
