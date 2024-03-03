@@ -123,16 +123,16 @@ v2.1.0 bugs: No functional bugs as far as I know.
 - 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
 - Light and dark theme, user selectable
-- Restyled ui, fixed alignment issues, renamed menu items,new use for status bar, colour changes, font changes, improved clarity etc
+- Restyled ui, fixed alignment issues, renamed menu items, new use for status bar (Scan List #), colour changes, font changes, improved clarity etc
 - Squelch and S-meter revisions
 - DCS RX revised
 - PTT BCL TX during monitor revised
 - RSSI timer speed reduction to reduce internal RFI caused by screen updates
 - Full colour spectrum with options
 - ~~AM Fix ported from 1 of 11's UV-K5 firmware~~
-- 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced by dynamic AGC Mode and Reg Editor
+- 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced entirely by dynamic AGC Mode and Reg Editor
 - ~~Flashlight Mode~~
-- Custom side key and configurable "quick access" keypad actions; Note: Flashlight Mode removed v2.1.1 and Modulation and Bandwidth action keys added
+- Custom side key and configurable "quick access" keypad actions; Note: Flashlight Mode removed v2.1.1+ and Modulation and Bandwidth action keys added
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
 - Display dBM when receiving (calculation revised)
