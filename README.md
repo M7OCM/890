@@ -11,7 +11,7 @@ v2.1.1k to be released *04032024* added another Key Action: Bandwidth, adjusted 
 
 v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight code removed.
 
-v2.1.0 released 27022024, mainly cosmetic.
+v2.1.0 released 27022024, mainly cosmetic. Finalising code prior to completion of project.
 
 ![20240302_152730](https://github.com/M7OCM/890/assets/128899149/c89a7577-7597-4911-934a-d8ebfddd10e9)
 
@@ -102,7 +102,7 @@ Press any key other than Freq scanner to stop scanning.
 
 Alternatively use Chirp to store scan list memory (load my modified Python module). There needs to be at least 2 frequencies per scan list but no max limit. Duplicate frequencies can be added to more than one list.
 
-FM Broadcast
+FM Broadcast (FMB)
 
 Default 0/FM, toggle on/off. To clear frequency, "off" then Menu key. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby, Menu-19 and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
 
@@ -116,7 +116,7 @@ The default border color used is grey. The code change can be made in Chirp (see
 
 v2.1.0 bugs: No functional bugs as far as I know.
 
-## Features in v2.1.1
+## Features in v2.1.1+
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX is unlocked 10 MHz to 1.3 GHz 💀 CAUTION for experimental use only, do not TX outside of chip specification. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour 💀
 - TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - mileage will vary
@@ -133,7 +133,7 @@ v2.1.0 bugs: No functional bugs as far as I know.
 - ~~AM Fix ported from 1 of 11's UV-K5 firmware~~
 - 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced by dynamic AGC Mode and Reg Editor
 - ~~Flashlight Mode~~
-- Custom side key and configurable "quick access" keypad actions; Note: Flashlight Mode removed v2.1.1 and Modulation Action added
+- Custom side key and configurable "quick access" keypad actions; Note: Flashlight Mode removed v2.1.1 and Modulation and Bandwidth action keys added
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
 - Display dBM when receiving (calculation revised)
@@ -143,8 +143,8 @@ v2.1.0 bugs: No functional bugs as far as I know.
   - Resume mode: Time, Carrier, No resume
   - Change scan direction while scanning (up/down keys)
   - Force scan resume (up/down keys)
-- Reworked main-sub menu system, renames
-- Ability to disable LED flashing when scanning
+- Reworked main-sub menu system, renamed items
+- Ability to disable green LED flashing when scanning/searching
 - and many more ui improvements...
 
 Note, the name tag font is UPPER CASE only and limited in special characters: A-Z 0-9 . : - = < >
@@ -158,7 +158,7 @@ Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was original
 
 [v1.0 series bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
 
-[v2.0.0-v2.0.9 source](https://github.com/M7OCM/890/tree/source)
+[v2.0.0-v2.1.0 source](https://github.com/M7OCM/890/tree/source)
 
 or
 
