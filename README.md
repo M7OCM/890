@@ -7,7 +7,7 @@
 
 ![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
 
-v2.1.1 released 03032024 SOMETIME TODAY TBC "never say never" edition. After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍
+v2.1.1 released 03032024 "never say never" edition lol. After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍
 
 v2.1.0 released 27022024, mainly cosmetic, probably my final revision (see above 😉) as it performs perfectly and now meets my requirements which, after all was the original remit.
 
@@ -86,7 +86,7 @@ The default border color used is grey. The code change can be made in Chirp (see
 
 v2.1.0 bugs: No functional bugs as far as I know.
 
-## Features in v2.0.9+
+## Features in v2.1.1
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX is unlocked 10 MHz to 1.3 GHz 💀 CAUTION for experimental use only, do not TX outside of chip specification. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour 💀
 - TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - mileage will vary
@@ -102,7 +102,8 @@ v2.1.0 bugs: No functional bugs as far as I know.
 - Full colour spectrum with options
 - ~~AM Fix ported from 1 of 11's UV-K5 firmware~~
 - 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced by dynamic AGC Mode and Reg Editor
-- Custom side key and configurable "quick access" keypad actions; Note: Flashlight Mode removed v2.1.1 and Modulation Action added.
+- ~~Flashlight Mode~~
+- Custom side key and configurable "quick access" keypad actions; Note: Flashlight Mode removed v2.1.1 and Modulation Action added
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
 - Display dBM when receiving (calculation revised)
