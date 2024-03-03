@@ -87,7 +87,7 @@ The scanlist to be used can be selected in the List To Scan menu.
 
 To ignore scanlists and scan all channels, select * in the List To Scan menu.
 
-To add/remove current channel to current scanlist, use the Toggle SList shortcut.
+To add/remove current channel to/from current scanlist, use the Toggle SList shortcut which is default Key 9 (v2.1.1k+).
 
 To start scanning, press a key mapped to the Freq scanner shortcut (default: long press on key 1). I use side key 2 short press.
 
