@@ -9,7 +9,7 @@
 
 v2.1.1k to be released *04032024* added another Key Action: Bandwidth, adjusted default keys to my own; can be changed to your own needs. See Instructions below.
 
-v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight code removed.
+v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight Mode code removed completely.
 
 v2.1.0 released 27022024, mainly cosmetic. Finalising code prior to completion of project.
 
