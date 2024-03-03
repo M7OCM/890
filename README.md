@@ -7,9 +7,11 @@
 
 ![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
 
-v2.1.1 released 03032024 "never say never" edition lol. After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍
+v2.1.1k to be released *04032024* added another Key Action: Bandwidth, adjusted default keys to my own; can be changed to your own needs. See Instructions below.
 
-v2.1.0 released 27022024, mainly cosmetic, probably my final revision (see above 😉) as it performs perfectly and now meets my requirements which, after all was the original remit.
+v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight code removed.
+
+v2.1.0 released 27022024, mainly cosmetic.
 
 ![20240302_152730](https://github.com/M7OCM/890/assets/128899149/c89a7577-7597-4911-934a-d8ebfddd10e9)
 
@@ -18,6 +20,34 @@ v2.1.0 released 27022024, mainly cosmetic, probably my final revision (see above
 Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 # Instructions
+
+Default Keys v2.1.1k
+
+Side Key 1SP: Monitor
+Side Key 1LP: Freq Detect
+Side Key 2SP: Scan/Toggle Scan List
+Side Key 2LP: Spectrum
+
+SP = Short Press
+LP = Long Press
+
+1: Scan
+2: Modulation
+3: Bandwidth
+4: TX Power
+5: AGC Mode
+6: Dual Standby
+7: Repeater Mode
+8: Reg Editor
+9: Scan List Add/Remove
+0: FMB
+*: Edit TX Freq
+#: Lock
+Menu: DTMF
+Exit: Single/Dual Display
+
+The keypad keys are all (LP).
+
 Spectrum
 
 Start by mapping a key (side key or keypad) to the Spectrum action using the main menu.
