@@ -1,4 +1,4 @@
-# Modified firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus Transceivers
+# Modified Firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus Transceivers
 ![20240228_165504](https://github.com/M7OCM/890/assets/128899149/d59956d3-8828-4d25-8084-b00225c02c1b)
 ## Latest
 ![20240225_152848](https://github.com/M7OCM/890/assets/128899149/15d268c3-6d5d-4670-aac6-70deefbc9be7)
