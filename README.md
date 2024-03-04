@@ -1,11 +1,6 @@
 # Modified Firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus Transceivers
-![20240228_165504](https://github.com/M7OCM/890/assets/128899149/d59956d3-8828-4d25-8084-b00225c02c1b)
+
 ## Latest
-![20240225_152848](https://github.com/M7OCM/890/assets/128899149/15d268c3-6d5d-4670-aac6-70deefbc9be7)
-
-![20240302_151921](https://github.com/M7OCM/890/assets/128899149/8002ba5a-bb8f-42ac-bb1f-cd0b28f50684)
-
-![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
 
 v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own. See **Instructions** below.
 
