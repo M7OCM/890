@@ -3,13 +3,11 @@
 
 ## Latest
 ![20240304_093404](https://github.com/M7OCM/890/assets/128899149/2bc95e04-97d0-4fbc-9ea4-45385575615f)
-As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition the fw requires more rigorous testing and inevitably bugs tend to creep in when something 'major' gets changed 😂
+As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition, the fw requires more rigorous testing as, inevitably, bugs tend to creep in when something 'major' gets changed 😂
 
-I've jumped the gun recently calling it done. Lets just say there could be a few minor revisions coming but they will not effect the main engine so to speak. AGC Mode/Reg Editor is a revelation its handed the user full control over the previous gain issues that plagued AM.
+I've jumped the gun recently calling it finished. Lets just say there could be a few minor revisions coming, but they will not effect the main engine so to speak. AGC Mode/Reg Editor is a revelation - its handed full control to the user and eliminates the previous gain issues that plagued AM.
 
-Thanks for trying it and your support.
-
-v2.1.2 Release TBC soon. NOAA Monitor removed, didn't work effectively in the first instance; added TX CTCSS/DCS to Key Action; works in harmony with key * "reverse frequency", (eg for setting tone on repeater input frequency).
+v2.1.2 Release TBC soon. NOAA Monitor removed, didn't work effectively in the first instance; added TX CTCSS/DCS to Key Action; works in harmony with key * "reverse frequency", (eg for setting tone on repeater input frequency). Reset keys mandatory.
 
 v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own. See **Instructions** below.
 
@@ -147,7 +145,7 @@ v2.1.1k bugs: No known functional bugs.
 - ~~AM Fix ported from 1 of 11's UV-K5 firmware~~
 - 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced entirely by dynamic AGC Mode and Reg Editor
 - ~~Flashlight Mode~~
-- Custom side key and configurable "quick access" keypad actions; Note: Flashlight Mode removed v2.1.1+ and Modulation and Bandwidth action keys added
+- Custom side key and configurable "quick access" keypad actions; Note: Flashlight and NOAA have been removed in v2.1.2 and Modulation, Bandwidth and TX CTCSS/DCS action keys added
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
 - Display dBM when receiving (calculation revised)
