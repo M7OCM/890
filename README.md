@@ -3,6 +3,11 @@
 
 ## Latest
 ![20240304_093404](https://github.com/M7OCM/890/assets/128899149/2bc95e04-97d0-4fbc-9ea4-45385575615f)
+As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition the fw requires more rigorous testing and inevitably bugs tend to creep in when something 'major' gets changed 😂
+
+I've jumped the gun recently calling it done. Lets just say there could be a few minor revisions coming but they will not effect the main engine so to speak. AGC Mode/Reg Editor is a revelation its handed the user full control over the previous gain issues that plagued AM.
+
+Thanks for trying it and your support.
 
 v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own. See **Instructions** below.
 
