@@ -7,7 +7,7 @@
 
 ![20240225_151034](https://github.com/M7OCM/890/assets/128899149/36b22389-7d6f-4854-ad44-b333c9bb1059)
 
-v2.1.1k to be released *04032024* added another Key Action: Bandwidth, adjusted default keys to my own; can be changed to your own needs. See Instructions below.
+v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own. See **Instructions** below.
 
 v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight Mode code removed completely.
 
