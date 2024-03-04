@@ -9,6 +9,8 @@ I've jumped the gun recently calling it done. Lets just say there could be a few
 
 Thanks for trying it and your support.
 
+v2.1.2 Release TBC soon. NOAA Monitor removed, didn't work effectively in the first instance; added TX CTCSS/DCS to Key Action; works in harmony with key * "reverse frequency", (eg for setting tone on repeater input frequency).
+
 v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own. See **Instructions** below.
 
 v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight Mode code removed completely.
@@ -23,7 +25,7 @@ Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 # Instructions
 
-**Default Keys v2.1.1k**
+**Default Keys v2.1.1k, v2.1.2**
 
 - Side Key 1SP Monitor
 - Side Key 1LP Freq Detect
@@ -46,7 +48,7 @@ The following keypad keys are all LP
 - 0 FMB
 - Star (*) Edit TX Freq
 - Hash (#) Lock
-- MENU Key DTMF
+- MENU Key TX CTCSS/DCS (DTMF in v2.1.1k)
 - EXIT Key Single/Dual Display
 
 **Spectrum**
