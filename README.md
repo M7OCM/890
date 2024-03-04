@@ -115,6 +115,17 @@ Default 0/FM, toggle on/off. To clear frequency, "off" then Menu key. The 4 digi
 
 The default border color used is grey (33808). The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
 
+**Speech Inversion Frequencies**
+
+- 1 1350Hz
+- 2 1400Hz
+- 3 1450Hz
+- 4 1500Hz
+- 5 1550Hz
+- 6 1600Hz
+- 7 1650Hz
+- 8 1700Hz
+
 v2.1.1k bugs: No known functional bugs.
 
 ## Features in v2.1.1+
