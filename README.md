@@ -1,4 +1,4 @@
-# Modified Firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus Transceivers
+# Modified OEFWCOM Firmware for Radtel RT-890/Ruyage UV58Plus/iradio UV5118Plus Transceivers
 ![20240304_093310](https://github.com/M7OCM/890/assets/128899149/2899d56f-2e21-4017-8f3c-956c18d98ec4)
 
 ## Latest
@@ -8,6 +8,8 @@ v2.1.2 released 05032024 (2 bin files standard plus aero) NOAA Monitor removed, 
 As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition, the fw requires more rigorous testing as, inevitably, bugs tend to creep in when something 'major' gets changed 😂
 
 I've jumped the gun recently calling it finished. Lets just say there could be a few minor revisions coming, but they will not effect the main engine so to speak. AGC Mode/Reg Editor is a revelation - its handed full control to the user and eliminates the previous gain issues that plagued AM.
+
+I'm more than satisfied with how the radio works - its not perfect, but what is? The source files contain all the changes I've made. With that in mind, and as this is 100% Open Source Firmware, if any developers what to continue where I left off, add new features or anything at all, please do. Just change the Version, Author info to reflect that. Thanks.
 
 ![20240302_152730](https://github.com/M7OCM/890/assets/128899149/c89a7577-7597-4911-934a-d8ebfddd10e9)
 
