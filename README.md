@@ -30,7 +30,7 @@ SP = Short Press; LP = Long Press
 
 The following keypad keys are all LP
 
-- 1 Scan
+- 1 Squelch
 - 2 Modulation
 - 3 Bandwidth
 - 4 TX Power
@@ -42,7 +42,7 @@ The following keypad keys are all LP
 - 0 FMB
 - Star (*) Edit TX Freq
 - Hash (#) Lock
-- MENU Key TX CTCSS/DCS (was DTMF in v2.1.1k)
+- MENU Key TX CTCSS/DCS
 - EXIT Key Single/Dual Display
 
 **Spectrum**
