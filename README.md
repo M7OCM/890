@@ -1,4 +1,4 @@
-# Modified OEFWCOM Trancseiver Firmware for Radtel RT-890 | Ruyage UV58Plus | iradio UV5118Plus
+# Modified OEFWCOM Transceiver Firmware for Radtel RT-890 | Ruyage UV58Plus | iradio UV5118Plus
 ![20240304_093310](https://github.com/M7OCM/890/assets/128899149/2899d56f-2e21-4017-8f3c-956c18d98ec4)
 
 ## Latest
