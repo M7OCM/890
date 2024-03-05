@@ -7,13 +7,7 @@ As previously mentioned I'm hopeful that very soon if not now (!) this firmware 
 
 I've jumped the gun recently calling it finished. Lets just say there could be a few minor revisions coming, but they will not effect the main engine so to speak. AGC Mode/Reg Editor is a revelation - its handed full control to the user and eliminates the previous gain issues that plagued AM.
 
-v2.1.2 Release TBC soon. NOAA Monitor removed, didn't work effectively in the first instance; added TX CTCSS/DCS to Key Action; works in harmony with key * "reverse frequency", (eg for setting tone on repeater input frequency). Reset keys mandatory.
-
-v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own. See **Instructions** below.
-
-v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight Mode code removed completely.
-
-v2.1.0 released 27022024, mainly cosmetic. Finalising code prior to completion of project.
+v2.1.2 released 05032024 (2 bin files standard plus aero) NOAA Monitor removed, didn't work effectively; added TX CTCSS/DCS to Key Action; works in harmony with key */RP "reverse frequency", (eg for setting tone on repeater input frequency). Reset keys is mandatory. Menu #66 (note #66 as NOAA menu item removed, was #67 in previous versions).
 
 ![20240302_152730](https://github.com/M7OCM/890/assets/128899149/c89a7577-7597-4911-934a-d8ebfddd10e9)
 
@@ -23,7 +17,7 @@ Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 # Instructions
 
-**Default Keys v2.1.1k, v2.1.2**
+**Default Keys v2.1.2**
 
 - Side Key 1SP Monitor
 - Side Key 1LP Freq Detect
@@ -46,7 +40,7 @@ The following keypad keys are all LP
 - 0 FMB
 - Star (*) Edit TX Freq
 - Hash (#) Lock
-- MENU Key TX CTCSS/DCS (DTMF in v2.1.1k)
+- MENU Key TX CTCSS/DCS (was DTMF in v2.1.1k)
 - EXIT Key Single/Dual Display
 
 **Spectrum**
@@ -126,9 +120,9 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-v2.1.1k bugs: No known functional bugs.
+v2.1.2 bugs: No known functional bugs.
 
-## Features in v2.1.1+
+## Features in v2.1.2
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX is unlocked 10 MHz to 1.3 GHz 💀 CAUTION for experimental use only, do not TX outside of chip specification. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour 💀
 - TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - mileage will vary
@@ -145,6 +139,7 @@ v2.1.1k bugs: No known functional bugs.
 - ~~AM Fix ported from 1 of 11's UV-K5 firmware~~
 - 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced entirely by dynamic AGC Mode and Reg Editor
 - ~~Flashlight Mode~~
+- ~~NOAA Monitor~~
 - Custom side key and configurable "quick access" keypad actions; Note: Flashlight and NOAA have been removed in v2.1.2 and Modulation, Bandwidth and TX CTCSS/DCS action keys added
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
@@ -189,6 +184,12 @@ Please note display images are of previous versions - or newer ones in developme
 ![20240217_130350](https://github.com/M7OCM/890/assets/128899149/3a22921d-794d-43a7-b86b-af428e84ec82)
 
 ![20240217_130832](https://github.com/M7OCM/890/assets/128899149/936be6ba-9b31-4d95-99cc-4f0a40879071)
+
+v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own.
+
+v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight Mode code removed completely.
+
+v2.1.0 released 27022024, mainly cosmetic. Finalising code prior to completion of project.
 
 v2.0.9-naf REVISED 19022024 minor fixes. Please download again if using the 17022024 version. Not worth a version change.
 
