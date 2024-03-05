@@ -185,10 +185,6 @@ Please note display images are of previous versions - or newer ones in developme
 
 ![20240204_231208](https://github.com/M7OCM/890/assets/128899149/a0bfbfc2-b8df-4158-975c-06fb8a464de7)
 
-![20240217_130350](https://github.com/M7OCM/890/assets/128899149/3a22921d-794d-43a7-b86b-af428e84ec82)
-
-![20240217_130832](https://github.com/M7OCM/890/assets/128899149/936be6ba-9b31-4d95-99cc-4f0a40879071)
-
 v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own.
 
 v2.1.1 released 03032024 After installing this firmware please "Reset Keys" (Menu #67), this is required as changes have been made to the Key Action code. After that, just map buttons as per your preference 👍 Flashlight Mode code removed completely.
@@ -199,11 +195,7 @@ v2.0.9-naf REVISED 19022024 minor fixes. Please download again if using the 1702
 
 I am no longer supporting AM Fix in my firmware revisions as AGC Mode/Reg Editor surpasses the formers performance. Includes Xawens (+Marcos input) DCS revision! Cosmetics, plus new Scan List info in status bar, 8 character descriptor editable in helper.c (end of code) then recompile binary.
 
-![20240209_105633](https://github.com/M7OCM/890/assets/128899149/865f3e46-8345-4962-bf51-4e958573723c)
-
 v2.0.8-naf 09022024 No AM Fix. If you prefer AM Fix use standard v2.0.7.
-
-![20240207_163509](https://github.com/M7OCM/890/assets/128899149/92310d75-3ae8-4d63-b75d-dea79177f5b7)
 
 v2.0.7-naf 07022024 for HARDCORE AIRBAND users 😂 NO AM FIX, yes you read that correctly! I have removed all of 1of11s ported code, so AM reception is in your hands via the AGC Mode/Reg Editor!!! Use PGA wisely haha overload at your peril!
 
@@ -219,21 +211,11 @@ As before, registers reset when unit is switched off, but remain active while po
 
 v2.0.7 07022024 a minor revision, includes CR7BLE's excellent RSSI timer update (slows down screen updates to reduce interference).
 
-![20240202_163643](https://github.com/M7OCM/890/assets/128899149/b586dfa7-b5f2-48df-83be-a92a029bdd79)
-
 v2.0.6 02022024 single binary, mic gain implementation by Xawen, few cosmetics, also I've cured (as opposed fixed) a pixel shift "issue" which has been bugging me for months!
-
-![20240126_155414](https://github.com/M7OCM/890/assets/128899149/f485372a-22fe-477b-a5f6-cb7d9bb54800)
 
 v2.0.5 27012024 (AGC Mode/Reg edit issue resolved thanks Xawen) single binary, squelch threshold revision; based on data gleaned from various UV-K5 firmware sources.
 
-![20240126_155720](https://github.com/M7OCM/890/assets/128899149/29dbb05a-a34b-4a6f-bd0b-df814744cf50)
-
 Note: looks identical to 2.0.4 check version Menu 74.
-
-![20240126_090459](https://github.com/M7OCM/890/assets/128899149/13d9a187-1389-4f6c-85a9-f283eaa098ed)
-
-![20240124_151343](https://github.com/M7OCM/890/assets/128899149/12bfc53c-a5f9-4397-820a-4724b7fa27e8)
 
 v2.0.4 24012024 single binary, colour not mono, cosmetic, AGC Mode id in single ch/vfo. A=Auto (AM Fix) F=Fixed - manual value changes to pre existing AGC Modes.
 
@@ -242,8 +224,6 @@ v2.0.3 21012024 two binaries mono and colour, you decide ;-) AM enhancement; ful
 Instructions: Assign three quick access keys via menu, I recommend Key 2, 5 and 8. All long press.
 
 Key 2 AM Fix on/off (manual mode should be off), Key 5 AGC Mode, toggle selection and Key 8 Reg Editor.
-
-![20240121_003114](https://github.com/M7OCM/890/assets/128899149/ae3829b8-faa2-4d7d-a67c-e25d26eb5881)
 
 To edit registers, use up/down keys to scroll and 2/3 to decrease/increase value. Exit to save. If AM Fix is on, AUTO3 plus FIX 3, (from v2.0.4+ A3 and F3) values will be reduced automatically (when necessary) to prevent overloading and then reset to default after squelch closes.
 
@@ -258,13 +238,6 @@ Please note registers reset to default on shutdown. All BK4819 AGC modes are ava
 Barring this feature and some cosmetics (status bar Dual Standby DSB changed to RX2), there is no other changes from v2.0.2 so no need to update if AM - particularly airband - isn't of interest.
 
 "Color" version best viewed in Dark Theme as the Light Theme lacks the clarity of black on white, white on black. Thats why I never used coloured text on a white background! 😉 See mono binary for that.
-
-![20240121_002536](https://github.com/M7OCM/890/assets/128899149/f0c8c873-a1c3-46b9-87f8-6ca6e541e505)
-
-![20240121_002405](https://github.com/M7OCM/890/assets/128899149/c939af24-118e-4c12-b5bf-89770a264862)
-
-![20231231_224741](https://github.com/M7OCM/890/assets/128899149/396fe400-9c2d-4374-9db4-4cec73f397ad)
-![20240101_030924](https://github.com/M7OCM/890/assets/128899149/6562525d-a74f-47ec-b30d-e528255266f7)
 
 2.0.2It colour update 31122023: OEM style, blue rx etc. This is a special firmware and differs cosmetically from standard. I revised this exclusively for an Italian amateur radio group on Telegram.
 
