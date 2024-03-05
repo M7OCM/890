@@ -66,6 +66,8 @@ Start by mapping a key (side key or keypad) to the Spectrum action using the mai
 
 Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font. Please read further down for additional information about this feature.
 
+Note: as the squelch has been calibrated for additional sensitivity it is recommended to fine tune BW and WEAK (WK) values to match squelch settings to ensure the weakest signals break squelch. Likewise reduce BW and WK if the squelch opens too frequently (or continuously) and raise the squelch threshold. Its a fine balancing act, but with hands on experience it soo becomes second nature.
+
 - Up Move editor to next register
 - Down Move to previous register
 - 1 Change AGC Mode (A3, F3, F2, F1, F0, F7, F6, F5, F4); F2, F1 are good choices for airband
