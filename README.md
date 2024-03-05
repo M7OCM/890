@@ -2,12 +2,12 @@
 ![20240304_093310](https://github.com/M7OCM/890/assets/128899149/2899d56f-2e21-4017-8f3c-956c18d98ec4)
 
 ## Latest
+v2.1.2 released 05032024 (2 bin files standard plus aero) NOAA Monitor removed, didn't work effectively; added TX CTCSS/DCS to Key Action; works in harmony with key */RP "reverse frequency", (eg for setting tone on repeater input frequency). Reset keys is mandatory. Menu #66 (note #66 as NOAA menu item removed, was #67 in previous versions).
+
 ![20240304_093404](https://github.com/M7OCM/890/assets/128899149/2bc95e04-97d0-4fbc-9ea4-45385575615f)
 As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition, the fw requires more rigorous testing as, inevitably, bugs tend to creep in when something 'major' gets changed 😂
 
 I've jumped the gun recently calling it finished. Lets just say there could be a few minor revisions coming, but they will not effect the main engine so to speak. AGC Mode/Reg Editor is a revelation - its handed full control to the user and eliminates the previous gain issues that plagued AM.
-
-v2.1.2 released 05032024 (2 bin files standard plus aero) NOAA Monitor removed, didn't work effectively; added TX CTCSS/DCS to Key Action; works in harmony with key */RP "reverse frequency", (eg for setting tone on repeater input frequency). Reset keys is mandatory. Menu #66 (note #66 as NOAA menu item removed, was #67 in previous versions).
 
 ![20240302_152730](https://github.com/M7OCM/890/assets/128899149/c89a7577-7597-4911-934a-d8ebfddd10e9)
 
