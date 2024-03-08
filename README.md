@@ -23,7 +23,7 @@ Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 - Side Key 1SP Monitor
 - Side Key 1LP Freq Detect
-- Side Key 2SP Scan/Scan List
+- Side Key 2SP Scan/Advance Scan List/Scan Stop (LP)
 - Side Key 2LP Spectrum
 
 SP = Short Press; LP = Long Press
