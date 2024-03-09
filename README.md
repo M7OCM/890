@@ -89,9 +89,9 @@ To ignore scanlists and scan all channels, select * in the List To Scan menu.
 
 To add/remove current channel to/from current scanlist, use the Toggle SList shortcut which is default Key 9 (v2.1.1k+).
 
-To start scanning, press a key mapped to the Freq scanner shortcut (default: long press on key 1). I use side key 2 short press.
+To start scanning, press a key mapped to the Freq scanner shortcut (default: short press on side key 2).
 
-When scanning is in progress, use the Freq scanner key to change the scan list, this action will move to the next non-empty scanlist, or switch to scan all mode if all subsequent lists are empty.
+When scanning is in progress, use side key 2 short press to change the scan list. This action will move to the next non-empty scanlist, or switch to scan all mode if all subsequent lists are empty.
 
 To change the direction of current scan, use the up/down keys.
 
@@ -135,7 +135,7 @@ v2.1.2 bugs: No known functional bugs.
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
 - Light and dark theme, user selectable
 - Restyled ui, fixed alignment issues, renamed menu items, new use for status bar (Scan List #), colour changes, font changes, improved clarity etc
-- Squelch and S-meter revisions
+- Squelch sensitivty and S-meter revisions
 - DCS RX revised
 - PTT BCL TX during monitor revised
 - RSSI timer speed reduction to reduce internal RFI caused by screen updates
@@ -147,7 +147,7 @@ v2.1.2 bugs: No known functional bugs.
 - Custom side key and configurable "quick access" keypad actions; Note: Flashlight and NOAA have been removed in v2.1.2 and Modulation, Bandwidth and TX CTCSS/DCS action keys added
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
-- Display dBM when receiving (calculation revised)
+- Display dBM when receiving (calculation accuracy revised)
 - Reworked scan functionality
   - 8 Scan lists plus scan all
   - Faster scanning (16 ch/s)
@@ -158,9 +158,9 @@ v2.1.2 bugs: No known functional bugs.
 - Ability to disable green LED flashing when scanning/searching
 - and many more ui improvements...
 
-Note, the name tag font is UPPER CASE only and limited in special characters: A-Z 0-9 . : - = < >
+Note, the 10 character name tag font is UPPER CASE western alphanumeric only and limited in special characters/punctuation: . : - = < >
 
-Lower case or any other characters will not display.
+Lower case or any other characters will not display ie tag will be blank.
 
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW community during late 2023.
