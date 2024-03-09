@@ -128,8 +128,8 @@ v2.1.2 bugs: No known functional bugs.
 
 ## Features in v2.1.2
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
-- RX is unlocked 10 MHz to 1.3 GHz 💀 CAUTION for experimental use only, do not TX outside of chip specification. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour 💀
-- TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - mileage will vary
+- RX is unlocked 10 MHz to 1.3 GHz CAUTION experimental use only. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour.
+- TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - your mileage may vary 💀 CAUTION do not TX outside of chip specification, it could destroy your radio and/or breach your country of residence radio communications laws/license agreement 💀
 - 0.01K to 5 MHz steps
 - 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
@@ -137,9 +137,9 @@ v2.1.2 bugs: No known functional bugs.
 - Restyled ui, fixed alignment issues, renamed menu items, new use for status bar (Scan List #), colour changes, font changes, improved clarity etc
 - Squelch sensitivty and S-meter revisions
 - DCS RX revised
-- PTT BCL TX during monitor revised
-- RSSI timer speed reduction to reduce internal RFI caused by screen updates
-- Full colour spectrum with options
+- PTT BCLO TX during monitor revised, PTT now TX when monitor is open
+- RSSI timer speed reduction to reduce internal RFI caused by SPI (screen) updates
+- Full colour spectrum with control options, views
 - ~~AM Fix ported from 1 of 11's UV-K5 firmware~~
 - 1 of 11's "AM Fix" was removed in v2.0.8-naf (and subsequent versions), replaced entirely by dynamic AGC Mode and Reg Editor
 - ~~Flashlight Mode~~
