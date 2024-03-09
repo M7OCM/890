@@ -154,7 +154,7 @@ v2.1.2 bugs: No known functional bugs.
   - Resume mode: Time, Carrier, No resume
   - Change scan direction while scanning (up/down keys)
   - Force scan resume (up/down keys)
-- Reworked main-sub menu system, renamed items
+- Reworked main-sub menu system, renamed items. *I currently don't intend changing the main menu order, as I've been using this radio for 2 years and got used to it as is, despite its short comings!
 - Ability to disable green LED flashing when scanning/searching
 - and many more ui improvements...
 
