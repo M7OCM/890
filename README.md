@@ -167,6 +167,8 @@ Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was original
 
 My firmware is a spinoff of OEFWCOM, and that is the code my changes are based on, it is not identical though. I was keen to improve the overall look and my revisions are unashamedly airband related and so may not reflect your own listening habits. AM on ranges 108-136.975, 137-142.975 and 225-399.975 MHz is truly exceptional using all manner of antennae including preamp usage. Amateur 2m/70cm and VHF marine 156-162.975 MHz is also greatly improved.
 
+![20240309_185145](https://github.com/M7OCM/890/assets/128899149/777e58c8-906f-46b7-8184-b24473094a61)
+
 [The base source](https://github.com/OEFW-community/RT-890-custom-firmware/blob/main/README.md)
 
 [v1.0 series bin files](https://github.com/M7OCM/890/tree/oefwc-m7ocm-archive)
