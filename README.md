@@ -24,29 +24,29 @@ Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 **Default Keys v2.1.2**
 
-- Side Key 1SP Monitor
-- Side Key 1LP Freq Detect
-- Side Key 2SP Scan/Advance Scan List/Scan Stop (LP)
-- Side Key 2LP Spectrum
+- Side Key [1SP] Monitor
+- Side Key [1LP] Freq Detect
+- Side Key [2SP] Scan/Advance Scan List/Scan Stop (LP)
+- Side Key [2LP] Spectrum
 
 SP = Short Press; LP = Long Press
 
 The following keypad keys are all LP
 
-- 1 Squelch
-- 2 Modulation
-- 3 Bandwidth
-- 4 TX Power
-- 5 AGC Mode
-- 6 Dual Standby
-- 7 Repeater Mode
-- 8 Reg Editor
-- 9 Scan List Add/Remove
-- 0 FMB
-- Star (*) Edit TX Freq
-- Hash (#) Lock
-- MENU Key TX CTCSS/DCS
-- EXIT Key Single/Dual Display
+- [1] Squelch
+- [2] Modulation
+- [3] Bandwidth
+- [4] TX Power
+- [5] AGC Mode
+- [6] Dual Standby
+- [7] Repeater Mode
+- [8] Reg Editor
+- [9] Scan List Add/Remove
+- [0] FMB
+- [*] Edit TX Freq
+- [#] Lock
+- [MENU] TX CTCSS/DCS
+- [EXIT] Single/Dual Display
 
 **Spectrum**
 
@@ -73,12 +73,12 @@ Start by mapping a key (side key or keypad) to the Reg Editor action using the m
 
 Note: as the squelch has been calibrated for additional sensitivity it is recommended to fine tune BW and WEAK (WK) values to match squelch settings to ensure the weakest signals break squelch. Likewise reduce BW and WK if the squelch opens too frequently (or continuously) and raise the squelch threshold. Its a fine balancing act, but with hands on experience it soon becomes second nature.
 
-- Up Move editor to next register
-- Down Move to previous register
-- 1 Change AGC Mode (A3, F3, F2, F1, F0, F7, F6, F5, F4); F2, F1 are good choices for airband
-- 2 Decrease value of current register's setting by 1
-- 3 Increase value of current register's setting by 1
-- EXIT key Return to main
+- [Up] Move editor to next register
+- [Down] Move to previous register
+- [1] Change AGC Mode (A3, F3, F2, F1, F0, F7, F6, F5, F4); F2, F1 are good choices for airband
+- [2] Decrease value of current register's setting by 1
+- [3] Increase value of current register's setting by 1
+- [EXIT] Return to main
 
 **Scan lists and Scanning**
 
