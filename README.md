@@ -52,20 +52,20 @@ The following keypad keys are all LP
 
 Start by mapping a key (side key or keypad) to the Spectrum action using the main menu.
 
-- Up Increase frequency range
-- Down Decrease frequency range
-- 1 Change scan step (16, 32, 64 or 128)
-- 3 Change modulation FM, AM or SB (SSB)
-- 4 Change step size (0.25k - 50k)
-- 5 Switch spectrum modes (toggle 1-4)
-- 6 Increase squelch level
-- 7 Hold/Search (in hold, use up/down to adjust main frequency - useful to avoid RFI)
-- 9 Decrease squelch level
-- 0 Toggle filter (X = unfiltered, F = filtered)
-- Star (*) Change scan delay (0 - 10ms)
-- Hash (#) Toggle bandwidth (25.0K = wide, 12.5K = narrow)
-- MENU key Jump to VFO mode with current frequency and settings (to allow TX)
-- EXIT key Return to main
+- [Up] Increase frequency range
+- [Down] Decrease frequency range
+- [1] Change scan step (16, 32, 64 or 128)
+- [3] Change modulation FM, AM or SB (SSB)
+- [4] Change step size (0.25k - 50k)
+- [5] Switch spectrum modes (toggle 1-4)
+- [6] Increase squelch level
+- [7] Hold/Search (in hold, use up/down to adjust main frequency - useful to avoid RFI)
+- [9] Decrease squelch level
+- [0] Toggle filter (X = unfiltered, F = filtered)
+- [*] Change scan delay (0 - 10ms)
+- [#] Toggle bandwidth (25.0K = wide, 12.5K = narrow)
+- [MENU] Jump to VFO mode with current frequency and settings (to allow TX)
+- [EXIT] Return to main
 
 **Register Editor**
 
