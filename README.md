@@ -161,11 +161,11 @@ v2.1.2 bugs: No known functional bugs.
   - Resume mode: Time, Carrier, No resume
   - Change scan direction while scanning (up/down keys)
   - Force scan resume (up/down keys)
-- Reworked main-sub menu system, renamed items. *I currently don't intend changing the main menu order, as I've been using this radio for 2 years and got used to it as is, despite its short comings!
+- Reworked main-sub menu system, renamed items. *I currently don't intend changing the main menu order, as I've been using this radio for 2 years and got used to it as is, despite its short comings and additions! It can be amended should you wish, its just a two file change (app/menu.c and app/menu.h). Rearrange to your preference, but remember, both file lists have to be in the same order otherwise the menu won't work correctly
 - Ability to disable green LED flashing when scanning/searching
 - and many more ui improvements...
 
-Note, the 10 character name tag font is UPPER CASE western alphanumeric only and limited in special characters/punctuation: . : - = < >
+Note, the 10 character name tag font is UPPER CASE English alphanumeric only and limited in special characters/punctuation: . : - = < >
 
 Lower case or any other characters will not display ie tag will be blank.
 
