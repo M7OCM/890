@@ -1,7 +1,9 @@
 # Modified OEFWCOM Transceiver Firmware for Radtel RT-890 | Ruyage UV58Plus | iradio UV5118Plus
-![20240304_093310](https://github.com/M7OCM/890/assets/128899149/2899d56f-2e21-4017-8f3c-956c18d98ec4)
+
+![20240311_214152](https://github.com/M7OCM/890/assets/128899149/c0b0f547-ba98-401b-bdcd-dc0b1fd48704)
 
 ## Latest
+v2.1.3 coming soon, Xawen's amazing Tunable Squelch System (currently in the torture test phase, basically I'm trying to kill it 😅). Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition.
 
 v2.1.2 Updated 11032024 essential DCS fix by Dual Tachyon, plus clean up...
 
