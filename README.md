@@ -172,7 +172,7 @@ Lower case or any other characters will not display ie tag will be blank.
 ## Background and previous versions
 Radtel, Ruyage, iradio v1.34 (initially v1.33) transceiver firmware was originally reversed and rewritten in C by Dual Tacyhon to become Open Edition FirmWare (OEFW). Developed further by OEFW COMmunity (OEFWCOM) during late 2023-present.
 
-My firmware is a spinoff of OEFWCOM, and that is the code my changes are based on, it is not identical though. I was keen to improve the overall look and my revisions are unashamedly airband related and so may not reflect your own listening habits. AM on ranges 108-136.975, 137-142.975 and 225-399.975 MHz is truly exceptional using all manner of antennae including preamp usage. Amateur 2m/70cm and VHF marine 156-162.975 MHz is also greatly improved.
+My firmware is a spinoff of OEFWCOM, and that is the code my changes are based on, it is not identical though. I was keen to improve the overall look and my revisions are unashamedly airband related and so may not reflect your own listening habits. AM on ranges 108-136.975, 137-143.975 and 225-399.975 MHz is truly exceptional using all manner of antennae including preamp usage. Amateur 2m/70cm and VHF marine 156-162.975 MHz is also greatly improved.
 
 ![20240309_185145](https://github.com/M7OCM/890/assets/128899149/777e58c8-906f-46b7-8184-b24473094a61)
 
