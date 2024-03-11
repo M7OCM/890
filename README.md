@@ -104,9 +104,11 @@ Press any key other than Freq scanner to stop scanning.
 
 Alternatively use Chirp to store scan list memory (load my modified Python module). There needs to be at least 2 frequencies per scan list but no max limit. Duplicate frequencies can be added to more than one list.
 
+The Chirp driver is a WIP. 8.333kHz channels can be entered and saved as can any frequency in the range 10MHz to 1.3GHz. Scan Lists can also be manipulated. Border colour can be changed and basic radio functions adjusted. Not all key actions save however. A key reset after upload fixes that. I reccomend making copies of data files on a regular basis just in case a file becomes corrupted which may happen when switching between different firmware versions (latest always works).
+
 **FM Broadcast (FMB)**
 
-Default 0/FM, toggle on/off. To clear frequency, "off" then Menu key. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby, Menu-19 and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
+Default [0/FM], toggle on/off. To clear frequency, "off" then [MENU]. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby,and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
 
 **Status Bar**
 
@@ -114,7 +116,7 @@ Default 0/FM, toggle on/off. To clear frequency, "off" then Menu key. The 4 digi
 
 ![chirp-border](https://github.com/M7OCM/890/assets/128899149/2bd92a75-c296-45d2-ba77-d346ef139c0f)
 
-The default border color used is grey (33808). The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and probably deleted (backup data regularly just in case).
+The default border color used is grey (33808). The code change can be made in Chirp (see above) or Radtel's CPS software. Please note if using the latter to change logo or border colour, CPS will throw an error after reading from radio. Nothing else gets changed during upload, but best save a Chirp back up file before proceeding. Always download to radio first, don't change border colour and upload as the data will/could get corrupted and/or overwritten (backup data regularly just in case).
 
 **Speech Inversion Frequencies**
 
