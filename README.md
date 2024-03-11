@@ -139,7 +139,7 @@ v2.1.2 bugs: No known functional bugs.
 - Light and dark theme, user selectable
 - Restyled ui, fixed alignment issues, renamed menu items, new use for status bar (Scan List #), colour changes, font changes, improved clarity etc
 - Squelch sensitivty and S-meter revisions
-- DCS RX revised
+- DCS RX revised/Freq Detect DCS fixed
 - PTT BCLO TX during monitor revised, PTT now TX when monitor is open
 - RSSI timer speed reduction to reduce internal RFI caused by SPI (screen) updates
 - Full colour spectrum with control options, views
