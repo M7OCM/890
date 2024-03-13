@@ -3,7 +3,11 @@
 ![20240311_214152](https://github.com/M7OCM/890/assets/128899149/c0b0f547-ba98-401b-bdcd-dc0b1fd48704)
 
 ## Latest
-Please note, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for fine tuning AM for example. FM will work as before however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier (WIP more info to follow).
+Please read, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for AM for example. FM will work as before however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier and a resonant antenna.
+
+For airband AGC Mode testing I use a Yaesu SRA-20A FTA series BNC helical antenna and a Abbree "AR" whip (SMA). The "AR-771" is identical (!).
+
+For other bands I use a mix of dedicated antennae and telecopics tuned for specific frequency ranges.
 
 v2.1.3 released 13032024 Xawen's amazing Tunable Squelch System. Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition. Back up SPI before use. If in doubt leave defaults: Squelch RSSI 94, Squelch Noise 68 and Squelch Glitch 17. Adjust values with caution - squelch may get stuck open or not open at all if used aggressively! These settings persist. I've added some new Key Action Dialogs for FM Radio and Bandwidth. Credit: OEFWCOM
 
