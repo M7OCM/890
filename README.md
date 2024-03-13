@@ -116,7 +116,9 @@ The Chirp driver is a WIP. 8.333kHz channels can be entered and saved as can any
 
 **FM Broadcast (FMB)**
 
-Default [0/FM], toggle on/off. To clear frequency, press [0/FM] or [PTT] then [MENU]. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby,and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
+Default [0/FM], toggle FMB On/FMB Idle. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby via menu, and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
+
+To clear the idle frequency, press [0/FM] or [PTT] then [MENU].
 
 **Status Bar**
 
