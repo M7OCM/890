@@ -22,7 +22,7 @@ Personal thanks to Reppad and Xawen for the coding tips and all the fixes 👍
 
 # Instructions
 
-**Default Keys v2.1.2**
+**Default Keys v2.1.3**
 
 - Side Key [1SP] Monitor
 - Side Key [1LP] Freq Detect
