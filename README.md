@@ -3,13 +3,9 @@
 ![20240311_214152](https://github.com/M7OCM/890/assets/128899149/c0b0f547-ba98-401b-bdcd-dc0b1fd48704)
 
 ## Latest
-Please note, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for fine tuning AM for example. FM will work as before however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier (more info to follow).
+Please note, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for fine tuning AM for example. FM will work as before however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier (WIP more info to follow).
 
-v2.1.3 coming soon, Xawen's amazing Tunable Squelch System (currently in the torture test phase, basically I'm trying to kill it 😅). Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition.
-
-v2.1.2 Updated 11032024 essential DCS fix by Dual Tachyon, plus clean up...
-
-~~v2.1.2 originally released 05032024~~ (2 bin files standard plus aero) NOAA Monitor removed, didn't work effectively; added TX CTCSS/DCS to Key Action; works in harmony with key */RP "reverse frequency", (eg for setting tone on repeater input frequency). Reset keys is mandatory. Menu #66 (note #66 as NOAA menu item removed, was #67 in previous versions).
+v2.1.3 released 13032024 Xawen's amazing Tunable Squelch System. Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition. Back up SPI before use. If in doubt leave defaults: Squelch RSSI 94, Squelch Noise 68 and Squelch Glitch 17. Adjust values with caution - squelch may get stuck open or not open at all if used aggressively! These settings persist. I've added some new Key Action Dialogs for FM Radio and Bandwidth. Credit: OEFWCOM
 
 ![20240304_093404](https://github.com/M7OCM/890/assets/128899149/2bc95e04-97d0-4fbc-9ea4-45385575615f)
 As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition, the fw requires more rigorous testing as, inevitably, bugs tend to creep in when something 'major' gets changed 😂
@@ -133,9 +129,9 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-v2.1.2 bugs: No known functional bugs.
+v2.1.3 bugs: No known functional bugs.
 
-## Features in v2.1.2
+## Features in v2.1.3
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
 - RX is unlocked 10 MHz to 1.3 GHz CAUTION experimental use only. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour.
 - TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - your mileage may vary 💀 CAUTION do not TX outside of chip specification, it could destroy your radio and/or breach your country of residence radio communications laws/license agreement 💀
@@ -154,6 +150,7 @@ v2.1.2 bugs: No known functional bugs.
 - ~~Flashlight Mode~~
 - ~~NOAA Monitor~~
 - Custom side key and configurable "quick access" keypad actions; Note: Flashlight and NOAA have been removed in v2.1.2 and Modulation, Bandwidth and TX CTCSS/DCS action keys added
+- New Dialogs for FM Radio and Bandwidth (key actions)
 - Clock speed 120 MHz (OEFWCOM 72 MHz)
 - Display BK4819 AGC Modes/ battery voltage registers in single VFO mode (firmware v2.0.3+ reg values can be adjusted) 
 - Display dBM when receiving (calculation accuracy revised)
@@ -197,6 +194,10 @@ Please note display images are of previous versions - or newer ones in developme
 ![20240206_075833](https://github.com/M7OCM/890/assets/128899149/86dea561-664c-4a53-8526-8f1dc07290f7)
 
 ![20240204_231208](https://github.com/M7OCM/890/assets/128899149/a0bfbfc2-b8df-4158-975c-06fb8a464de7)
+
+v2.1.2 Updated 11032024 essential DCS fix by Dual Tachyon, plus clean up...
+
+~~v2.1.2 originally released 05032024~~ (2 bin files standard plus aero) NOAA Monitor removed, didn't work effectively; added TX CTCSS/DCS to Key Action; works in harmony with key */RP "reverse frequency", (eg for setting tone on repeater input frequency). Reset keys is mandatory. Menu #66 (note #66 as NOAA menu item removed, was #67 in previous versions).
 
 v2.1.1k released 04032024 added another Key Action: Bandwidth, adjusted default keys to my own, reset Menu #67 to use or remap own.
 
