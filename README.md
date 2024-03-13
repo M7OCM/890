@@ -3,6 +3,8 @@
 ![20240311_214152](https://github.com/M7OCM/890/assets/128899149/c0b0f547-ba98-401b-bdcd-dc0b1fd48704)
 
 ## Latest
+Please note, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for fine tuning AM for example. FM will work as before however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier (more info to follow).
+
 v2.1.3 coming soon, Xawen's amazing Tunable Squelch System (currently in the torture test phase, basically I'm trying to kill it 😅). Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition.
 
 v2.1.2 Updated 11032024 essential DCS fix by Dual Tachyon, plus clean up...
