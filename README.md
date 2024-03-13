@@ -5,6 +5,8 @@
 ## Latest
 Please read, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for best AM reception. FM will work as before, however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier and a resonant antenna.
 
+The default keys I changed are specific to using this firmware. Priority given to keys most used. See default list below.
+
 For airband AGC Mode testing I use a Yaesu SRA-20A FTA series BNC helical antenna and a Abbree "AR" whip (SMA). The "AR-771" is identical (!).
 
 For other bands I use a mix of dedicated antennae and telecopics tuned for specific frequency ranges. All tested with a VNA for performance guarantees.
