@@ -14,9 +14,11 @@ v2.1.3 released 13032024 Xawen's amazing Tunable Squelch System. Fine tune the S
 ![20240304_093404](https://github.com/M7OCM/890/assets/128899149/2bc95e04-97d0-4fbc-9ea4-45385575615f)
 As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition, the fw requires more rigorous testing as, inevitably, bugs tend to creep in when something 'major' gets changed 😂
 
-I've jumped the gun recently calling it finished. Lets just say there could be a few minor revisions coming, but they will not effect the main engine so to speak. AGC Mode/Reg Editor is a revelation - its handed full control to the user and eliminates the previous gain issues that plagued AM.
+I've jumped the gun recently calling it finished. Lets just say there could be a few minor revisions coming. AGC Mode/Reg Editor is a revelation - its handed full control to the user and eliminates the previous gain issues that plagued AM. Likewise Xawen's Tunable Squelch provides the best solution to squelch not opening with weaker signals.
 
-I'm more than satisfied with how the radio works - its not perfect, but what is? The source files contain all the changes I've made. With that in mind, and as this is 100% Open Source Firmware, if any developers want to continue where I left (leave) off, add new features or anything at all, please do. Just change the Version, Author info (keep OEFWCOM) to reflect that and the Community behind this project. Thanks.
+I'm more than satisfied with how the radio works - its never going to be perfect, but for the price its a solid performer.
+
+The source files contain all the changes I've made. With that in mind, and as this is 100% Open Source Firmware, if any developers/fettlers want to continue where I left (leave) off, add new features or use anything in their own revision, please do. Just change the Version, Author info (keep OEFWCOM) to reflect that and the Community behind this project. Thanks.
 
 ![20240302_152730](https://github.com/M7OCM/890/assets/128899149/c89a7577-7597-4911-934a-d8ebfddd10e9)
 
