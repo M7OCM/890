@@ -3,13 +3,13 @@
 ![20240311_214152](https://github.com/M7OCM/890/assets/128899149/c0b0f547-ba98-401b-bdcd-dc0b1fd48704)
 
 ## Latest
-Please read, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for best AM reception ie don't use A3 (Auto) use Fixed mode F2 or F1 and adjust values (read on for additional info further down the page). FM will work as before, however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier and a resonant antenna.
+Please read, since v2.0.8 the auto functionality has been removed this is now developing into the advanced user category. Subsequently, this radio now requires experimentation and time to learn - if thats not for you, there are many more AM Fix firmwares in the archive to play with, I reccommend v2.0.0 Please don't expect v2.1.3+ to work like before, AGC Modes need to be finely tuned for best AM reception. For example don't use A3 (Auto), unless for experimental research, use a Fixed mode, either F2 or F1 and adjust values (read on for additional info further down the page). FM will work as before and Auto AGC does work (see pic below), however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier and a resonant antenna.
 
 ![20240314_135845](https://github.com/M7OCM/890/assets/128899149/4ceb0aa0-3a74-45bf-af4d-f7611a2c7165)
 
-A clear illustration of AGC Mode A3 (auto) working. Drops levels to A2 as can be seen. Not effective on AM.
+A clear illustration of AGC Mode A3 (auto) working. Drops one level to A2 and reduces LNA and PGA as can be seen. Not effective on AM.
 
-The default keys I changed are specific to using this firmware. Priority given to keys most used. See default list below.
+The default keys I changed are specific to using this firmware. Priority given to keys most used. See default list.
 
 For airband AGC Mode testing I use a Yaesu SRA-20A FTA series BNC helical antenna and a Abbree "AR" whip (SMA). The "AR-771" is identical (!).
 
@@ -17,7 +17,9 @@ For other bands I use a mix of dedicated antennae and telecopics tuned for speci
 
 **Essential update v2.1.3 re released - fixed search function not detecting signals, speed reduced. Please download latest.**
 
-~~v2.1.3 released 13032024~~ Xawen's amazing Tunable Squelch System. Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition. Back up SPI before use. If in doubt leave defaults: Squelch RSSI 94, Squelch Noise 68 and Squelch Glitch 17. Adjust values with caution - squelch may get stuck open or not open at all if used aggressively! These settings persist. I've added some new Key Action Dialogs for FM Radio and Bandwidth. Credit: OEFWCOM
+~~v2.1.3 released 13032024~~ Xawen's amazing Tunable Squelch System. Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition. Back up SPI before use. If in doubt leave defaults: Squelch RSSI 94, Squelch Noise 68 and Squelch Glitch 17. Adjust values with caution - squelch may get stuck open or not open at all if used aggressively! Its unlikely that your "normal" squelch level will be the same. If you factor in the reg edits, tunable squelch, frequency band and bandwidth there are a lot of things at play and a typical "Squelch 1 user" may well end up on 4 or 5, but drop lower on other bands.
+
+There are no instructions on how to use it, as there is no BK4189 modded squelch manual! Its trial, error and patience. Personaly I'd suggest starting at Squelch Level 1, as its the base setting with register going up in values of 8 thereafter. Gradually increase or decrease RSSI and quantify, before progressing to Noise and Glitch. I've added some new Key Action Dialogs for FM Radio and Bandwidth. Credit: OEFWCOM
 
 ![20240304_093404](https://github.com/M7OCM/890/assets/128899149/2bc95e04-97d0-4fbc-9ea4-45385575615f)
 As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition, the fw requires more rigorous testing as, inevitably, bugs tend to creep in when something 'major' gets changed 😂
