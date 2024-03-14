@@ -5,6 +5,10 @@
 ## Latest
 Please read, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for best AM reception ie don't use A3 (Auto) use Fixed mode F2 or F1 and adjust values (read on for additional info further down the page). FM will work as before, however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier and a resonant antenna.
 
+![20240314_135845](https://github.com/M7OCM/890/assets/128899149/4ceb0aa0-3a74-45bf-af4d-f7611a2c7165)
+
+A clear illustration of AGC Mode A3 (auto) working. Drops levels to A2 as can be seen. Not effective on AM.
+
 The default keys I changed are specific to using this firmware. Priority given to keys most used. See default list below.
 
 For airband AGC Mode testing I use a Yaesu SRA-20A FTA series BNC helical antenna and a Abbree "AR" whip (SMA). The "AR-771" is identical (!).
