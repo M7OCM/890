@@ -11,7 +11,9 @@ For airband AGC Mode testing I use a Yaesu SRA-20A FTA series BNC helical antenn
 
 For other bands I use a mix of dedicated antennae and telecopics tuned for specific frequency ranges. All tested with a VNA for performance guarantees.
 
-v2.1.3 released 13032024 Xawen's amazing Tunable Squelch System. Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition. Back up SPI before use. If in doubt leave defaults: Squelch RSSI 94, Squelch Noise 68 and Squelch Glitch 17. Adjust values with caution - squelch may get stuck open or not open at all if used aggressively! These settings persist. I've added some new Key Action Dialogs for FM Radio and Bandwidth. Credit: OEFWCOM
+**Essential update v2.1.3 re released - fixed search function not detecting signals, speed reduced. Please download latest.**
+
+~~v2.1.3 released 13032024~~ Xawen's amazing Tunable Squelch System. Fine tune the Squelch Level via RSSI, Noise, Glitch values to suit your radio setup - a truly remarkable addition. Back up SPI before use. If in doubt leave defaults: Squelch RSSI 94, Squelch Noise 68 and Squelch Glitch 17. Adjust values with caution - squelch may get stuck open or not open at all if used aggressively! These settings persist. I've added some new Key Action Dialogs for FM Radio and Bandwidth. Credit: OEFWCOM
 
 ![20240304_093404](https://github.com/M7OCM/890/assets/128899149/2bc95e04-97d0-4fbc-9ea4-45385575615f)
 As previously mentioned I'm hopeful that very soon if not now (!) this firmware will be called final and complete. I never wanted an ongoing beta version as that makes it less useable from my point of view. In addition, the fw requires more rigorous testing as, inevitably, bugs tend to creep in when something 'major' gets changed 😂
@@ -139,7 +141,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-v2.1.3 bugs: a user has noted search function is currently inop (looking at a fix)
+v2.1.3 bugs: Steef noted the search function was inop (scan/search speed too high, reduced speed FIXED)
 
 ## Features in v2.1.3
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
