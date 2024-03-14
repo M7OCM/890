@@ -3,7 +3,7 @@
 ![20240311_214152](https://github.com/M7OCM/890/assets/128899149/c0b0f547-ba98-401b-bdcd-dc0b1fd48704)
 
 ## Latest
-Please read, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for best AM reception. FM will work as before, however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier and a resonant antenna.
+Please read, since v2.0.8 the auto functionality has been removed. Subsequently, this is very much a hands on radio requiring experience and time to learn. Don't expect it to work like before, AGC Modes need to be adjusted for best AM reception ie don't use A3 (Auto) use Fixed mode F2 or F1 and adjust values (read on for additional info further down the page). FM will work as before, however fine tuning AGC will also have benefits. SATCOM RX is vastly improved, especially when coupled with a cheap wideband 20dB pre amplifier and a resonant antenna.
 
 The default keys I changed are specific to using this firmware. Priority given to keys most used. See default list below.
 
