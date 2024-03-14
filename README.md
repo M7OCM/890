@@ -7,7 +7,7 @@ Please read, since v2.0.8 the auto functionality has been removed this is now de
 
 ![20240314_135845](https://github.com/M7OCM/890/assets/128899149/4ceb0aa0-3a74-45bf-af4d-f7611a2c7165)
 
-A clear illustration of AGC Mode A3 (auto) working. Drops one level to A2 and reduces LNA and PGA as can be seen. Not effective on AM.
+A clear illustration of AGC Mode A3 (auto) working. Drops one level to A2 and reduces LNA 7 to 3 and PGA 6 to 3 as can be seen. Not effective on AM though **F2** and all 3 values for each reg is actually a decent setting for airband I find.
 
 The default keys I changed are specific to using this firmware. Priority given to keys most used. See default list.
 
