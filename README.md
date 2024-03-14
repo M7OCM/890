@@ -139,7 +139,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-v2.1.3 bugs: No known functional bugs.
+v2.1.3 bugs: a user has noted search function is currently inop (looking at a fix)
 
 ## Features in v2.1.3
 - All stock features: [check user manual](https://cdn.shopifycdn.net/s/files/1/0564/8855/8800/files/RT-890_user_manual.pdf?v=1670288968)
