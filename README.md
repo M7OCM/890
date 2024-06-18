@@ -62,7 +62,7 @@ The following keypad keys are all LP
 
 **Spectrum**
 
-Start by mapping a key (side key or keypad) to the Spectrum action using the main menu.
+Enter by pressing side key 2 LP
 
 - [Up] Increase frequency range
 - [Down] Decrease frequency range
@@ -83,7 +83,7 @@ SP [#] switch between VFO-CH mode
 
 **Register Editor**
 
-Start by mapping a key (side key or keypad) to the Reg Editor action using the main menu. Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
+Press key 8 LP and Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
 
 
 - [Up] Move editor to next register
@@ -96,6 +96,13 @@ Start by mapping a key (side key or keypad) to the Reg Editor action using the m
 AGC = Auto Gain Control. FGC = Fixed Gain Control.
 
 FGC is a manual option - user selects parameters for fine tuning AM signals to prevent front end overloading.
+
+- LNAS Coarse attenuator (short)
+- LNA Fine tuning attenuator
+- PGA Programmable threshold amplifier
+- MIX Mixer gain
+- BW Bandwidth filter 
+- WK Weak signal threshold
 
 **Scan lists and Scanning**
 
