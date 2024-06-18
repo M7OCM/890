@@ -1,17 +1,18 @@
-# 890-I PCB 2.0 Only (pre Radtel OEM FW.37 PCB 2.1)
-
-For PCB 2.1 models see [here](https://github.com/M7OCM/890-II)
-
-
 # Modified OEFWCOM Transceiver Firmware for Radtel RT-890 | Ruyage UV58Plus | iradio UV5118Plus
 
-M7OCM PHOENIX Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+890-I PCB 2.0 Only (pre Radtel OEM FW.37 PCB 2.1)
+
+For new PCB 2.1 models see [here](https://github.com/M7OCM/890-II)
+
+A new version v2.1.7 is currently being evaluated. Release TBA.
+
+M7OCM v2.1.6 PHOENIX Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
 Back to basics... files herein supercede all previous versions released (OEFWCOM - M7OCM v1.0-1.9 and v2.0.0-2.1.5 bins) totally reworked firmware, ironed out a lot of weird bugs including battery voltage not updating if unit left on continuously.
 
-This is a personal project only for my use and as such will only receive bug fixes, no plans to add anything else or change the performance or functions. I simply cannot accomodate feature requests due to time constraints - this is just a hobby. Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version from the freely available open source files at OEFW or OEFWCOM.
+This is a personal project only for my use I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (jk). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version from the freely available open source files at OEFW or OEFWCOM.
 
-**LATEST 27 April 2024**
+**LATEST April 2024**
 
 3 bin files: Fast, Intermediate and Slow - referring to the scan/search speed which determines squelch opening during VFO search and tone squelch operation.
 
