@@ -1,18 +1,28 @@
 # Modified OEFWCOM Transceiver Firmware for Radtel RT-890 | Ruyage UV58Plus | iradio UV5118Plus
 
+Info herein is WIP 18 June 2014
+
 890-I PCB 2.0 Only (pre Radtel OEM FW.37 PCB 2.1)
 
 For new PCB 2.1 models see [here](https://github.com/M7OCM/890-II)
 
 v2.1.7 is currently being evaluated. Release TBA
 
+[Source files v2.0.0+](https://github.com/M7OCM/890/tree/source)
+
+[Compiled bin files](https://github.com/M7OCM/890/tree/binary)
+
 M7OCM v2.1.6 PHOENIX Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
 ![20240618_204146](https://github.com/M7OCM/890/assets/128899149/3e4a4532-8092-4c5f-9420-063d69af6e3a)
 
-Back to basics... files herein supercede all previous versions released (OEFWCOM - M7OCM v1.0-1.9 and v2.0.0-2.1.5 bins) totally reworked firmware, ironed out a lot of weird bugs including battery voltage not updating if unit left on continuously.
+Back to basics... files herein supercede all previous versions released (OEFWCOM - M7OCM v1.0-1.9 and v2.0.0-2.1.5 bins) ironed out a lot of weird bugs including battery voltage not updating if unit left on continuously.
 
-This is a personal project only for my use I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (jk). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version from the freely available open source files at OEFW or OEFWCOM.
+This is a personal project for my use primarily. Unfortunately I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available via the links below.
+
+[OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+
+[DualTachyon OEFW UV-K5/RT-890](https://github.com/dualtachyon)
 
 **LATEST April 2024**
 
@@ -191,7 +201,6 @@ OEFWCOM is an ongoing development project by enthusiasts, in their own time and 
 [Telegram RT890 OEFW](https://t.me/RT890_OEFW)
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
-
 
 ## OEFW/OEFWCOM
 
