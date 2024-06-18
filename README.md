@@ -165,7 +165,6 @@ The default border color used is grey (33808). The code change can be made in Ch
 
 - TX 2m/70cm officially, plus various VHF/UHF bands 136-470 MHz. Output varies by band: 2-6W generally on High; max 3.6W on Low power - all figures approx - your mileage may vary 💀 CAUTION do not TX outside of chip specification, it could destroy your radio and/or breach your country of residence radio communications laws/license agreement 💀
 
-
 - 0.01K to 5 MHz steps
 - 999 channel memory
 - (N/W)FM, (N/W)AM and SSB (SB) (LSB/USB) modulation
@@ -187,7 +186,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - Reworked scan functionality
  - 8 Scan lists plus scan all
  - Faster scanning - max limited otherwise it breaks things
- - Resume mode: Time, Carrier, No resume
+ - Resume mode: Time/TO (5s), Carrier/CO (3s), No resume/SE
  - Change scan direction while scanning (up/down keys)
  - Force scan resume (up/down keys)
 - Reworked main-sub menu system, renamed items
