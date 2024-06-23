@@ -8,6 +8,8 @@ For new PCB 2.1 models see [here](https://github.com/M7OCM/890-II)
 
 v2.1.7 is currently being evaluated. Release TBA
 
+![20240623_160515](https://github.com/M7OCM/890/assets/128899149/a6059ea7-b679-45c9-931c-673f2019d232)
+
 [Source files v2.0.0+](https://github.com/M7OCM/890/tree/source)
 
 [Compiled bin files](https://github.com/M7OCM/890/tree/binary)
