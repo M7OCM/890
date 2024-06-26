@@ -4,7 +4,12 @@ Info herein is WIP 18 June 2014
 
 890-I PCB 2.0 Only (pre Radtel OEM FW V37 PCB 2.1)
 
-For new PCB 2.1 models see [here](https://github.com/M7OCM/890-II)
+For new PCB 2.1 model see [here](https://github.com/M7OCM/890-II)
+
+![20240626_142516]
+(https://github.com/M7OCM/890/assets/128899149/7d2a7eb4-2bd7-4ea1-b394-b2c91c06da98)
+Note latest OEM firmware 
+/hardware version.
 
 v2.1.7 is currently being evaluated. Release TBA
 
