@@ -18,8 +18,6 @@ v2.1.7 is currently being evaluated. Releasing soon for PCB 2.0.
 
 M7OCM v2.1.6 PHOENIX Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
-![20240618_204146](https://github.com/M7OCM/890/assets/128899149/3e4a4532-8092-4c5f-9420-063d69af6e3a)
-
 Back to basics... files herein supercede all previous versions released (OEFWCOM - M7OCM v1.0-1.9 and v2.0.0-2.1.5 bins) ironed out a lot of weird bugs including battery voltage not updating if unit left on continuously.
 
 This is a personal project for my use primarily. Unfortunately I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available via the links below.
