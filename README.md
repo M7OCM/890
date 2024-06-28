@@ -8,33 +8,25 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 Note latest OEM firmware 
 /hardware version not compatible with firmware on this repo.
 
-v2.1.7 is currently being evaluated. Releasing soon for PCB 2.0.
-
 ![20240623_160515](https://github.com/M7OCM/890/assets/128899149/a6059ea7-b679-45c9-931c-673f2019d232)
 
 [Source files v2.0.0+](https://github.com/M7OCM/890/tree/source)
 
 [Compiled bin files](https://github.com/M7OCM/890/tree/binary)
 
-M7OCM v2.1.6 PHOENIX Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+**LATEST
 
-Back to basics... files herein supercede all previous versions released (OEFWCOM - M7OCM v1.0-1.9 and v2.0.0-2.1.5 bins) ironed out a lot of weird bugs including battery voltage not updating if unit left on continuously.
+M7OCM v2.1.7 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+
+1 bin file for PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the Binary branch.
+
+UI changes, channel digits moved to more appropriate place, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files). The 2.0 PCB differs from the 2.1 PCB (and I expect more changes to 2.1 independant of this model). With that in mind there is no makefile compile option to switch between hardware changes. Of course anyone can change this should they wish for experimentation.
 
 This is a personal project for my use primarily. Unfortunately I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available via the links below.
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
 [DualTachyon OEFW UV-K5/RT-890](https://github.com/dualtachyon)
-
-**LATEST April 2024**
-
-3 bin files: Fast, Intermediate and Slow - referring to the scan/search speed which determines squelch opening during VFO search and tone squelch operation.
-
-- Fast, reliable scan, no search or tone squelch opening/detection - speed is too fast for some of the radio search options, useful only for fast channel scanning
-
-- Intermediate, reliable scan, reliable search, less reliable tone squelch opening, good choice for most users
-
-- Slow, actually stock performance, reliable scan, search and tone detection. When RX/TX "tone squelch" detection is essential (not to be confused with TX only ham repeater tones that works in all versions)
 
 **Default Keys**
 
@@ -51,10 +43,10 @@ The following keypad keys are all LP
 - [2] Modulation
 - [3] Bandwidth
 - [4] TX Power
-- [5] RF Gain (change to AM Fix if preferred)
+- [5] RF Gain
 - [6] Dual Standby
 - [7] Repeater Mode
-- [8] Reg Editor (change to something else if not used)
+- [8] Reg Editor
 - [9] Scan List Add or remove a channel to current scan list
 - [0] FMB
 - [*] Edit TX Freq
@@ -161,7 +153,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-## Features in v2.1.6 PHOENIX
+## Features in v2.1.7 PCB 2.0
 
 - RX is unlocked 10 MHz to 1.3 GHz CAUTION experimental use only. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour.
 
@@ -177,18 +169,18 @@ The default border color used is grey (33808). The code change can be made in Ch
 - PTT BCLO TX during monitor revised, PTT now TX when monitor is open
 - RSSI timer speed reduction to reduce internal RFI caused by SPI (screen) updates
 - Full colour spectrum with control options, views
-- AM Fix ported from 1 of 11's UV-K5 firmware (its back!)
+- AM Fix ported from 1 of 11's UV-K5 firmware
 - RF Gain Control and Register Editor
-- Flashlight Mode (its back!)
-- NOAA Monitor (its back!)
+- Flashlight Mode
+- NOAA Monitor
 - Custom side key and configurable "quick access" keypad keys
 - Clock speed 120 MHz (stock 72 MHz)
 - Display BK4819 AGC Modes/battery voltage registers in single VFO mode
 - Display dBM when receiving (calculation accuracy revised)
 - Reworked scan functionality
  - 8 Scan lists plus scan all
- - Faster scanning - max limited otherwise it breaks things
- - Resume mode: Time/TO (5s), Carrier/CO (3s), No resume/SE
+ - Scan is stock otherwise it breaks things
+ - Resume mode: Time/TO (5.5s), Carrier/CO (2.5s), No resume/SE
  - Change scan direction while scanning (up/down keys)
  - Force scan resume (up/down keys)
 - Reworked main-sub menu system, renamed items
