@@ -1,12 +1,8 @@
 # Modified OEFWCOM Transceiver Firmware for Radtel RT-890 | Ruyage UV58Plus | iradio UV5118Plus
 
-**890-I PCB 2.0 Only (pre Radtel OEM FW V1.37 PCB 2.1)**
+**890-I PCB 2.0 Only**
 
 For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/890-II)
-
-![20240626_142516](https://github.com/M7OCM/890/assets/128899149/7d2a7eb4-2bd7-4ea1-b394-b2c91c06da98)
-Note latest OEM firmware 
-/hardware version not compatible with firmware on this repo.
 
 [Source files v2.0.0+](https://github.com/M7OCM/890/tree/source)
 
@@ -16,11 +12,13 @@ Note latest OEM firmware
 
 M7OCM v2.1.7 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
-1 bin file for PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the Binary branch.
+![20240628_121054](https://github.com/M7OCM/890/assets/128899149/285e6032-7191-469c-b652-544a931a2325)
 
-UI changes, channel digits moved to more appropriate place, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files). The 2.0 PCB differs from the 2.1 PCB (and I expect more changes to 2.1 independant of this model). With that in mind there is no makefile compile option to switch between hardware changes. Of course anyone can change this should they wish for experimentation.
+1 bin file for PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the binary branch.
 
-This is a personal project for my use primarily. Unfortunately I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available via the links below.
+UI changes, channel digits moved to more appropriate location, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files). The 2.0 PCB differs from the 2.1 PCB (and I expect more changes to 2.1 independant of this model firmware). With that in mind there is no makefile compile option to switch between hardware versions. Of course anyone can change this should they wish.
+
+This is a personal project for my use primarily. Unfortunately, I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available via the links below.
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
