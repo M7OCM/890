@@ -10,13 +10,13 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 
 **LATEST**
 
-M7OCM v2.1.7 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+M7OCM v2.1.8 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
 ![20240629_075802](https://github.com/M7OCM/890/assets/128899149/a1825ad8-0101-4fce-be5f-2a7ebda08b4c)
 
-1 bin file for PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the binary branch.
+PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the binary branch.
 
-UI changes, channel digits moved to more appropriate location, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files). The 2.0 PCB differs from the 2.1 PCB (and I expect more changes to 2.1 independant of this model firmware). With that in mind there is no makefile compile option to switch between hardware versions. Of course anyone can change this should they wish.
+AM enhancements, UI changes, channel digits moved to more appropriate location, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files). The 2.0 PCB firmware differs from the 2.1 PCB firmware (and I expect more changes to 2.1 independant of this model firmware). With that in mind there is no makefile compile option to switch between hardware versions. Of course anyone can change this should they wish.
 
 This is a personal project for my use primarily. Unfortunately, I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available via the links below.
 
@@ -39,7 +39,7 @@ The following keypad keys are all LP
 - [2] Modulation
 - [3] Bandwidth
 - [4] TX Power
-- [5] RF Gain
+- [5] AM Fix
 - [6] Dual Standby
 - [7] Repeater Mode
 - [8] Reg Editor
@@ -74,7 +74,6 @@ SP [#] switch between VFO-CH mode
 **Register Editor**
 
 Press key 8 LP and Register Editor will launch, showing the current register values. The register currently being edited will display in large font.
-
 
 - [Up] Move editor to next register
 - [Down] Move to previous register
@@ -128,7 +127,7 @@ Note. When entering a 8.333kHz frequency in Chirp, this needs to be entered in i
 
 **FM Broadcast (FMB)**
 
-Default [0/FM], toggle FMB On/FMB Idle. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby via menu, and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool!
+Default [0/FM], toggle FMB On/FMB Idle. The 4 digit FM frequency now appears in the upper left part of the status bar. It works the same as stock just without the garbage graphics. Turn on FM Standby via menu, and you can listen to FMB while scanning/searching. When a signal is present the FM radio will mute, then continue until another signal appears - pretty cool! Note using the FMB after Spectrum may result in poor reception, no reception or work as normal, this is generally linked to specfic bands such as 440 MHz (probably many more). Open squelch to reset chip registers usually works, reboot, or select scan then FMB. This is a known issue. The radio uses a dedicated FMB chip not the BK4819. Resetting the latter clears any issues though.
 
 To clear the idle frequency, press [0/FM] or [PTT] then [MENU].
 
@@ -149,7 +148,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-## Features in v2.1.7 PCB 2.0
+## Features in v2.1.8 PCB 2.0
 
 - RX is unlocked 10 MHz to 1.3 GHz CAUTION experimental use only. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour.
 
@@ -165,7 +164,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - PTT BCLO TX during monitor revised, PTT now TX when monitor is open
 - RSSI timer speed reduction to reduce internal RFI caused by SPI (screen) updates
 - Full colour spectrum with control options, views
-- AM Fix ported from 1 of 11's UV-K5 firmware
+- AM Fix ported from 1 of 11's UV-K5 firmware (modified by me)
 - RF Gain Control and Register Editor
 - Flashlight Mode
 - NOAA Monitor
