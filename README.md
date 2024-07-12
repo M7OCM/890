@@ -12,7 +12,7 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 
 M7OCM v2.1.8 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
-![20240629_075802](https://github.com/M7OCM/890/assets/128899149/a1825ad8-0101-4fce-be5f-2a7ebda08b4c)
+![20240712_155609](https://github.com/user-attachments/assets/b605e3be-6fbc-42fb-bfd8-c8cc5422fbef)
 
 PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the binary branch.
 
