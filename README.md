@@ -181,7 +181,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - Reworked main-sub menu system, renamed items
 - ... bear in mind not all OEFWCOM features are included and some of mine are unique!
 
-Important note, the 10 character name tag font is UPPER CASE English alphanumeric only and limited in special characters/punctuation: . : - = < >
+Important note, the 10 character name tag font is UPPER CASE English alphanumeric only and limited in special characters/punctuation: . : - = < > @ ?
 
 Please note the files herein are two colour themes (light/dark) only, not multiple colour versions that can be switched within the radio menu.
 
