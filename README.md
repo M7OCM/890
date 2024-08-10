@@ -94,6 +94,7 @@ FGC is a manual option - user selects parameters for fine tuning AM signals to p
 - WK Weak signal threshold
 
 AGC 3 Registers used in AM Fix, useful also in FGC mode to determine exact dB reduction/increase set.
+
 Order is LNAS, LNA, MIX, PGA
 
 - 0000 ... -98dB
