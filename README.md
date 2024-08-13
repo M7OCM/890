@@ -12,7 +12,7 @@ M7OCM v2.1.9 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM]
 
 **LATEST**
 
-13 August 2024 v2.1.9 PCB2.0.
+13 August 2024 v2.1.9 PCB 2.0
 
 UI. Light theme colours changed. Some were hard to see when the radio was used outside (not perfect, but hey ho). Signal strength meter split into thirds rather than quarters. Single Freq mode: register display order changed to reflect AM Fix code order (LNAS, LNA, MIX, PGA). BW and WK are tunable separately and on boot are defaulted BW4 WK0, feel free to adjust in either AGC or FGC modes BW2 WK1 are good for fine tuning.
 
