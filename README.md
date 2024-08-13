@@ -9,7 +9,9 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 [Compiled bin files](https://github.com/M7OCM/890/tree/binary)
 
 M7OCM v2.1.9 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
-![20240813_103909](https://github.com/user-attachments/assets/f16080cb-d60a-415a-9bf2-4f15f17fece9)
+![20240813_103909]
+
+(https://github.com/user-attachments/assets/f16080cb-d60a-415a-9bf2-4f15f17fece9)
 
 **LATEST**
 
