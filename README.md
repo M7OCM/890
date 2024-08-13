@@ -8,13 +8,25 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 
 [Compiled bin files](https://github.com/M7OCM/890/tree/binary)
 
+M7OCM v2.1.9 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+
 **LATEST**
 
-M7OCM v2.1.8 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+13 August 2024 v2.1.9 PCB2.0.
+
+UI. Light theme colours changed. Some were hard to see when the radio was used outside (not perfect, but hey ho). Signal strength meter split into thirds rather than quarters. Single Freq mode: register display order changed to reflect AM Fix code order (LNAS, LNA, MIX, PGA). BW and WK are tunable separately and on boot are defaulted BW4 WK0, feel free to adjust in either AGC or FGC modes BW2 WK1 are good for fine tuning.
+
+The register order change makes cross referencing the gain table (see Register Editor below) much easier, especially for users experimenting with FGC (AM Fix off). Incidentally, register changes also work with FM not just AM, although impact is less dynamic as AGC works well on FM.
+
+AM Fix. I've been testing the previous changes I made exclusively for many weeks and I'm pleased with overall performance. There are times when gain fluctuates, noise spikes, and in some instances audio is truncated or quietens. That said for the relatively few instances where the auto gain response is inadequete the vast majority of time, overall listening pleasure is improved, use FGC if you are struggling, or open the squelch, wait a few seconds, to unleash max gain thus realigning AGC. Thats my finding anyway, your experience may well differ. Location and antenna type/gain play a major role in all of this. I've experimented with numerous antennae, but its nigh on impossible to cater for all eventualities - don't expect miracles!
 
 PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the binary branch.
 
-AM enhancements, UI changes, channel digits moved to more appropriate location, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files). The 2.0 PCB firmware differs from the 2.1 PCB firmware (and I expect more changes to 2.1 independant of this model firmware). With that in mind there is no makefile compile option to switch between hardware versions. Of course anyone can change this should they wish.
+Previous version
+
+AM enhancements, UI changes, channel digits moved to more appropriate location, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files).
+
+The 2.0 PCB firmware differs from the 2.1 PCB firmware (and I expect more changes to 2.1 independant of this model firmware). With that in mind there is no makefile compile option to switch between hardware versions. Of course anyone can change this should they wish.
 
 This is a personal project for my use primarily. Unfortunately, I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available via the links below.
 
@@ -247,7 +259,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-## Features in v2.1.8 PCB 2.0
+## Features in v2.1.9 PCB 2.0
 
 - RX is unlocked 10 MHz to 1.3 GHz CAUTION experimental use only. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour.
 
