@@ -12,8 +12,6 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 
 M7OCM v2.1.8 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
-![20240712_155609](https://github.com/user-attachments/assets/b605e3be-6fbc-42fb-bfd8-c8cc5422fbef)
-
 PCB 2.0 only - don't use the PCB 2.1 version! All bin files are now in the binary branch.
 
 AM enhancements, UI changes, channel digits moved to more appropriate location, scan resume times adjusted: carrier 5.5s/time 2.5s. Scan speed reduced to stock as everything works correctly that way. It can be increased by adjusting the countdown times in the firmware (see source files). The 2.0 PCB firmware differs from the 2.1 PCB firmware (and I expect more changes to 2.1 independant of this model firmware). With that in mind there is no makefile compile option to switch between hardware versions. Of course anyone can change this should they wish.
