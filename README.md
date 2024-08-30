@@ -8,15 +8,15 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 
 [Compiled bin files](https://github.com/M7OCM/890/tree/binary)
 
-M7OCM v2.1.9 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
+M7OCM v2.2.0 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
 ![20240813_103909](https://github.com/user-attachments/assets/f16080cb-d60a-415a-9bf2-4f15f17fece9)
 
 **LATEST**
 
-13 August 2024 v2.1.9 PCB 2.0
+30 August 2024 v2.2.0 PCB2.0 Fast scan/search reintroduced, only change from previous version
 
-UI. Light theme colours changed. Some were hard to see when the radio was used outside (not perfect, but hey ho). Signal strength meter split into thirds rather than quarters. Single Freq mode: register display order changed to reflect AM Fix code order (LNAS, LNA, MIX, PGA). BW and WK are tunable separately and on boot are defaulted BW4 WK0, feel free to adjust in either AGC or FGC modes BW2 WK1 are good for fine tuning.
+v2.1.9 PCB2.0 UI. Light theme colours changed. Some were hard to see when the radio was used outside (not perfect, but hey ho). Signal strength meter split into thirds rather than quarters. Single Freq mode: register display order changed to reflect AM Fix code order (LNAS, LNA, MIX, PGA). BW and WK are tunable separately and on boot are defaulted BW4 WK0, feel free to adjust in either AGC or FGC modes BW2 WK1 are good for fine tuning.
 
 The register order change makes cross referencing the gain table (see Register Editor below) much easier, especially for users experimenting with FGC (AM Fix off).
 
@@ -261,7 +261,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-## Features in v2.1.9 PCB 2.0
+## Features in v2.2.0 PCB 2.0
 
 - RX is unlocked 10 MHz to 1.3 GHz CAUTION experimental use only. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour.
 
@@ -287,7 +287,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - Display dBM when receiving (calculation accuracy revised)
 - Reworked scan functionality
  - 8 Scan lists plus scan all
- - Scan is stock otherwise it breaks things
+ - Scan speed is maxed out faster than stock (works in search too)
  - Resume mode: Time/TO (5.5s), Carrier/CO (2.5s), No resume/SE
  - Change scan direction while scanning (up/down keys)
  - Force scan resume (up/down keys)
