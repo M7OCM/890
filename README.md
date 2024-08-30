@@ -244,15 +244,15 @@ Order is LNAS, LNA, MIX, PGA
 - 3737 ...  0dB
 
 **Main Menu Order**
-- 1	StartupLogo
-- 2	CellVoltage
-- 3	StartupTone
-- 4	StartupText
-- 5	VoicePrompt
-- 6	KeyBeep
-- 7	TXTone
-- 8	DualDisplay
-- 9	TXPriority
+-  1	StartupLogo
+-  2	CellVoltage
+-  3	StartupTone
+-  4	StartupText
+-  5	VoicePrompt
+-  6	KeyBeep
+-  7	TXTone
+-  8	DualDisplay
+-  9	TXPriority
 - 10	PowerSave
 - 11	FreqStep
 - 12	SquelchLevel
