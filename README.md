@@ -350,8 +350,8 @@ Chirp Next instructions: Open in Developer mode, restart, load module (a modifie
 
 2 driver files available, latest is chirp-next-radtel-rt-890-m7ocm.py Download/upload to radio use:
 
--- Vendor: Radtel, Model: RT-890 M7OCM
--- Vendor: Ruyage, Model: UV58Plus (older version)
+- Vendor: Radtel, Model: RT-890 M7OCM
+- Vendor: Ruyage, Model: UV58Plus (older version)
 
 The Chirp driver is a WIP. 8.333kHz channels can be entered and saved as can any frequency in the range 10MHz to 1.3GHz. All modulation modes. Scan Lists can be modified. Border colour can be changed and basic radio functions adjusted. Not all key actions save however. A key reset Menu #67 after upload fixes that. I reccomended making copies of data files on a regular basis just in case a file becomes corrupted which may happen when switching between different firmware versions (latest always works).
 
