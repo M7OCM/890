@@ -14,7 +14,9 @@ M7OCM v2.2.0 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM]
 
 **LATEST**
 
-30 August 2024 v2.2.0 PCB2.0 Fast scan/search reintroduced, only change from previous version
+02 September 2024 v2.2.1 PCB2.0 Dialog box size, position, less obtrusive.
+
+v2.2.0 PCB2.0 Fast scan/search reintroduced, only change from previous version.
 
 v2.1.9 PCB2.0 UI. Light theme colours changed. Some were hard to see when the radio was used outside (not perfect, but hey ho). Signal strength meter split into thirds rather than quarters. Single Freq mode: register display order changed to reflect AM Fix code order (LNAS, LNA, MIX, PGA). BW and WK are tunable separately and on boot are defaulted BW4 WK0, feel free to adjust in either AGC or FGC modes BW2 WK1 are good for fine tuning.
 
@@ -380,7 +382,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - 7 1650Hz
 - 8 1700Hz
 
-## Features in v2.2.0 PCB 2.0
+## Features in latest version PCB 2.0
 
 - RX is unlocked 10 MHz to 1.3 GHz CAUTION experimental use only. BK4819 (useable) RX is approx 50-600 MHz; Reception outside of this range is possible but not guaranteed; radio may also exhibit erratic behaviour.
 
@@ -397,6 +399,7 @@ The default border color used is grey (33808). The code change can be made in Ch
 - RSSI timer speed reduction to reduce internal RFI caused by SPI (screen) updates
 - Full colour spectrum with control options, views
 - AM Fix ported from 1 of 11's UV-K5 firmware (modified by me)
+- DTMF/FSK dialog operation is now dual mode only, no FSK ID/DTMF decode dialog box in single/register screen
 - RF Gain Control and Register Editor
 - Flashlight Mode
 - NOAA Monitor
