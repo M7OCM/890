@@ -16,7 +16,7 @@ M7OCM v2.2.0 PCB 2.0 Firmware based on Open Edition Firmware Community [OEFWCOM]
 
 **LATEST**
 
-29 October 2024 v2.2.2 PCB2.0 filter range change from 240 Mhz to 280 MHz, ui various/menu renames, user interfacing - added functional stability, fixes, minor code clean up.
+29 October 2024 v2.2.2 PCB2.0 filter range change from 240 MHz to 280 MHz, ui various/menu renames, user interfacing - added functional stability, fixes, minor code clean up.
 
 v2.2.1 PCB2.0 Dialog box size, position, less obtrusive.
 
