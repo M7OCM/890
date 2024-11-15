@@ -10,7 +10,7 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 
 M7OCM v2.2.0+ PCB 2.0 Firmware based on Open Edition Firmware Community.
 
-This is a personal project for my use primarily. Unfortunately, I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available here:
+This is a personal project for my use primarily with emphasis on VHF/UHF airband monitoring. Unfortunately, I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available here:
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
