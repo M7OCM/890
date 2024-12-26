@@ -20,7 +20,9 @@ This is a personal project for my use primarily with emphasis on VHF/UHF airband
 
 **LATEST**
 
-23 November 2024 2 bin files: v2.2.4Q and v2.2.4X both for PCB2.0. Q = Spectrum Auto Light; X = Standard light always on. Both versions updated with newer widescreen spectrum and code clean.
+26 December 2024 v2.2.5X for PCB2.0. A fix for a fix! DCS fixed again lol
+
+v2.2.4Q and v2.2.4X both for PCB2.0. Q = Spectrum Auto Light; X = Standard light always on. Both versions updated with newer widescreen spectrum and code clean.
 
 ![20241123_233645](https://github.com/user-attachments/assets/a545f939-0e72-4c60-810c-228d78178782)
 
