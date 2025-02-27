@@ -20,6 +20,8 @@ This is a personal project for my use primarily with emphasis on VHF/UHF airband
 
 **LATEST**
 
+February 2025
+
 I have ended RT-890 firmware development on github, but the code will remain open for further development.
 
 The first official and potentially final firmware release v3.0 is only available from [radtels.com](https://www.radtels.com/pages/software-download)
