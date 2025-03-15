@@ -4,7 +4,7 @@ Please read first...
 
 Marcus [(Nicsure)](https://github.com/nicsure/RT-890-custom-firmware) recently commenced firmware development of the venerable RT-890 PCB1/2. So I highly recommend checking out his work, on here, Facebook, YouTube etc for news and improvements akin to the Tid Radio mod (hopefully).
 
-I've been associated with this open project since October 2023, but I am no longer involved. It is pleasing to see a very experienced developer take the plunge with what has been a challenging experience 😉
+I've been associated with this open project since October 2023, but I am not actively involved on a daily basis. It is pleasing to see a very experienced developer take the plunge with what has been a challenging radio 😉
 
 It was always a personal project and shared as is, an alternative version to OEFWCOM if you like. I have no background in firmware development or C and learnt a lot from the original OEFWCOM coders and Dual Dual Tachyon's live late night Telegram messages when the reverse engineering and cursing took place. All credit to him, was a blast mate.
 
@@ -20,7 +20,7 @@ For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/
 
 M7OCM v2.2.0+ PCB 2.0 Firmware based on Open Edition Firmware Community.
 
-This is a personal project for my use primarily with emphasis on VHF/UHF airband monitoring. Unfortunately, I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available here:
+Unfortunately, I cannot accomodate feature requests due to time constraints - this is just a hobby I do for fun (joke). Its "as is". If you don't like it, or it doesn't perform to your expectations don't use it or join forces - fork your own version, modify mine or start from scratch; code freely available here:
 
 [OEFWCOM](https://github.com/OEFW-community/RT-890-custom-firmware)
 
