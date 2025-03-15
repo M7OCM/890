@@ -30,11 +30,11 @@ This is a personal project for my use primarily with emphasis on VHF/UHF airband
 
 **LATEST**
 
-February 2025
+March 2025
 
-I have ended RT-890 firmware development on github, but the code will remain open for further development.
+The next non github firmware release v3.2 will be available ASAP (PCB 2.1), from [radtels.com](https://www.radtels.com/pages/software-download) All files on this repo should therefore be treated as highly experimental in nature and for testing.
 
-The first official and potentially final firmware release v3.0 is only available from [radtels.com](https://www.radtels.com/pages/software-download)
+Side note. While the firmware enables the frequency range above and below the chip specs don't expect it to RX or TX on CB radio, 6m, 4m, airband (RX only) or TX on anything that isn't 2m/70cm (please check harmonics in all instances). 
 
 26 December 2024 v2.2.5X for PCB2.0. A fix for a fix! DCS fixed again lol
 
