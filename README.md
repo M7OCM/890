@@ -2,18 +2,6 @@
 
 News May 2026 [New custom 890 firmware](https://github.com/M7OCM/mono890)
 
-
-
-
-
-
-
-
-
-
-
-
-
 Old news...
 
 Marcus [(Nicsure)](https://github.com/nicsure/RT-890-custom-firmware) recently commenced firmware development of the venerable RT-890 PCB1/2. So I highly recommend checking out his work, on here, Facebook, YouTube etc for news and improvements akin to the Tid Radio mod (hopefully).
