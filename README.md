@@ -1,12 +1,12 @@
 # Modified OEFWCOM Transceiver Firmware for Radtel RT-890
 
-This repo is not being updated, all new firmware is now [here](https://github.com/M7OCM/mono890)
+This repo is not being updated, all new firmware is now [here.](https://github.com/M7OCM/mono890)
 
 The final full colour v3.2 firmware (m7ocm-v3.2-pcb2.0.bin) has been uploaded as its no longer available on Radtels.com use this over experimental releases on this repo.
 
 **890-I PCB 2.0 Only**
 
-For new PCB 2.1 model firmware/source files see [here](https://github.com/M7OCM/890-II)
+For new PCB 2.1 model firmware/source files see [here.](https://github.com/M7OCM/890-II)
 
 [Source files v2.0.0+](https://github.com/M7OCM/890/tree/source)
 
